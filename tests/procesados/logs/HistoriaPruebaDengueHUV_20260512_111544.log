@@ -1,0 +1,8 @@
+fecha=2026-05-12
+hora=11:15:44
+archivo_entrada=D:\TrabajosPosgrado\ProyectoGrado\DesarrolloSoftware\HerramientaAnonimizadora\tests\aprocesar\HistoriaPruebaDengueHUV.pdf
+estado=ok
+tiempo_preprocesamiento=8.8367
+tiempo_anonimizacion=15.5561
+tiempo_filtrado=17.9805
+tiempo_total=42.3738

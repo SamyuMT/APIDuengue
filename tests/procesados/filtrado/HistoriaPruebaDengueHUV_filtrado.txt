@@ -1,0 +1,2134 @@
+EXAMEN FÍSICO
+Escala del dolor: 0
+Examen Físico:
+Aspecto general
+Aspecto general : Normal. Resultado
+Negativo Interpretación: Se presenta esfuerzo respiratorio espontáneo. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Dosis: 1. Examen Físico:
+Aspecto general
+Aspecto general : Normal. Descripción del procedimiento: PRUEBA. fs-2,UNIDAD,1
+Fecha: [DATE] 10:59
+Evolución médica - MEDICINA GENERAL
+Subjetivo: PACIENTE CON DENGUE
+Objetivo: ESTABLE, FIEBRE, MILGIAS, DOLOR RETROOCULAR
+NS1 POSITIVO
+Análisis: PACIENTE CON DENGUE
+Plan de manejo: LABORATORIOS
+Justificación de permanencia en el servicio: [HOSPITAL] CLINICA DEL PACIENTE
+Nota aclaratoria
+Fecha: [DATE] 11:10
+efkhwekgf2ewugf,cgrewliufg23lqewfg23qwef23grl
+Firmado por: [RESPONSABLE]
+Código Descripción del diagnóstico Tipo Estado
+A90X FIEBRE DEL DENGUE [DENGUE CLASICO] Relacionado Confirmado
+[LOCATION] TRASTORNOS DE LA ARTICULACION TEMPOROMAXILAR- Izquierda Principal Confirmado
+[LOCATION] HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR- Izquierda Relacionado Confirmado
+[LOCATION] HERIDA DEL [HOSPITAL] Relacionado Confirmado
+[HOSPITAL] TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA Relacionado En Estudio
+Código Descripción del procedimiento Total
+CUPS
+[ID] [LOCATION] 1
+[ID] FRENILLECTOMIA LABIAL VIA ABIERTA 1
+[ID] INSERCION DE TUBO ENDOTRAQUEAL CON TECNICA RETROGRADA (51) 1
+[ID] MASAJE CARDIACO A TORAX CERRADO 1
+[ID] [LOCATION] DE PUNTO LAGRIMAL SIMPLE 1
+[ID] SUTURA DE HERIDA EN NARIZ 1
+[ID] SUTURA DE LACERACION DE PABELLON AURICULAR 1
+[ID] SUTURA PROFUNDA DE HERIDA UNICA DE PARPADO 2
+Fecha Descripción Interpretación
+[DATE] 00:00 Criptonita en sangre Clasificación del examen: Anormal Interpretación: Positivo
+para criptonitemia
+[DATE] 00:00 ADAMANTIUM EN SANGRE Clasificación del examen: Anormal Interpretación: POSITIVO
+PARA [HOSPITAL] electrónicamente Documento impreso al día [DATE] 11:05:19
+
+--- Página 76 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 76 de 80
+RESUMEN DE LA ATENCIÓN DEL PACIENTE, DIAGNÓSTICOS Y TRATAMIENTO
+CUPS Medicina transfusional
+[HOSPITAL] ROJOS
+Especialidades tratantes MEDICINA GENERAL, PERIODONCIA
+Especialidades interconsultantes DONACION DE ORGANOS Y TEJIDOS, NUTRICIONISTA CLINICA, PSICOLOGIA
+Especialidades de apoyo CIRUGIA DE MAMA Y TUMORES DE T, CIRUGIA GASTRO ONCOLOGICA, CIRUGIA ONCOLOGICA,
+[HOSPITAL] Y OBSTETRICIA, MEDICINA GENERAL, PSICOLOGIA
+Tipo de tratamiento recibido durante la estancia Médico X Quirúrgico X
+INFORMACIÓN DEL EGRESO
+4In4c0a0p0a1c5i1dad:
+Fecha de inicio de la incapacidad: [DATE]
+Fecha de terminación de la incapacidad: [DATE]
+Días de incapacidad: 1
+Diagnóstico principal de egreso
+Código Descripción del diagnóstico Estado
+[HOSPITAL] TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA En Estudio
+Remitido a otra IPS: No
+Servicio de egreso: URGENCIAS
+Fecha y hora: [DATE] 15:07
+Médico que elabora el egreso: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Médico que elabora la epicrisis: KARYNA [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:19
+
+--- Página 77 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 77 de 80
+REPORTE DE CIRUGíA
+Fecha: [DATE] 17:10 - Ubicación: CONSULTORIOS URGENCIAS
+Información del acto quirúrgico - MEDICINA GENERAL
+Procedimientos a realizar: [ID] [LOCATION] de punto lagrimal simple. Observaciones: PRUEBA
+Desconocida: Si. Observaciones: PRUEBA
+Desconocida: Si. Observaciones: PRUEBA
+Desconocida: Si. Observaciones: PRUEBA
+Desconocida: Si. Observaciones: PRUEBA
+Desconocida: Si. Observaciones: PRUEBA
+Desconocida: Si. Observaciones: PRUEBA
+Desconocida: Si. Observaciones: PRUEBA
+Desconocida: Si. Observaciones: PRUEBA
+Desconocida: Si. Observaciones: PRUEBA
+Desconocida: Si. 8
+-Hemograma: leuc:9300, neut:73%, hb:12. Vigilando la aparicion o no de movimientos respiratorios toracicos y/o abdominales durante el tiempo de desconexión calculado: No
+g. Cronometrar el tiempo calculado para elevación de la PCO2 y suspender según el mismo: No
+h. Tomar GSA al finalizar el tiempo: No
+i. Reconectar al ventilador, oxigenar al 100% por 10 min y volver a pautar la ventilación mecánica como estaba previo al inicio del test de
+apnea: No. [PHONE] , CC [PHONE]
+[DATE] 06:46
+- CANCELADO Interna/hospitalización - [ID] Terapia Respiratoria Integral ordenada el día [DATE] a las 16:43
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. Índice cardiotorácico conservado. Observaciones: PRUEBA. Observaciones: PRUEBA. Observaciones: PRUEBA. Observaciones: PRUEBA. Observaciones: prueba. Observaciones: prueba. Observaciones: prueba. Observaciones: prueba. [PHONE] , CC [PHONE]
+[DATE] 06:45
+- CANCELADO Interna/hospitalización - [ID] Terapia Respiratoria Integral ordenada el día [DATE] a las 16:43
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. Sistema cardiovascular: PRUEBA. EXAMEN FÍSICO
+Frecuencia cardíaca(Lat/min): 100
+Peso(Kg): 72 Talla(cm): 170 Superficie corporal(m2): 1. EDUCACIÓN
+Plan educativo: IUDLFQBWELFBQLWGB
+El paciente y el cuidador responden la evaluación. [ID] , CC [ID]
+[DATE] 11:04
+- Interna/hospitalización - [ID] Dengue Anticuerpos Ig G, para realizar el día [DATE] a las 11:04
+- Interna/hospitalización - [ID] Dengue Anticuerpos Ig M, para realizar el día [DATE] a las 11:04
+- Interna/hospitalización - [ID] Dengue Anticuerpos Totales, para realizar el día [DATE] a las 11:04
+Firmado por : KARYNA [PERSON] [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. Valoración preanestésica
+6. Descripción operatoria: PRUEBA. Descripción operatoria: PRUEBA. Examen físico
+Aspecto general
+- Aspecto general: Normal. Procedimientos después de la nota: [ID] - [ID] Masaje Cardiaco a Torax Cerrado, Cantidad 1, Principal No. [DATE] - TAC DE ABDOMEN Y PELVIS CON CONTRASTE
+Engrosamiento parietal [PERSON] de la región fúndica corporal del estómago con espesores hasta de 28 mm. No se evidencian realces patológicos post-contraste. No se evidencian realces patológicos post-contraste. No se evidencian realces patológicos post-contraste. No se evidencian realces patológicos post-contraste. No se evidencian realces patológicos post-contraste. No se evidencian realces patológicos post-contraste. No se evidencian realces patológicos post-contraste. No se evidencian realces patológicos post-contraste. [DATE] EVDA + Clínica [PERSON] del Medio Tumaco. Datos clínicos: PRUEBA. Datos clínicos: PRUEBA. Datos clínicos:
+prueba. Datos clínicos:
+prueba. Datos
+clínicos: prueba. Datos
+clínicos: prueba. Datos clínicos: prueba. Datos clínicos: prueba. Datos clínicos: PRUEBA. Datos clínicos: PRUEBA. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: Esto es una prueba de
+funcionamiento del aplicativo. [PHONE] , CC [PHONE]
+[DATE] 16:37
+- Interna/hospitalización - [ID] Virus De Inmunodeficiencia Humana 1 Y 2 Anticuerpos, para realizar el día [DATE] a las 08:38
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. distensibilidad. Saturación periférica de oxígeno <85% por >30 segundos (Se puede reintentar el test de una válvula de PEEP para 10 cm H2O, and 100%
+O2 12 L/minuto: No
+c. Movimiento respiratorio toracoabdominal: No. Se diligencia consentimiento informado quirúrgico. 9]
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Cara
+Ojos : PRUEBA
+RESULTADOS PARACLÍNICOS
+Análisis de resultados :PRUEBA. Firmado por: [PERSON], M.G. Firmado por: [PERSON], M.G. Anestesia: No
+Procedimientos después de la nota: [ID] - [ID] [LOCATION], Cantidad 1. Anestesia: No
+Procedimientos después de la nota: [ID] - [ID] Masaje Cardiaco a Torax Cerrado, Cantidad 1, Principal No. No
+se evidencia líquido libre ni signos de neumoperitoneo. 5: No
+e. Destapar el tórax y abdomen del paciente: No. Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 5 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 5 de 80
+NOTAS MÉDICAS
+Procedimientos después de la nota: [ID] Masaje Cardiaco a Torax Cerrado. La grasa que lo rodea no muestra líquido ni cambios inflamatorios. La
+grasa que lo rodea no muestra líquido ni cambios inflamatorios. La grasa que lo rodea
+no muestra líquido ni cambios inflamatorios. La grasa que lo rodea no muestra líquido ni cambios inflamatorios. La grasa que lo rodea no muestra líquido ni cambios inflamatorios. La grasa que lo rodea no muestra líquido ni cambios inflamatorios. Personal que participó en [HOSPITAL] médica:
+MEDICO ESPECIALISTA, [PERSON] [PERSON] MORDECAY [PERSON]. Hallazgos: PRUEBA
+Anestesia
+Tipo de anestesia: General
+Procedimientos realizados: C097201 - [ID] [LOCATION] de punto lagrimal simple, Principal Si, [LOCATION], Región Topográfica Cabeza, Clase de
+Herida LIMPIA. Hallazgos: PRUEBA
+Anestesia
+Tipo de anestesia: General
+Procedimientos realizados: C097201 - [ID] [LOCATION] de punto lagrimal simple, Principal Si, [LOCATION], Región Topográfica Cabeza, Clase de Herida LIMPIA. CONCLUSIÓN: VER DESCRIPCIÓN. PLAN DE MANEJO
+Destino del paciente posterior a la reanimación: Hospitalización Se informó a la familia: No
+Cumple criterios de alerta de donación de órganos y/o tejidos: No
+Se realiza llamado al comité de trasplante: No
+Observaciones: PRUEBA. Complicación: No
+Se envía muestra: No
+Equipo de Trabajo:
+MEDICO ESPECIALISTA, [PERSON] OROBIO QUIÑONEZ. No se constata derrame pleural ni pericárdico. LABORATORIOS
+***[DATE]
+-Cr:0. CC. [PHONE]
+Observaciones: PRUEBA. ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto
+tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto
+tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto
+tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto
+tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto
+tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto
+tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto
+tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto
+tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando
+el medicamento? ¿Cuánto
+tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando el medicamento? ¿Cuánto tiempo lleva tomando el medicamento? Hallazgos: PRUEBA
+Procedimientos realizados: C097201 - [ID] [LOCATION] de punto lagrimal simple, Principal Si, [LOCATION], Región Topográfica Cabeza, Clase de Herida LIMPIA. Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 13:05 - Ubicación: CONSULTORIOS URGENCIAS
+Procedimientos - MEDICINA GENERAL
+Consentimiento informado: Lo tiene
+EXAMEN FÍSICO
+Presión arterial (mmHg): 120/80, Presión arterial media(mmhg): 93
+Frecuencia cardíaca(Lat/min): 80 Pulso(Pulsa/min): 80 Lugar toma pulso: Braquial Derecho Frecuencia respiratoria(Respi/min): 12
+Saturación de oxígeno 98%, sin oxígeno Fracción inspirada de oxígeno(%): 21
+Temperatura(°C): 37 Lugar toma temperatura: Frontal Escala del dolor: 0 Estado de conciencia: Glasgow 15/15
+Peso(Kg): 70 Talla(cm): 170 Superficie corporal(m2): 1. Datos clínicos:
+prueba
+Medicamento: Acetaminofen + Codeina 325MG + 15MG Tableta. Datos clínicos:
+prueba
+Medicamento: Acetaminofen + Codeina 325MG + 15MG Tableta. Datos clínicos:
+prueba
+Medicamento: Acetaminofen + Codeina 325MG + 15MG Tableta. Datos clínicos:
+prueba
+Medicamento: Acetaminofen + Codeina 325MG + 15MG Tableta. Datos clínicos:
+prueba
+Medicamento: Acetaminofen + Codeina 325MG + 15MG Tableta. Datos clínicos: prueba
+Medicamento: Acetaminofen + Codeina 325MG + 15MG Tableta. conservada, antro con con eritema. El conducto pancreático no está dilatado. Valoración por nutrición
+4. Está
+conservado el calibre de los grandes vasos mediastinales. 9]
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Cabeza
+Cuero cabelludo : hgjdty
+RESULTADOS PARACLÍNICOS
+Análisis de resultados :gfjdrt. Queda paciente estable, procedimiento sin complicaciones. Parentesco: MADRE
+Material de apoyo: verbal. Senos costofrénicos libres. Lesión de aspecto neoplásico de la unión gastroesofágica [PERSON]
+A. Reporte de [LOCATION] no concluyente. Procedimientos después de la nota: C088401 - [ID] Sutura Profunda De Herida Unica De Parpado, Cantidad 1, Principal Si, [LOCATION]. [PHONE] , CC [PHONE]
+[DATE] 16:46
+- Interna/hospitalización - [ID] [HOSPITAL] medica equipo Interdisciplinario Especializado de 3 a 5 Participantes, para realizar el día [DATE] a las
+16:46
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. HÍGADO: De forma y tamaño conservado, acorde con la edad del paciente. Desconocida: Si. Desconocida: Si. Desconocida: Si. Desconocida: Si. Desconocida: Si. Desconocida: Si. Desconocida: Si. Desconocida: Si. Desconocida: Si. Desconocida: Si. La densidad es homogénea, sin evidencia
+de lesiones focales. La densidad es homogénea, sin evidencia de lesiones focales. La densidad es homogénea, sin evidencia de lesiones focales. La densidad es homogénea, sin evidencia de lesiones focales. PLAN DE MANEJO
+Destino del paciente posterior a la reanimación: Hospitalización Se informó a la familia: No
+Cumple criterios de alerta de donación de órganos y/o tejidos: No
+Se realiza llamado al comité de trasplante: No
+Observaciones: SDFWEqwqw. No se evidencian lesiones
+estenóticas ni oclusivas de los vasos explorados. BAZO: De forma y
+tamaño conservado, acorde con la edad del paciente. 9]
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Cabeza
+Cuero cabelludo : dsfaeg
+RESULTADOS PARACLÍNICOS
+Análisis de resultados :fhbaser. : No
+ANAMNESIS
+Motivo de consulta: PRUEBA
+Enfermedad actual: PRUEBA
+REVISIÓN POR SISTEMAS
+Psiquismo: Normal
+Sistema cardiovascular: PRUEBA
+EXAMEN FÍSICO
+Presión arterial (mmHg): 120/80, Presión arterial media(mmhg): 93
+Frecuencia cardíaca(Lat/min): 80
+Escala del dolor: 3
+Peso(Kg): 75 Talla(cm): 175 Superficie corporal(m2): 1. : No
+ANAMNESIS
+Motivo de consulta: dfahg
+Enfermedad actual: dfhgsre
+REVISIÓN POR SISTEMAS
+Sistema neurológico: Normal
+Psiquismo: dfgbashr
+EXAMEN FÍSICO
+Frecuencia cardíaca(Lat/min): 80
+Escala del dolor: 0
+Peso(Kg): 70 Talla(cm): 170 Superficie corporal(m2): 1. [PHONE] , CC [PHONE]
+[DATE] 10:07
+- Interna/hospitalización - Acetaminofen tableta x 500 mg(2 TABLETA, ORAL, Cada 12 horas, por 24 HORAS), para realizar el día [DATE] a las
+10:07
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. PLAN DE MANEJO
+Cumple criterios de muerte cerebral: No Candidato para rescate de órganos: No
+Se realiza llamado al comité de trasplante: Si Responsable: [RESPONSABLE]
+Observaciones: DSGVAWERGWE4. ANÁLISIS DEL CASO Y PLAN DE MANEJO
+Análisis: PRUEBA
+Plan de manejo: PRUEBA
+Personal que participó en [HOSPITAL] médica:
+MEDICO ESPECIALISTA, [PERSON]. por
+Medicamento: Enalapril tableta x 20 mg. por
+Medicamento: Enalapril tableta x 20 mg. por
+Medicamento: Enalapril tableta x 20 mg. por
+Medicamento: Enalapril tableta x 20 mg. por
+Medicamento: Enalapril tableta x 20 mg. Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 23 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 23 de 80
+NOTAS MÉDICAS
+Fecha: [DATE] 13:00 - Ubicación: CONSULTORIOS URGENCIAS
+Muerte cerebral - MEDICINA GENERAL
+Valoración neurológica: Primera
+Nota de muerte cerebral: XZVC<SD
+EXAMEN FÍSICO
+Escala del dolor: No evaluable
+CONDICIONES CLÍNICAS PREVIAS AL DIAGNÓSTICO
+Estable hemodinámicamente: Si
+Existe hipotermia moderada a severa (temperatura corporal menor a 35°C): No
+Existen alteraciones metabólicas: No
+Existen alteraciones hidroelectrolíticas: No
+Tiene adecuada oxigenación y ventilación: Si
+Existe intoxicación exógena o envenenamiento que comprometa al sistema nervioso central: No
+Existe alteración por medicamentos o sustancia despresora del sistema nervioso central como sedantes, barbitúricos, benzodiacepinas,
+hpnóticos o relajantes musculares: Si Cuáles: CICLOBENZAPRINA
+EVALUACIÓN DE REFLEJOS DEL TRONCO
+Respiración espontánea: Presente
+Reflejo corneal: Presente
+Reflejo fotomotor: Presente
+Reflejo oculocefálico: Presente
+Reflejo nauseoso: Presente
+Reflejo tusígeno: Presente
+Reflejos de búsqueda (menor de 5-10 años): Presente
+Reflejos de succiòn (menor de 5-10 años): Presente
+TEST DE APNEA
+Se realiza test de apnea: No
+Procedimiento
+a. [PHONE] , CC [PHONE]
+[DATE] 12:21
+- CANCELADO Interna/hospitalización - [ID] Terapia Fisica Integral ordenada el día [DATE] a las 16:42
+- CANCELADO Interna/hospitalización - [ID] Terapia Respiratoria Integral ordenada el día [DATE] a las 16:43
+- CANCELADO Interna/hospitalización - [ID] Terapia Respiratoria Integral ordenada el día [DATE] a las 16:43
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. Procedimientos después de la nota: [ID] - [ID] Sutura de laceracion de pabellon auricular, Cantidad 1. No se observan nódulos, masas o áreas de consolidación en ambos [PERSON] pulmonares. No se alcanzan los valores de PaCO2 calculados. PRÓSTATA CON AUMENTO [PERSON] DE SU TAMAÑO. Análisis del caso: Esto es una prueba de funcionamiento del aplicativo. Datos clínicos: PRUEBA
+Medicamento: Levotiroxina sodica tableta x 25 mcg. Datos clínicos: PRUEBA
+Medicamento: Levotiroxina sodica tableta x 25 mcg. Datos clínicos: PRUEBA
+Medicamento: Levotiroxina sodica tableta x 25 mcg. Datos clínicos: PRUEBA
+Medicamento: Levotiroxina sodica tableta x 25 mcg. Datos clínicos: PRUEBA
+Medicamento: Levotiroxina sodica tableta x 25 mcg. Datos clínicos: PRUEBA
+Medicamento: Levotiroxina sodica tableta x 25 mcg. Datos clínicos: PRUEBA
+Medicamento: Levotiroxina sodica tableta x 25 mcg. Datos clínicos:
+PRUEBA
+Medicamento: Levotiroxina sodica tableta x 25 mcg. Cara
+- Ojos: Anormal. [PHONE] , CC [PHONE]
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+[DATE] 16:10 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Con o sin oxígeno No
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:15 [LOCATION] (mmhg) 122
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 94
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:20 [LOCATION] (mmhg) 130
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 49 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 49 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 96
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:20 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Lugar toma PA Miembro
+Superior
+Derecho
+Temperatura (°C) 37
+Frecuencia cardíaca (Lat/min) 80
+Pulso (Pulsa/min) 80
+Frecuencia respiratoria (Respi/min) 12
+Fracción inspirada de oxígeno (%) 24
+Saturación de oxígeno (%) 98
+Con o sin oxígeno Si
+Escala del dolor 3
+Talla (cm) 175
+Peso (Kg) 75
+Superficie corporal (m2) 1.91
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:25 [LOCATION] (mmhg) 125
+[LOCATION] (mmhg) 85
+Presión arterial media (mmhg) 98
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:26 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Frecuencia cardíaca (Lat/min) 80
+Escala del dolor 3
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:30 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 90
+Presión arterial media (mmhg) 100
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:30 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Frecuencia cardíaca (Lat/min) 80
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 50 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 50 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Escala del dolor 3
+Talla (cm) 175
+Peso (Kg) 75
+Superficie corporal (m2) 1.91
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:35 [LOCATION] (mmhg) 110
+[LOCATION] (mmhg) 95
+Presión arterial media (mmhg) 100
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:40 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:46 Escala del dolor 3
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:49 [LOCATION] (mmhg) 90
+[LOCATION] (mmhg) 40
+Presión arterial media (mmhg) 56
+Frecuencia cardíaca (Lat/min) 60
+Frecuencia respiratoria (Respi/min) 10
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:58 Escala del dolor 3
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 17:13 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 17:14 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 17:15 [LOCATION] (mmhg) 120
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 51 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 51 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 17:20 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 07:03 Frecuencia cardíaca (Lat/min) 100
+Talla (cm) 170
+Peso (Kg) 72
+Superficie corporal (m2) 1.84
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable:
+[PERSON], M.G. Objetivo: Se abre folio para formulación. ANÁLISIS DEL CASO Y PLAN DE MANEJO
+Análisis: ewgewr
+Plan de manejo: dsgfawerg
+Personal que participó en [HOSPITAL] médica:
+MEDICO ESPECIALISTA, [PERSON]. 3, HB 11. OTROS PROCEDIMIENTOS
+[DATE] - PARACENTESIS ABDOMINAL
+Descripción del procedimiento: Paciente con tumor de recto, ascitis a tensión con compromiso respiratorio [PERSON]; en el momento necesidad
+urgente de paracentesis evacuatoria y diagnóstica. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada 24
+horas. Frecuencia: Cada 24 horas. Frecuencia:
+Cada 24 horas. Frecuencia: Cada 24 horas. Frecuencia: Cada
+24 horas. Frecuencia: Cada 24
+horas. Análisis del caso: Se abre folio para formulación. Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 32 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 32 de 80
+NOTAS MÉDICAS
+Temas en los que se educó: [LOCATION], Signos y síntomas de alarma, Tratamiento, Otro. [PHONE] , CC [PHONE]
+[DATE] 15:20
+- Interna/hospitalización - [ID] Hemograma V (Hemoglobina, Hematocrito, Recuento de [PERSON], Indice eritrocitario, [LOCATION], recuento de
+plaquetas e indices plaquetarios morfologia electronica, recuento automatizado de celulas maduras e inmadur, para realizar el día [DATE] a las
+07:39
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. [PHONE] , CC [PHONE]
+[DATE] 15:44
+- Interna/hospitalización - Acetaminofen tableta x 500 mg(1 TABLETA, ORAL, Cada 8 horas, por 24 HORAS), para realizar el día [DATE] a las
+15:44
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. realizar vaciamiento de bolsa recolectora al llenado, continuar manejo por cirugía general y oncología: se solicita interconsultas
+Complicación: No
+Se envía muestra: Si, a: Laboratorio, [LOCATION], Descripción de la muestra: líquido ascítico
+Observaciones: Sin complicaciones. Las estructuras óseas exploradas no evidencian lesiones
+líticas ni blásticas. [ID] , CC [ID]
+[DATE] 14:52
+- Interna/hospitalización - [ID] Hemograma V (Hemoglobina, Hematocrito, Recuento de [PERSON], Indice eritrocitario, [LOCATION], recuento de
+plaquetas e indices plaquetarios morfologia electronica, recuento automatizado de celulas maduras e inmadur, para realizar el día [DATE] a las
+14:52
+Firmado por : [PERSON] , PERIODONCIA , [HOSPITAL]: No. Plan de manejo: Se abre folio para formulación. ANÁLISIS DEL CASO Y PLAN DE MANEJO
+Análisis del caso:, número de recaída:, respuesta al tratamiento: Análisis del caso: Paciente de 65-70 años con lesión de aspecto neoplásico de
+la unión gastroesofágica [PERSON], en estudio, con [LOCATION] previa no concluyente. - Escala ideacion suicida : Total: + 3, Tener encuenta Criterios de exclusión
+-Pacientes menores de [PERSON] (10) años
+-Pacientes con alteración o deterioro neuro cognitivo
+-Pacientes obstétricas
+-Pacientes con manejo o seguimiento instaurado por psiquiatría o psicología
+Diagnósticos activos después de la nota Diagnóstico principal - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA (En
+Estudio), Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION
+PERIOCULAR - Izquierda, [LOCATION] - HERIDA DEL [HOSPITAL] . Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 25 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 25 de 80
+NOTAS MÉDICAS
+Procedimientos después de la nota: [ID] - [ID] Sutura de laceracion de pabellon auricular, Cantidad 1. ANÁLISIS DEL CASO Y PLAN DE MANEJO
+Destino del paciente: Hospitalización
+Consentimiento informado: No requiere
+Antecedentes Farmacológicos
+Nombre
+Medicamento a Datos Genera
+Decisión Medicame Dosis Unidad Vía FrecuenciaDuración
+Conciliar Clínicos Orden
+nto
+Enalapril tableta x 20 Continuar Enalapril 1 TABLETA ORAL Cada 24 4 [HOSPITAL] Esto es una Sí
+mg tableta x 20 horas prueba de
+mg funcionamie
+nto del
+aplicativo. Anestesia: No
+Procedimientos después de la nota: C088401 - [ID] Sutura Profunda De Herida Unica De Parpado, Cantidad 1, Principal Si, [LOCATION] electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 3 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 3 de 80
+NOTAS MÉDICAS
+Equipo de Trabajo:
+MEDICO ESPECIALISTA, [PERSON]. Análisis del caso: Paciente de 65-70 años con lesión de aspecto neoplásico de la unión gastroesofágica [PERSON], en estudio, con
+[LOCATION] previa no concluyente. Complicación: Si
+Descripción de la complicación: [LOCATION] envía muestra: Si a: Laboratorio Descripción de la muestra: DSFWEWE
+Observaciones: sdfvaewgawe. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba de funcionamiento del aplicativo. Observaciones: Esto es una prueba
+de funcionamiento del aplicativo. cuerpo fondo normal, píloro permeable. ANESTESIA SUGERIDA
+Hora de ayuno: 8 Técnica anestésica sugerida: Intravenosa Acepta anestesia sugerida: Si
+Observaciones: a>zxax
+Plan de anestesia: <ZX. Procedimientos realizados
+Procedimiento Cantidad
+[LOCATION] 1
+Requiere detartraje: Si Placa calcificada: Si Placa blanda: Si Pigmentaciones: Si Requiere flúor: No
+Observaciones procedimientos: RE45EUW45EUW45UQ45UQUQ45UQ
+Consentimiento informado: Requiere Lo tiene
+Clasificación del riesgo: Bajo Pronóstico: Favorable
+Destino del paciente: DOMICILIO Plan de tratamiento: Periodoncia Número de citas para completar tratamiento: 2
+Observaciones: [HOSPITAL] por: [RESPONSABLE]
+Fecha: [DATE] 10:59 - Ubicación: INGRESOS URGENCIAS
+Evolución médica - Tratante - MEDICINA GENERAL
+Causa externa: ENFERMEDAD GENERAL
+ANAMNESIS
+Subjetivo: PACIENTE CON DENGUE
+Objetivo: ESTABLE, FIEBRE, MILGIAS, DOLOR RETROOCULAR
+NS1 POSITIVO
+EXAMEN FÍSICO
+Escala del dolor: 2
+RESULTADOS PARACLÍNICOS
+Análisis de resultados :NS1 POSITIVO
+Diagnósticos activos después de la nota Diagnóstico principal - [LOCATION] - TRASTORNOS DE LA ARTICULACION TEMPOROMAXILAR -
+Izquierda, [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR - Izquierda, [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE
+NO ESPECIFICADA (En Estudio), Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL [HOSPITAL],
+A90X - FIEBRE DEL DENGUE [DENGUE CLASICO], Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 7 meses. Laparoscopia de estadificación + omentectomía parcial + lavado peritoneal diagnóstico
+Insumos: Bisturí Harmonico ACE, [PERSON] de 12 mm (3), [PERSON] de 5 mm (3), pistola endoclip 10 mm
+5. Objetivo: Se abre folio administrativo para formulación. Objetivo: Se abre folio administrativo para formulación. Objetivo: Se abre folio administrativo para formulación. Plan de manejo: Esto es una prueba de funcionamiento del aplicativo. --- Página 1 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 1 de 80
+HISTORIA CLÍNICA
+INFORMACIÓN DE LA ATENCIÓN
+INFORMACIÓN GENERAL
+Número de ingreso: 1
+Lugar de nacimiento: [LOCATION], [LOCATION], [LOCATION] Estado civil: SOLTERO Género: Masculino
+Ocupación: [LOCATION]: [PHONE] [HOSPITAL]: [ADDRESS]
+Lugar de residencia:[PERSON], [LOCATION], VALLE DEL CAUCA, [LOCATION]
+DATOS DE LA PERSONA RESPONSABLE DEL PACIENTE
+Nombre completo y apellidos: [PERSON] PRUEBA Parentesco: [LOCATION]: [PHONE]
+DATOS DE LA PERSONA ACOMPAÑANTE DEL PACIENTE
+Nombre completo y apellidos: NO [LOCATION]: [PHONE]
+RESPONSABLE FINANCIERO DE LA ATENCIÓN
+Nombre Tipo de Vinculación
+[RESPONSABLE] EPS SUBSIDIADA
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 2 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 2 de 80
+NOTAS MÉDICAS
+Fecha: [DATE] 16:20 - Ubicación: CONSULTORIOS URGENCIAS
+Triage - MEDICINA GENERAL
+DATOS DE INGRESO
+Condiciones del paciente al ingreso: Otro Cuál: SABROSO El paciente llega: Por sus propios medios
+Aspecto general: Regular Causa externa: LESION POR AGRESION
+Ha presentado síntomas respiratorios: No
+Motivo de consulta: PRUEBA
+Enfermedad actual: PRUEBA
+Revisión por sistemas
+Psiquismo: Normal
+Sistema cardiovascular: PRUEBA
+SIGNOS VITALES
+Presión arterial (mmHg): 120/80, Presión arterial media(mmhg): 93, Lugar toma PA: Miembro Superior Derecho
+Frecuencia cardíaca(Lat/min): 80 Pulso(Pulsa/min): 80 Frecuencia respiratoria(Respi/min): 12
+Saturación de oxígeno 98%, con oxígeno por Canula Nasal Fracción inspirada de oxígeno(%): 24
+Temperatura(°C): 37 Escala del dolor: 3 Glicemia por micrométodo(mg/dl): 100 Estado de conciencia: Glasgow 15/15
+Peso(Kg): 75 Talla(cm): 175 Superficie corporal(m2): 1. Análisis del caso: PRUEBA
+Plan de manejo: PRUEBA
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 15:06 - Ubicación: CONSULTORIOS URGENCIAS
+Nota de antecedentes - MEDICINA GENERAL
+Alérgicos:
+Se adiciona(n) el antecedente:
+N02BB02-metamizol sódico (dipirona)
+Relevantes:
+Se adiciona(n) el antecedente:
+TRASPLANTADO RIÑON 2024
+Patológicos:
+Se modifica(n) el antecedente:
+Diagnóstico: HIPERTENSION ESENCIAL (PRIMARIA) - I10X. Procedimientos después de la nota: C088401 - [ID] Sutura Profunda De Herida Unica De Parpado, Cantidad 1. Observaciones: PRUEBA
+Diagnóstico: ACCIDENTE DE AERONAVE SIN MOTOR NO ESPECIFICADA CON OCUPANTE LESIONADO - [LOCATION]. Observaciones: PRUEBA
+Diagnóstico: ACCIDENTE DE AERONAVE SIN MOTOR NO ESPECIFICADA CON OCUPANTE LESIONADO - [LOCATION]. Se le realizan estudios de extensión sin
+evidencia de enfermedad a distancia, sin embargo con sospecha de enfermedad localmente avanzada por lo cual se indica laparoscopia de
+precisión + omentectomía parcial diagnóstica + lavado peritoneal diagnóstico con lo cual se definirá la conducta oncoquirúrgica. Se le realizan estudios de extensión sin evidencia de enfermedad a distancia, sin embargo con sospecha de
+enfermedad localmente avanzada por lo cual se indica laparoscopia de precisión + omentectomía parcial diagnóstica + lavado peritoneal
+diagnóstico con lo cual se definirá la conducta oncoquirúrgica. Tráquea y bronquios [PERSON] permeables. Enfermedad actual: Esto es una prueba de funcionamiento del aplicativo. [PHONE] , CC [PHONE]
+[DATE] 10:58
+- TERMINADO Interna/hospitalización - [ID] Hemograma V (Hemoglobina, Hematocrito, Recuento de [PERSON], Indice eritrocitario,
+[LOCATION], recuento de plaquetas e indices plaquetarios morfologia electronica, recuento automatizado de celulas maduras e inmadur ordenada
+el día [DATE] a las 09:04
+Firmado por : [PERSON] [PERSON] [PERSON] , ONCOLOGIA CLINICA , [HOSPITAL]: No. Verificación de la comprensión: Evaluación verbal. Observaciones: prueba
+Diagnóstico: DOLOR EN ARTICULACION - M255. Observaciones: prueba
+Diagnóstico: DOLOR EN ARTICULACION - M255. Observaciones: prueba
+Diagnóstico: DOLOR EN ARTICULACION - M255. Observaciones: prueba
+Diagnóstico: DOLOR EN ARTICULACION - M255. PRUEBA
+Signos vitales
+[LOCATION]): 120, [LOCATION]): 80, Presión arterial media(mmhg): 93, Frecuencia cardíaca(Lat/min): 80, Peso(Kg): 75, Talla(cm): 175,
+Índice de masa corporal(Kg/m2): 24.49, Superficie corporal(m2): 1.91
+Diagnósticos al ingreso
+Diagnóstico principal
+[LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR- Izquierda
+Conducta
+PRUEBA
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Antecedentes actualizados en el sistema, para la fecha [DATE]
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:18
+
+--- Página 69 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 69 de 80
+Grupo Descripción
+Alérgicos metamizol sódico (dipirona), tramadol, ibuprofeno
+Relevantes TRASPLANTADO RIÑON 2024, RETENEDORES A LOS 25-30 años
+[HOSPITAL] [HOSPITAL] hace 0-5 años, [PERSON] hace 5-10 años
+Traumatológicos accidente
+Patológicos Fecha de diagnóstico: [DATE]. [PHONE] , CC [PHONE]
+[DATE] 10:05
+- Interna/hospitalización - [LOCATION] tabletas x 500.000 UI(1 TABLETA, ORAL, Cada 24 horas, por 24 HORAS), para realizar el día [DATE] a las
+10:05
+- Interna/hospitalización - Acetaminofen tableta x 500 mg(2 TABLETA, ORAL, Cada 12 horas, por 24 HORAS), para realizar el día [DATE] a las
+10:05
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. [ID] Colgajo Local De Piel Compuesto De Vecindad Entre Cinco A [PERSON] Centimetros Cuadrados. Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:26 - Ubicación: CONSULTORIOS URGENCIAS
+Paciente crítico - Apoyo - MEDICINA GENERAL
+Clasificación del triage: TRIAGE III
+Causa externa: LESION POR AGRESION
+Consentimiento informado: Requiere Lo tiene
+EXAMEN FÍSICO
+Presión arterial (mmHg): 120/80, Presión arterial media(mmhg): 93
+Frecuencia cardíaca(Lat/min): 80
+Escala del dolor: 3
+Hallazgos y manejo
+Hallazgos: PRUEBA
+Manejo: PRUEBA
+Diagnósticos activos después de la nota Diagnóstico principal - CIE10 [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR -
+Izquierda, Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 4 meses. Procedimientos después de la nota: [ID] - [ID] [LOCATION], Cantidad 1. Descripción del procedimiento: se realiza desgaste selectivo en superficie distal marcada con papel de articular .....
+Complicación: No
+Se envía muestra: No
+Observaciones: kjbvlhaedsbefhvwelfhvewl
+Materiales después de la nota: 20107,Seda 4/0 c.a.3/8 circ.16mm cortan. [PHONE] , CC [PHONE]
+[DATE] 14:29
+- Interna/hospitalización - [ID] Aplicacion De Tutores Externos En Tibia O Perone, para realizar el día [DATE] a las 14:29
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. 9]
+Riesgo: Ninguno Sistema nervioso central: Alerta
+Actividad: Tranquilo Contacto ocular: Espontáneo Politrauma: Si
+Traumatismo encéfalo craneano: TEC leve Trauma ortopédico: Si Ventilación: Normal
+Sistema inmune: Normal Conducta: Evaluación médica en la institución
+CLASIFICACIÓN DEL TRIAGE
+Clasificación del triage: TRIAGE III
+Requirió apoyo médico: Si Ingresó atención inicial: Si
+Desea realizar asignación automática de ubicación? No se observa dilatación de la vía biliar intra ni extrahepática. 24 Fr ordenada el día [DATE] a las 17:25
+- Interna/hospitalización - [LOCATION] purpura de 60 mm para cirugia laparoscopica tejido mediano grueso, para realizar el día [DATE] a las
+17:26
+- Interna/hospitalización - [LOCATION] arena de 60 mm para cirugia laparoscopica tejido vascular, para realizar el día [DATE] a las 17:26
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. [LOCATION] - [ID] Frenillectomia Labial Via Abierta, Cantidad 1. [LOCATION] - [ID] Frenillectomia Labial Via Abierta, Cantidad 1. [PHONE] , CC [PHONE]
+[DATE] 10:18
+- CANCELADO Interna/hospitalización - [ID] Monitorizacion intraoperatoria del X par o del nervio laringeo recurrente ordenada el día 12-12-
+2025 a las 10:12
+Firmado por : [PERSON] [PERSON] [PERSON] DELGADO , CIRUGIA ONCOLOGICA , [HOSPITAL]: No. Sana línea a z los 40 c m, pinza a los 40 cm. 5869-92 , CC [ID]
+[DATE] 15:43
+- Interna/hospitalización - Almuerzo - Dieta comun hipoglucida, para realizar el día [DATE] a las 15:43
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. 7%), MONO 420, EOS 220, HTO 37, HB 12. [PHONE] , CC [PHONE]
+[DATE] 17:22
+- Interna/hospitalización - Desayuno - Dieta comun hiposodica hipoglucida, para realizar el día [DATE] a las 17:22
+- Interna/hospitalización - Almuerzo - Dieta comun hiposodica hipoglucida, para realizar el día [DATE] a las 17:22
+- Interna/hospitalización - [PERSON] - Dieta comun hiposodica hipoglucida, para realizar el día [DATE] a las 17:22
+Firmado por : [PERSON] [PERSON] , ENFERMERIA , [HOSPITAL]: No. Descripción del procedimiento: FDHSERH. RIÑÓN IZQUIERDO: De forma, tamaño y posición normal, sin signos de uronefrosis ni
+litiasis. Edad
+al diagnóstico: 60. Edad
+al diagnóstico: 60. Edad al diagnóstico: 60. Edad al diagnóstico: 60. Edad al diagnóstico: 60. Edad al diagnóstico: 60. Edad al diagnóstico: 60. Edad al diagnóstico: 60. Farmacológicos:
+Se modifica(n) el antecedente:
+Medicamento: Enalapril tableta x 20 mg. Farmacológicos:
+Se modifica(n) el antecedente:
+Medicamento: Enalapril tableta x 20 mg. Farmacológicos:
+Se modifica(n) el antecedente:
+Medicamento: Enalapril tableta x 20 mg. No se identifican adenopatías que
+[HOSPITAL] dicho hallazgo. Procedimientos después de la nota: C218101 - [ID] Sutura De Laceracion De Nariz, Cantidad 1, Principal No. Procedimientos después de la nota: C218101 - [ID] Sutura De Laceracion De Nariz, Cantidad 1, Principal No. Plan de manejo: Se abre folio administrativo para formulación. Plan de manejo: Se abre folio administrativo para formulación. Plan de manejo: Se abre folio administrativo para formulación. Análisis del caso: PRUEBA
+Plan de manejo: PRUEBA
+Firmado por: ISABELLA [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Firmado por: [PERSON], MEDICINA INTERNA, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 12:46 - Ubicación: CONSULTORIOS URGENCIAS
+Triage - MEDICINA GENERAL
+DATOS DE INGRESO
+Condiciones del paciente al ingreso: [LOCATION] El paciente llega: Caminando
+Aspecto general: Aceptable Causa externa: LESION POR AGRESION
+Ha presentado síntomas respiratorios: No
+Motivo de consulta: SAFaws
+Enfermedad actual: asdfEG
+Revisión por sistemas
+Sistema neurológico: Normal
+Psiquismo: [LOCATION]
+SIGNOS VITALES
+Presión arterial (mmHg): 120/80, Presión arterial media(mmhg): 93
+Saturación de oxígeno: 98%
+Escala del dolor: 0
+CLASIFICACIÓN DEL TRIAGE
+Clasificación del triage: TRIAGE III
+Requirió apoyo médico: No Ingresó atención inicial: Si
+Desea realizar asignación automática de ubicación? MEDICINA GENERAL, [HOSPITAL], CC [ID]--[HOSPITAL]
+PENDIENTE DE [HOSPITAL]: [DATE] 07:03 - Ubicación: CONSULTORIOS URGENCIAS
+Nota de antecedentes - MEDICINA GENERAL
+Patológicos:
+Se adiciona(n) el antecedente:
+Diagnóstico: HIPERTENSION ESENCIAL (PRIMARIA) - I10X. [LOCATION] a Cirugía hombres
+2. No se observa mucosa gástrica viable. 10, HDL:
+45. CC. [PHONE]
+MEDICO ESPECIALISTA, [PERSON]. Colelitiasis única, sin colecistitis. CC. [ID]
+MEDICO ESPECIALISTA, ILIANA [PERSON] [PERSON] [PERSON]. necesidad de cirugía. Farmacológicos:
+Se adiciona(n) el antecedente:
+Medicamento: Enalapril tableta x 20 mg. Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Edad al diagnóstico: 68 año(s). Observaciones: PRUEBA
+Fecha: [DATE] 16:46
+Evolución médica - MEDICINA GENERAL
+Subjetivo: PRUEBA
+Objetivo: PRUEBA
+Análisis: PRUEBA
+Plan de manejo: PRUEBA
+Justificación de permanencia en el servicio: PRUEBA
+Fecha: [DATE] 16:49
+Código azul - MEDICINA GENERAL
+Duración de las maniobras: 0 - 5 minutos
+Causa probable del evento: Cardiaca
+Masaje cardiaco: Si
+Requirió desfibrilación: No
+Tiempo de retorno de la circulación espontánea: Entre 0 - 5 minutos
+Control de la vía aérea: OtroAnálisis de resultados: PRUEBA
+Cuál: CANULA NASAL
+Observaciones: PRUEBA
+Fecha: [DATE] 16:56
+[HOSPITAL] médica - MEDICINA GENERAL
+Análisis de resultados: PRUEBA
+Análisis: PRUEBA
+Plan de manejo: PRUEBA
+Fecha: [DATE] 16:58
+Procedimientos - MEDICINA GENERAL
+Diagnósticos activos después de la nota Diagnóstico principal - CIE10 [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR - Izquierda
+(Previo, Posterior, Primario). Próstata con
+aumento [PERSON] de su tamaño e impronta vesical. [PHONE] , CC [PHONE]
+[DATE] 16:41
+- Interna/hospitalización - [ID] Procesamiento De La Unidad De [HOSPITAL] Rojos O Eritrocitos Lavados, para realizar el día [DATE] a las
+16:41
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. 24 Fr ordenada el día [DATE] a las 15:25
+- CANCELADO Interna/hospitalización - Pinza aplicadora de clips para laparoscopia de 10 mm ordenada el día [DATE] a las 15:26
+- CANCELADO Interna/hospitalización - Carcasa electrica para [LOCATION] ordenada el día [DATE] a las 15:26
+- CANCELADO Interna/hospitalización - [LOCATION] arena de 60 mm para cirugia laparoscopica tejido vascular ordenada el día [DATE] a las
+15:26
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. Análisis del caso: Se abre folio administrativo para formulación. Análisis del caso: Se abre folio administrativo para formulación. Análisis del caso: Se abre folio administrativo para formulación. Dieta semiblanda
+A. No se
+observan imágenes compatibles con adenomegalias en mediastino, hilios ni en axilas. Firmado por: [PERSON] [PERSON] FARFAN, MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+Firmado por: [PERSON], CIRUGIA GASTRO ONCOLOGICA, [HOSPITAL] 5869-92, CC [ID]
+Fecha: [DATE] 14:14 - Ubicación: CONSULTORIOS URGENCIAS
+Evolución oncológica - MEDICINA GENERAL
+Causa externa: LESION POR AGRESION
+SUBJETIVO: f, fñl, [PERSON]: kvmckvnjkc
+EXAMEN FÍSICO
+Síntomas generales: Asintomática
+Paciente sin oxígeno
+Temperatura(°C): 36. Datos clínicos: prueba
+Medicamento: Losartan tableta x 50 mg. Datos clínicos: prueba
+Medicamento: Losartan tableta x 50 mg. Se explica plan a seguir al paciente quien aduce entender y aceptar. Se explica plan a seguir al paciente quien aduce entender y aceptar. RIÑÓN DERECHO:
+De forma, tamaño y posición normal, sin signos de uronefrosis ni litiasis. ANÁLISIS DEL CASO Y PLAN DE MANEJO
+Análisis: sadcqa
+Plan de manejo: asfc
+Justificación de permanencia en el servicio: awsDQWF
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 12:58 - Ubicación: CONSULTORIOS URGENCIAS
+Código azul - MEDICINA GENERAL
+DESCRIPCIÓN DEL CÓDIGO AZUL
+Estado del paciente: Deterioro clínico
+Orden de reanimación: No
+Sitio de ocurrencia del evento: Hospitalización adultos Persona que detecta el evento: Equipo de salud
+Causa probable del evento: Cardiaca
+SIGNOS VITALES
+Presión arterial (mmHg): 120/80, Presión arterial media(mmhg): 93
+Frecuencia cardíaca(Lat/min): 80 Frecuencia respiratoria(Respi/min): 12 Temperatura(°C): 37 Saturación de oxígeno(%): 98
+Estado de conciencia: Glasgow 15/15
+RESULTADOS PARACLÍNICOS
+Análisis de resultados :DSVSWG
+Diagnósticos activos después de la nota Diagnóstico principal - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA (En
+Estudio), Fecha de diagnostico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION
+PERIOCULAR - Izquierda. [PHONE] , CC [PHONE]
+[DATE] 14:49
+- Interna/hospitalización - [ID] Radiografias Intraorales Periapicales Juego Completo, para realizar el día [DATE] a las 14:49
+- Interna/hospitalización - [ID] Tomografia Computada De Maxilares (Estudio Implantologia), para realizar el día [DATE] a las 14:49
+Firmado por : [PERSON] , PERIODONCIA , [HOSPITAL]: No. Plan de manejo: 1. fs-2, UNIDAD, 1
+Complicación: No
+Se envía muestra: No
+Equipo de Trabajo:
+MEDICO ESPECIALISTA, [PERSON] [PERSON] [PERSON]. Edad al diagnóstico: 67 año(s). Edad al diagnóstico: 67 año(s). Edad al diagnóstico: 67 año(s). Edad al diagnóstico: 67 año(s). Edad al diagnóstico: 67 año(s). Edad al diagnóstico: 67 año(s). Edad al diagnóstico: 67 año(s). Edad al diagnóstico: 67 año(s). Edad al diagnóstico: 67 año(s). Edad al diagnóstico: 67 año(s). ANÁLISIS DEL CASO Y PLAN DE MANEJO
+Destino del paciente: Hospitalización
+Consentimiento informado: Requiere Lo tiene
+Análisis del caso: PRUEBA
+Plan de manejo: PRUEBA
+Observaciones: PRUEBA
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 4 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 4 de 80
+NOTAS MÉDICAS
+Fecha: [DATE] 16:46 - Ubicación: CONSULTORIOS URGENCIAS
+Evolución médica - Apoyo - MEDICINA GENERAL
+ANAMNESIS
+Subjetivo: PRUEBA
+Objetivo: PRUEBA
+EXAMEN FÍSICO
+Escala del dolor: 3
+Examen Físico:
+Aspecto general
+Aspecto general : PRUEBA
+Cara
+Ojos : PRUEBA
+RESULTADOS PARACLÍNICOS
+Análisis de resultados :PRUEBA
+Diagnósticos activos después de la nota Diagnóstico principal - CIE10 [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR -
+Izquierda, Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 4 meses. por
+Fecha de diagnóstico: [DATE]. por
+Fecha de diagnóstico: [DATE]. por
+Fecha de diagnóstico: [DATE]. por
+Fecha de diagnóstico: [DATE]. [PHONE] , CC [PHONE]
+[DATE] 16:34
+- Interna/hospitalización - Ambiente Protector, para realizar el día [DATE] a las 16:34
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. RESULTADOS PARACLÍNICOS
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 24 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 24 de 80
+NOTAS MÉDICAS
+Análisis de resultados :DFHSRTE
+Electroencefalograma: No Angiografía cerebral: Si Angiotac: No Doppler transcraneal: No Angiogammagrafía cerebral: No
+Diagnósticos activos después de la nota Diagnóstico principal - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA (En
+Estudio), Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION
+PERIOCULAR - Izquierda. CC. [ID]
+MEDICO ESPECIALISTA, PETRONIO [PERSON] [PERSON]. PÁNCREAS: De forma y tamaño conservado,
+acorde con la edad del paciente. [PHONE] , CC [PHONE]
+[DATE] 16:36
+- Interna/hospitalización - 90383A Prueba de Gases arteriales en [PERSON] (Incluye gases, glucosa, hematocrito, hemoglobina y calcio ionico), para
+realizar el día [DATE] a las 16:36
+- CANCELADO Interna/hospitalización - [ID] Troponina I Cualitativa ordenada el día [DATE] a las 16:36
+- Interna/hospitalización - [LOCATION] empacada x 5, para realizar el día [DATE] a las 16:36
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. [DATE] - TAC DE TÓRAX CON CONTRASTE
+[HOSPITAL] lesión nodulillar tipo granuloma calcificado en el lóbulo medio. 5869-92 , CC [ID]
+[DATE] 14:27
+- CANCELADO Interna/hospitalización - [ID] Reseccion Segmentaria De Intestino Delgado Via Laparoscopica ordenada el día [DATE] a
+las 14:26
+- CANCELADO Interna/hospitalización - [ID] Anastomosis De Intestino Delgado A Intestino Grueso Via Laparoscopica ordenada el día 09-01-
+2026 a las 14:26
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. [PHONE] , CC [PHONE]
+[DATE] 07:04
+- Interna/hospitalización - Enalapril tableta x 20 mg(1 TABLETA, ORAL, Cada 24 horas, por 4 [HOSPITAL]), para realizar el día [DATE] a las 07:04
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. Análisis del caso: PRUEBA
+Plan de manejo: PRUEBA
+Firmado por: JAVID [PERSON] DE LA [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+Fecha: [DATE] 11:25 - Ubicación: CONSULTORIOS URGENCIAS
+Evolución oncológica - MEDICINA GENERAL
+Causa externa: LESION POR AGRESION
+SUBJETIVO: PRUEBA
+OBJETIVO: PRUEBA
+EXAMEN FÍSICO
+Escala del dolor: 0
+Peso(Kg): 72
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Diagnósticos activos después de la nota Diagnóstico principal - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA,
+Origen: Primario (En Estudio), Fecha de diagnostico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y
+DE LA REGION PERIOCULAR - Izquierda . 0 Escala del dolor: 0
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 11 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 11 de 80
+NOTAS MÉDICAS
+Peso(Kg): 72. 3
+PATOLOGÍAS:
+[DATE] INFORME DE [LOCATION] #41105-2025 + COLCAN + DR. [PERSON] [PERSON] [PERSON] (PATÓLOGO)
+DIAGNÓSTICOS:
+Biopsia gástrica antral:
+Extenso material de úlcera con necrosis, exudado inflamatorio crónico y agudo con haces de colágeno y fibroblastos con proliferación
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 10 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 10 de 80
+NOTAS MÉDICAS
+vascular e hiperplasia endotelial (tejido de granulación). Análisis del caso: PRUEBA
+Plan de manejo: PRUEBA
+Firmado por: [PERSON] [PERSON] AGREDO, MEDICINA GENERAL, [HOSPITAL] [ID]-96, CC [ID]
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 16 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 16 de 80
+NOTAS MÉDICAS
+Fecha: [DATE] 11:06 - Ubicación: CONSULTORIOS URGENCIAS
+Evolución oncológica - MEDICINA GENERAL
+Causa externa: LESION POR AGRESION
+SUBJETIVO: PRUEBA
+OBJETIVO: PRUEBA
+EXAMEN FÍSICO
+Escala del dolor: 0
+Peso(Kg): 72
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Diagnósticos activos después de la nota Diagnóstico principal - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA,
+Origen: Primario (En Estudio), Fecha de diagnostico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y
+DE LA REGION PERIOCULAR - Izquierda . 5869-92 , CC [ID]
+[DATE] 09:01
+- CANCELADO Interna/hospitalización - [ID] Reseccion Segmentaria De Intestino Delgado Via Laparoscopica ordenada el día [DATE] a
+las 08:57
+- CANCELADO Interna/hospitalización - [ID] Anastomosis De Intestino Delgado A Intestino Delgado Via Laparoscopica ordenada el día 14-01-
+2026 a las 08:57
+- CANCELADO Interna/hospitalización - [ID] Omentectomia Parcial Via Laparoscopica ordenada el día [DATE] a las 08:57
+- CANCELADO Interna/hospitalización - [ID] Reseccion De Tumor Maligno En La Pared Abdominal Via Laparoscopica ordenada el día 14-01-
+2026 a las 08:57
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 46 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 46 de 80
+ÓRDENES MÉDICAS
+- CANCELADO Interna/hospitalización - [ID] Exploracion De Arterias Abdominales ordenada el día [DATE] a las 08:57
+- CANCELADO Interna/hospitalización - [ID] Exploracion de Venas Abdominales ordenada el día [DATE] a las 08:57
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. 5869-92 , CC [ID]
+[DATE] 15:25
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 44 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 44 de 80
+ÓRDENES MÉDICAS
+- CANCELADO Interna/hospitalización - Pinza aplicadora de clips para laparoscopia de 10 mm ordenada el día [DATE] a las 14:52
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. Actualmente, paciente estable hemodinámicamente, en buena condición general, afebril, tolerando oxígeno ambiente y vía oral, dolor
+modulado, abdomen depresible y sin signos de irritación peritoneal. Actualmente, paciente estable hemodinámicamente, en buena condición general, afebril, tolerando oxígeno ambiente y vía oral, dolor
+modulado, abdomen depresible y sin signos de irritación peritoneal. Materiales después de la nota: 20107, Seda 4/0 c. a. [PHONE] , CC [PHONE]
+[DATE] 11:06
+- TERMINADO Interna/hospitalización - [ID] [PERSON] En Psiquiatria ordenada el día [DATE] a las 11:05
+Firmado por : [HOSPITAL] CABAL , PSICOLOGIA , [HOSPITAL]: No. Fecha de diagnóstico: [DATE]. Fecha de diagnóstico: [DATE]. Fecha de diagnóstico:
+[DATE]. Fecha de diagnóstico:
+[DATE]. Fecha de diagnóstico: [DATE]. Fecha de diagnóstico: [DATE]. Fecha de diagnóstico: [DATE]. Fecha de diagnóstico: [DATE]. Fecha de diagnóstico: [DATE]. Fecha de diagnóstico: [DATE]. Fecha de diagnóstico: [DATE]. Fecha de diagnóstico: [DATE]. [ID] Lavado Peritoneal Diagnostico Via Laparoscopica. [PHONE] , CC [PHONE]
+[DATE] 14:26
+- CANCELADO Interna/hospitalización - [ID] Aplicacion De Tutores Externos En Tibia O Perone ordenada el día [DATE] a las 14:26
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. [PHONE] , CC [PHONE]
+[DATE] 10:45
+- TERMINADO Interna/hospitalización - [ID] Interconsulta por Psicologia ordenada el día [DATE] a las 10:40
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. CONCLUSIÓN: ENGROSAMIENTO PARIETAL DE ASPECTO NEOFORMATIVO GÁSTRICO, SIN LESIONES ADENOPÁTICAS QUE LO
+[HOSPITAL]. Observaciones: sdfvaewgawe
+Fecha: [DATE] 12:56
+Evolución médica - MEDICINA GENERAL
+Subjetivo: [PERSON]: hgkjd
+Análisis: sadcqa
+Plan de manejo: asfc
+Justificación de permanencia en el servicio: awsDQWF
+Fecha: [DATE] 12:58
+Código azul - MEDICINA GENERAL
+Causa probable del evento: Cardiaca
+Análisis de resultados: DSVSWG
+Observaciones: SDFWEqwqw
+Fecha: [DATE] 13:00
+Muerte cerebral - MEDICINA GENERAL
+Nota de muerte cerebral: XZVC<SD
+Análisis de resultados: DFHSRTE
+Cumple criterios de muerte cerebral: No
+Candidato para rescate de órganos: No
+Observaciones: DSGVAWERGWE4
+Fecha: [DATE] 13:03
+[HOSPITAL] médica - MEDICINA GENERAL
+Análisis de resultados: desga
+Análisis: ewgewr
+Plan de manejo: [PERSON]: [DATE] 13:05
+Procedimientos - MEDICINA GENERAL
+Diagnósticos activos después de la nota [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA (En Estudio), Fecha de diagnóstico:
+[DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR - Izquierda ,Diagnóstico principal -
+[LOCATION] - HERIDA DEL [HOSPITAL] (Previo, Posterior, Primario). 5869-92 , CC [ID]
+[DATE] 10:18
+- CANCELADO Interna/hospitalización - [ID] Colectomia Parcial Con Colostomia O Ileostomia Y Fistula Mucosa Via Laparoscopica ordenada
+el día [DATE] a las 10:14
+- CANCELADO Interna/hospitalización - [LOCATION] De Adherencias Peritoneales Via Laparoscopica ordenada el día [DATE] a las 10:14
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. ANÁLISIS DEL CASO Y PLAN DE MANEJO
+Consentimiento informado: Requiere Lo tiene
+Análisis: PRUEBA
+Plan de manejo: PRUEBA
+Justificación de permanencia en el servicio: PRUEBA
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:49 - Ubicación: CONSULTORIOS URGENCIAS
+Código azul - MEDICINA GENERAL
+DESCRIPCIÓN DEL CÓDIGO AZUL
+Estado del paciente: Deterioro clínico
+Orden de reanimación: Si Hora de inicio de RCP básica: 16:40 Hora de inicio de RCP avanzada: 16:42 Hora de fin de RCP: 16:43
+Inicio de maniobras: Inmediato Duración de las maniobras: 0 - 5 minutos
+Sitio de ocurrencia del evento: Hospitalización adultos Persona que detecta el evento: Equipo de salud
+Causa probable del evento: Cardiaca
+SIGNOS VITALES
+Presión arterial (mmHg): 90/40, Presión arterial media(mmhg): 56
+Frecuencia cardíaca(Lat/min): 60 Frecuencia respiratoria(Respi/min): 10
+Estado de conciencia: Glasgow 15/15
+CONTROL CARDIOVASCULAR Y RESPIRATORIO
+Ritmo cardiaco: Arritmico Masaje cardiaco: Si Tiempo(min): 2
+Requirió desfibrilación: No
+Tiempo de retorno de la circulación espontánea: Entre 0 - 5 minutos
+Control de la vía aérea: Otro Cuál: CANULA NASAL
+RESULTADOS PARACLÍNICOS
+Análisis de resultados :PRUEBA
+Diagnósticos activos después de la nota Diagnóstico principal - CIE10 [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR -
+Izquierda, Fecha de diagnostico: [DATE], Edad al diagnóstico: 65-70 años y 4 meses. [ID] Omentectomia Parcial Via Laparoscopica. 1, hto:36. ANÁLISIS DEL CASO Y PLAN DE MANEJO
+Análisis: PRUEBA
+Plan de manejo: PRUEBA
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 29 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 29 de 80
+NOTAS MÉDICAS
+Justificación de permanencia en el servicio: PRUEBA
+Firmado por: [PERSON] [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+Fecha: [DATE] 14:36 - Ubicación: INGRESOS URGENCIAS
+Nota de antecedentes - MEDICINA GENERAL
+Patológicos:
+Se modifica(n) el antecedente:
+Fecha de diagnóstico: [DATE]. Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:56 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] médica - Tratante - MEDICINA GENERAL
+Tipo de [HOSPITAL]: [HOSPITAL] médica Paciente presente: No
+INFORMACIÓN BÁSICA DE LA [HOSPITAL]
+Motivo de la [HOSPITAL] médica: PRUEBA
+Resumen de la atención: PRUEBA
+RESULTADOS PARACLÍNICOS
+Análisis de resultados :PRUEBA
+Diagnósticos activos después de la nota Diagnóstico principal - CIE10 [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR -
+Izquierda, Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 4 meses. Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:58 - Ubicación: CONSULTORIOS URGENCIAS
+Procedimientos - MEDICINA GENERAL
+Consentimiento informado: Lo tiene
+EXAMEN FÍSICO
+Escala del dolor: 3
+Diagnósticos activos después de la nota Diagnóstico principal - CIE10 [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR -
+Izquierda (Previo, Posterior, Primario). [PHONE] , CC [PHONE]
+[DATE] 10:48
+- TERMINADO Interna/hospitalización - [ID] Interconsulta por Psicologia ordenada el día [DATE] a las 10:39
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. 24 Fr ordenada el día [DATE] a las 10:02
+- CANCELADO Interna/hospitalización - Pinza aplicadora de clips para laparoscopia de 10 mm ordenada el día [DATE] a las 10:02
+- CANCELADO Interna/hospitalización - Carcasa electrica para [LOCATION] ordenada el día [DATE] a las 10:02
+- CANCELADO Interna/hospitalización - [LOCATION] purpura de 60 mm para cirugia laparoscopica tejido mediano grueso ordenada el día [DATE]
+a las 10:02
+- CANCELADO Interna/hospitalización - P00053 Paquete Quirurgico de Esofagectomia Total Via Laparoscopica ordenada el día [DATE] a las
+09:58
+Firmado por : [PERSON] [PERSON] [PERSON] DELGADO , CIRUGIA ONCOLOGICA , [HOSPITAL]: No. [ID] Biopsia Por Laparoscopia De Higado. Datos
+clínicos: prueba
+Medicamento: Nitazoxanida Table x 500 mg. Datos
+clínicos: prueba
+Medicamento: Nitazoxanida Table x 500 mg. Datos
+clínicos: prueba
+Medicamento: Nitazoxanida Table x 500 mg. Datos clínicos: prueba
+Medicamento: Nitazoxanida Table x 500 mg. Análisis del caso: PRUEBA
+Plan de manejo: PRUEBA
+Firmado por: [HOSPITAL], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 11:15 - Ubicación: CONSULTORIOS URGENCIAS
+Evolución oncológica - MEDICINA GENERAL
+Causa externa: LESION POR AGRESION
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 17 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 17 de 80
+NOTAS MÉDICAS
+SUBJETIVO: PRUEBA
+OBJETIVO: PRUEBA
+EXAMEN FÍSICO
+Escala del dolor: 0
+Peso(Kg): 72
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Diagnósticos activos después de la nota Diagnóstico principal - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA,
+Origen: Primario (En Estudio), Fecha de diagnostico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y
+DE LA REGION PERIOCULAR - Izquierda . [PHONE] , CC [PHONE]
+[DATE] 14:19
+- CANCELADO Interna/hospitalización - [ID] Reseccion Segmentaria De Intestino Delgado Via Laparoscopica ordenada el día [DATE] a
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 43 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 43 de 80
+ÓRDENES MÉDICAS
+las 10:15
+- CANCELADO Interna/hospitalización - [ID] Exteriorizacion De Intestino Delgado Via Laparoscopica ordenada el día [DATE] a las 10:15
+- CANCELADO Interna/hospitalización - [ID] Reseccion De Tumor Maligno En La Pared Abdominal Via Laparoscopica ordenada el día 09-01-
+2026 a las 10:43
+- CANCELADO Interna/hospitalización - [ID] Lavado Peritoneal Diagnostico Via Laparoscopica ordenada el día [DATE] a las 10:43
+- CANCELADO Interna/hospitalización - [ID] Omentectomia Parcial Via Laparoscopica ordenada el día [DATE] a las 10:43
+- CANCELADO Interna/hospitalización - [ID] Laparoscopia De Precision ([HOSPITAL]) ordenada el día [DATE] a las 10:43
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. Control de ingesta
+3. 5869-92 , CC [ID]
+[DATE] 15:19
+- Interna/hospitalización - [LOCATION] 1.65 mg/0.165 ml 10 mg /ml 10 MG/ML Jeringa pre llenada(1 MILIGRAMOS, [LOCATION], Dosis Unica,
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 47 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 47 de 80
+ÓRDENES MÉDICAS
+por DOSIS UNICA), para realizar el día [DATE] a las 15:19
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. : No Ubicación: OBSERVACION TRAUMA Servicio: TRAUMA Y REANIMACION
+Impresión diagnóstica: HERIDAS MULTIPLES NO ESPECIFICADOS - T019
+Observaciones: dsgserh
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Enfermedad actual:
+PRUEBA
+Revisión por sistemas:
+Psiquismo: Normal. GLÁNDULAS SUPRARRENALES:
+[LOCATION], de forma y tamaño conservado, acorde con la edad del paciente. [PHONE] , CC [PHONE]
+[DATE] 16:39
+- Interna/hospitalización - [ID] Soporte De Sedacion Para Consulta O Apoyo Diagnostico, para realizar el día [DATE] a las 16:39
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. [ID] Laparoscopia De Precision ([HOSPITAL]). 24 Fr ordenada el día [DATE] a las 07:41
+- CANCELADO Interna/hospitalización - Pinza aplicadora de clips para laparoscopia de 10 mm ordenada el día [DATE] a las 07:41
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 31 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 31 de 80
+NOTAS MÉDICAS
+por
+Fecha de diagnóstico: [DATE]. [PHONE] , CC [PHONE]
+[DATE] 11:44
+- Interna/hospitalización - [LOCATION] a UCI Trasplantes, para realizar el día [DATE] a las 11:46
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. Se realiza barrido ecográfico evidenciando ubicación de [PERSON] mayor hacia el lado derecho inferior, se realiza asepsia y antisepsia con 3
+aplicadores de clorhexidina, se infiltra con 10 cc de lidocaína al 1% en piel y tejido celular subcutáneo, posteriormente se hace incisión de 3
+mm con bisturí #15, se inserta catéter pigtail y se verifica salida de líquido ascítico seroso, 1300 cc. Se conecta a bolsa recolectora, se fija el
+pigtail con adhesivos. 24 Fr ordenada el día [DATE] a las 14:51
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. : No
+ANAMNESIS
+Motivo de consulta: gfndfg
+Enfermedad actual: fgjndsrt
+REVISIÓN POR SISTEMAS
+Sistema neurológico: Normal
+Psiquismo: gjndsrtj
+EXAMEN FÍSICO
+Escala del dolor: 0
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Cabeza
+Cuero cabelludo : fdbdzxf
+RESULTADOS PARACLÍNICOS
+Análisis de resultados :gfn fxg
+Diagnósticos activos después de la nota Diagnóstico de ingreso - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA,
+Origen: Primario (En Estudio), Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y
+DE LA REGION PERIOCULAR - Izquierda . PLAN DE MANEJO
+Estado del paciente: Vivo Cita de control: Si Incapacidad: Si
+Plan de manejo: PRUEBA
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:40 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 120, [LOCATION]): 80, Presión arterial media(mmhg): 93
+Líquidos ingreso : Lactato de Ringer(Ml): 100
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:19
+
+--- Página 78 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 78 de 80
+REPORTE DE CIRUGíA
+Complicaciones : Hubo complicaciones: No
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:35 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 110, [LOCATION]): 95, Presión arterial media(mmhg): 100
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:30 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 120, [LOCATION]): 90, Presión arterial media(mmhg): 100
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:25 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 125, [LOCATION]): 85, Presión arterial media(mmhg): 98
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:20 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 130, [LOCATION]): 80, Presión arterial media(mmhg): 96
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:15 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 122, [LOCATION]): 80, Presión arterial media(mmhg): 94
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:10 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Información General : Tipo de cirugia: Cirugía electiva, Clasificación ASA: 1, Ayuno: Si, Tiempo de ayuno en horas: 8, Protección
+Ocular: Lubricación, Posicion del paciente: Decúbito Supino, Con o sin oxígeno: No, [LOCATION]: No
+Anestesia : Tipo de anestesia: General, Tipo de inducción: [LOCATION] aérea : Clasificación: Fácil, Manejo vía aérea: Máscara laringea, Fugas máscara: Si, Tamaño máscara: 1
+Monitoreos : Pulsometría: Si
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:19
+
+--- Página 79 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 79 de 80
+REPORTE DE CIRUGíA
+Ventilación : Tipo de ventilación: Espontánea
+Signos vitales y otros monitoreos : [LOCATION]): 120, [LOCATION]): 80, Presión arterial media(mmhg): 93
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[HOSPITAL] DE ANESTESIA
+Acto Quirúrgico: 50880 Fecha del acto: [DATE] 17:1 Fecha inicio de anestesia: [DATE] 16:1 Fecha finalización de anestesia: [DATE] 16:4
+Fecha: [DATE] 16:10 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Información General : Tipo de cirugia: Cirugía electiva, Clasificación ASA: 1, Ayuno: Si, Tiempo de ayuno en horas: 8, Protección
+Ocular: Lubricación, Posicion del paciente: Decúbito Supino, Con o sin oxígeno: No, [LOCATION]: No
+Anestesia : Tipo de anestesia: General, Tipo de inducción: [LOCATION] aérea : Clasificación: Fácil, Manejo vía aérea: Máscara laringea, Fugas máscara: Si, Tamaño máscara: 1
+Monitoreos : Pulsometría: Si
+Ventilación : Tipo de ventilación: Espontánea
+Signos vitales y otros monitoreos : [LOCATION]): 120, [LOCATION]): 80, Presión arterial media(mmhg): 93
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:15 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 122, [LOCATION]): 80, Presión arterial media(mmhg): 94
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:20 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 130, [LOCATION]): 80, Presión arterial media(mmhg): 96
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:25 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 125, [LOCATION]): 85, Presión arterial media(mmhg): 98
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:30 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 120, [LOCATION]): 90, Presión arterial media(mmhg): 100
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:19
+
+--- Página 80 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 80 de 80
+REPORTE DE CIRUGíA
+Fecha: [DATE] 16:35 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 110, [LOCATION]): 95, Presión arterial media(mmhg): 100
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:40 - Ubicación: CONSULTORIOS URGENCIAS
+[HOSPITAL] de anestesia - MEDICINA GENERAL
+[HOSPITAL] de anestesia: Signos vitales y otros monitoreos : [LOCATION]): 120, [LOCATION]): 80, Presión arterial media(mmhg): 93
+Líquidos ingreso : Lactato de Ringer(Ml): 100
+Complicaciones : Hubo complicaciones: No
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:19 Farmacológicos Medicamento: Enalapril tableta x 20 mg. : No Ubicación: CONSULTORIOS URGENCIAS Servicio: CONSULTORIOS URGENCIAS
+Impresión diagnóstica: TRAUMATISMOS MULTIPLES NO ESPECIFICADOS - T07X
+Observaciones: PRUEBA. ESTUDIOS
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 9 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 9 de 80
+NOTAS MÉDICAS
+IMÁGENES:
+[DATE] - RADIOGRAFÍA DE TÓRAX
+Infiltrados intersticiales parahiliares bilaterales. Análisis del caso: PRUEBA
+Plan de manejo: PRUEBA
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+Firmado por: [PERSON], [HOSPITAL], [HOSPITAL] 76766/13, CC [PHONE]
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 11:37 - Ubicación: CONSULTORIOS URGENCIAS
+Evolución oncológica - MEDICINA GENERAL
+Causa externa: LESION POR AGRESION
+SUBJETIVO: PRUEBA
+OBJETIVO: PRUEBA
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 19 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 19 de 80
+NOTAS MÉDICAS
+EXAMEN FÍSICO
+Escala del dolor: 0
+Peso(Kg): 72
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Análisis de resultados :PRUEBA
+Diagnósticos activos después de la nota Diagnóstico principal - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA,
+Origen: Primario (En Estudio), Fecha de diagnostico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y
+DE LA REGION PERIOCULAR - Izquierda . 5869-92 , CC [ID]
+[DATE] 11:43
+- CANCELADO Interna/hospitalización - P00182 Paquete cuadrantectomia mas ganglio centinela ordenada el día [DATE] a las 11:42
+Firmado por : [PERSON] , CIRUGIA GASTRO ONCOLOGICA , [HOSPITAL]: No. [PHONE] , CC [PHONE]
+[DATE] 10:00
+- Interna/hospitalización - Precaucion por gotas, para realizar el día [DATE] a las 10:00
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. [PHONE] , CC [PHONE]
+[DATE] 15:54
+- TERMINADO Interna/hospitalización - [ID] Interconsulta por Nutricion y Dietetica ordenada el día [DATE] a las 15:45
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. Análisis del caso: PRUEBA
+Plan de manejo: PRUEBA
+Firmado por: [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+Firmado por: [PERSON], MEDICINA INTERNA, [HOSPITAL], CC [PHONE]
+Firmado por: [PERSON], [HOSPITAL], [HOSPITAL] 76766/13, CC [PHONE]
+Fecha: [DATE] 10:56 - Ubicación: CONSULTORIOS URGENCIAS
+Evolución oncológica - MEDICINA GENERAL
+Causa externa: LESION POR AGRESION
+SUBJETIVO: PRUEBA
+OBJETIVO: PRUEBA
+EXAMEN FÍSICO
+Escala del dolor: 0
+Peso(Kg): 72
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 15 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 15 de 80
+NOTAS MÉDICAS
+Diagnósticos activos después de la nota Diagnóstico principal - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA,
+Origen: Primario (En Estudio), Fecha de diagnostico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y
+DE LA REGION PERIOCULAR - Izquierda . Observaciones: prueba
+Diagnóstico: TRASTORNOS DE LA ARTICULACION TEMPOROMAXILAR - [LOCATION]. Observaciones: prueba
+Diagnóstico: TRASTORNOS DE LA ARTICULACION TEMPOROMAXILAR - [LOCATION]. ANÁLISIS DEL CASO Y PLAN DE MANEJO
+Análisis: prueba
+Plan de manejo: prueba
+Justificación de permanencia en el servicio: prueba
+Firmado por: [PERSON] [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:01 - Ubicación: CONSULTORIOS URGENCIAS
+Evolución médica - Apoyo - MEDICINA GENERAL
+ANAMNESIS
+Subjetivo: prueba
+Objetivo: prueba
+EXAMEN FÍSICO
+Escala del dolor: No aplica
+Diagnósticos activos después de la nota Diagnóstico principal - CIE10 [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO
+ESPECIFICADA (En Estudio), Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, CIE10 [LOCATION] - HERIDA DEL
+PARPADO Y DE LA REGION PERIOCULAR - Izquierda . MEDICINA GENERAL, [HOSPITAL], CC [ID]--[HOSPITAL]
+PENDIENTE DE AVAL--
+[DATE] 08:16 Escala del dolor 0
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON] [PERSON] FARFAN, MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+[PERSON], CIRUGIA GASTRO ONCOLOGICA, [HOSPITAL] 5869-92, CC [ID]
+[DATE] 14:14 Temperatura (°C) 36.0
+Con o sin oxígeno No
+Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [HOSPITAL], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 14:53 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: SILVIO [PERSON] [PERSON] [PERSON], [HOSPITAL], [HOSPITAL] [ID], CC [ID]
+[DATE] 09:42 Escala del dolor No aplica
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [RESPONSABLE]
+[DATE] 15:44 Escala del dolor No aplica
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 52 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 52 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON] [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:01 Escala del dolor No aplica
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[PERSON] [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 07:53 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 08:38 Escala del dolor 0
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [RESPONSABLE]
+[DATE] 08:40 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [RESPONSABLE]
+[DATE] 14:04 Escala del dolor 0
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON] [PERSON] [PERSON] [PERSON], CIRUGIA DE MAMA Y TUMORES DE T, [HOSPITAL] [ID]-09, CC [ID]
+[DATE] 10:51 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+[PERSON], MEDICINA INTERNA, [HOSPITAL], CC [PHONE]
+[PERSON], [HOSPITAL], [HOSPITAL] 76766/13, CC [PHONE]
+[DATE] 10:56 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL], [HOSPITAL]
+[DATE] 10:59 Escala del dolor 0
+Peso (Kg) 72
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 53 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 53 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [ID]
+[DATE] 11:02 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON] [PERSON] AGREDO, MEDICINA GENERAL, [HOSPITAL] [ID]-96, CC [ID]
+[DATE] 11:06 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+[DATE] 11:11 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [HOSPITAL], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 11:15 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: JAVID [PERSON] DE LA [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+[DATE] 11:25 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON] [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+[DATE] 11:28 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON] [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+[PERSON], [HOSPITAL], [HOSPITAL] 76766/13, CC [PHONE]
+[DATE] 11:34 Escala del dolor 0
+Peso (Kg) 72
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+[PERSON], [HOSPITAL], [HOSPITAL] 76766/13, CC [PHONE]
+[PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 11:37 Escala del dolor 0
+Peso (Kg) 72
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 54 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 54 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: ISABELLA [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[PERSON], MEDICINA INTERNA, [HOSPITAL], CC [PHONE]
+[DATE] 12:46 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Saturación de oxígeno (%) 98
+Escala del dolor 0
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 12:48 Escala del dolor 0
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 12:50 Frecuencia cardíaca (Lat/min) 80
+Escala del dolor 0
+Talla (cm) 170
+Peso (Kg) 70
+Superficie corporal (m2) 1.82
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 12:53 Escala del dolor 0
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 12:56 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Lugar toma PA Miembro
+Superior
+Derecho
+Temperatura (°C) 37
+Lugar toma temperatura Frontal
+Frecuencia cardíaca (Lat/min) 80
+Pulso (Pulsa/min) 80
+Lugar toma pulso Braquial
+Derecho
+Frecuencia respiratoria (Respi/min) 12
+Fracción inspirada de oxígeno (%) 21
+Saturación de oxígeno (%) 98
+Con o sin oxígeno No
+Escala del dolor 0
+Talla (cm) 170
+Peso (Kg) 70
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 55 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 55 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Superficie corporal (m2) 1.82
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 12:58 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Temperatura (°C) 37
+Frecuencia cardíaca (Lat/min) 80
+Frecuencia respiratoria (Respi/min) 12
+Saturación de oxígeno (%) 98
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 13:00 Escala del dolor No evaluable
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 13:05 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Temperatura (°C) 37
+Lugar toma temperatura Frontal
+Frecuencia cardíaca (Lat/min) 80
+Pulso (Pulsa/min) 80
+Lugar toma pulso Braquial
+Derecho
+Frecuencia respiratoria (Respi/min) 12
+Fracción inspirada de oxígeno (%) 21
+Saturación de oxígeno (%) 98
+Con o sin oxígeno No
+Escala del dolor 0
+Talla (cm) 170
+Peso (Kg) 70
+Superficie corporal (m2) 1.82
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 13:11 Escala del dolor 0
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 08:42 Escala del dolor 0
+Peso (Kg) 70
+Ubicación: OBSERVACION TRAUMA
+Responsable: [PERSON] [PERSON] [PERSON] DELGADO, CIRUGIA ONCOLOGICA, [HOSPITAL] [PHONE], CC [PHONE]
+[DATE] 09:29 Escala del dolor 0
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:18
+
+--- Página 56 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 56 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Peso (Kg) 70
+Ubicación: OBSERVACION TRAUMA
+Responsable: [PERSON] [PERSON] [PERSON] DELGADO, CIRUGIA ONCOLOGICA, [HOSPITAL] [PHONE], CC [PHONE]
+[DATE] 09:57 Escala del dolor 4
+Ubicación: INGRESOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:06 Escala del dolor 0
+Ubicación: INGRESOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 08:33 Escala del dolor 0
+Ubicación: INGRESOS URGENCIAS
+Responsable: [PERSON] ROCIO [PERSON] [PERSON], [HOSPITAL] Y OBSTETRICIA, [HOSPITAL], CC [PHONE]
+[DATE] 11:30 Escala del dolor 0
+Ubicación: INGRESOS URGENCIAS
+Responsable: [PERSON] [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+[DATE] 12:21 Escala del dolor 0
+Ubicación: INGRESOS URGENCIAS
+Responsable: [PERSON], DONACION DE ORGANOS Y TEJIDOS, [HOSPITAL], CC
+[PHONE]
+[DATE] 10:10 Escala del dolor 0
+Peso (Kg) 70
+Ubicación: INGRESOS URGENCIAS
+Responsable: [PERSON], CIRUGIA GASTRO ONCOLOGICA, [HOSPITAL] 5869-92, CC [ID]
+[DATE] 10:16 Escala del dolor No aplica
+Ubicación: INGRESOS URGENCIAS
+Responsable:
+HELMER [PERSON] [PERSON], DONACION DE ORGANOS Y TEJIDOS, [HOSPITAL], CC [ID]
+[DATE] 09:46 Escala del dolor 0
+Peso (Kg) 70
+Ubicación: INGRESOS URGENCIAS
+Responsable: [PERSON], CIRUGIA GASTRO ONCOLOGICA, [HOSPITAL] 5869-92, CC [ID]
+[DATE] 07:09 Escala del dolor 0
+Peso (Kg) 70
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:18
+
+--- Página 57 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 57 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES BÁSICOS, PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Ubicación: INGRESOS URGENCIAS
+Responsable: [PERSON], CIRUGIA GASTRO ONCOLOGICA, [HOSPITAL] 5869-92, CC [ID]
+[DATE] 15:17 Escala del dolor 0
+Ubicación: INGRESOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 10:42 Escala del dolor 9
+Ubicación: INGRESOS URGENCIAS
+Responsable: [RESPONSABLE]
+[DATE] 11:01 Escala del dolor 0
+Ubicación: INGRESOS URGENCIAS
+Responsable: [RESPONSABLE]
+Nota aclaratoria
+Fecha: [DATE] 11:10
+efkhwekgf2ewugf,cgrewliufg23lqewfg23qwef23grl
+Firmado por: [RESPONSABLE]
+[DATE] 08:26 Escala del dolor 0
+Peso (Kg) 70
+Ubicación: INGRESOS URGENCIAS
+Responsable: IVO SILJIC BILICIC, CIRUGIA ONCOLOGICA, [HOSPITAL], CC [ID]
+[DATE] 15:18 Escala del dolor 5
+Ubicación: INGRESOS URGENCIAS
+Responsable: [RESPONSABLE]
+[DATE] 15:32 Escala del dolor 4
+Talla (cm) 170
+Peso (Kg) 70
+Ubicación: INGRESOS URGENCIAS
+Responsable: [RESPONSABLE]
+[DATE] 10:59 Escala del dolor 2
+Ubicación: INGRESOS URGENCIAS
+Responsable: KARYNA [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL] [PHONE], CC [PHONE]
+RESUMEN DE SIGNOS VITALES CORRESPONDIENTES A MONITOREO HEMODINÁMICO Y [HOSPITAL]
+PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+[DATE] 16:10 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:18
+
+--- Página 58 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 58 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES CORRESPONDIENTES A MONITOREO HEMODINÁMICO Y [HOSPITAL]
+PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Con o sin oxígeno No
+Tipo de ventilación Espontánea
+Tipo de anestesia General
+Posicion del paciente Decúbito Supino
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:15 [LOCATION] (mmhg) 122
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 94
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:20 [LOCATION] (mmhg) 130
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 96
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:20 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Lugar toma PA Miembro
+Superior
+Derecho
+Frecuencia cardíaca (Lat/min) 80
+Pulso (Pulsa/min) 80
+Frecuencia respiratoria (Respi/min) 12
+Fracción inspirada de oxígeno (%) 24
+Saturación de oxígeno (%) 98
+Con o sin oxígeno Si
+Escala del dolor 3
+Superficie corporal (m2) 1.91
+Estado de conciencia Glasgow 15/15
+Talla (cm) 175
+Peso (Kg) 75
+Índice de masa corporal (Kg/m2) 24.49
+Temperatura (°C) 37
+Método de administración Canula Nasal
+Glicemia por micrométodo (mg/dl) 100
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:25 [LOCATION] (mmhg) 125
+[LOCATION] (mmhg) 85
+Presión arterial media (mmhg) 98
+Ubicación: CONSULTORIOS URGENCIAS
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:18
+
+--- Página 59 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 59 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES CORRESPONDIENTES A MONITOREO HEMODINÁMICO Y [HOSPITAL]
+PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:26 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Frecuencia cardíaca (Lat/min) 80
+Escala del dolor 3
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:30 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 90
+Presión arterial media (mmhg) 100
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:30 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Frecuencia cardíaca (Lat/min) 80
+Escala del dolor 3
+Superficie corporal (m2) 1.91
+Talla (cm) 175
+Peso (Kg) 75
+Índice de masa corporal (Kg/m2) 24.49
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:35 [LOCATION] (mmhg) 110
+[LOCATION] (mmhg) 95
+Presión arterial media (mmhg) 100
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:40 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:46 Escala del dolor 3
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:49 [LOCATION] (mmhg) 90
+[LOCATION] (mmhg) 40
+Presión arterial media (mmhg) 56
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:18
+
+--- Página 60 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 60 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES CORRESPONDIENTES A MONITOREO HEMODINÁMICO Y [HOSPITAL]
+PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Frecuencia cardíaca (Lat/min) 60
+Frecuencia respiratoria (Respi/min) 10
+Estado de conciencia Glasgow 15/15
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 16:58 Escala del dolor 3
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 17:13 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 17:14 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 17:15 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 17:20 [LOCATION] (mmhg) 120
+[LOCATION] (mmhg) 80
+Presión arterial media (mmhg) 93
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 17:23 Tipo de anestesia General
+Ubicación: CONSULTORIOS URGENCIAS
+Responsable: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+[DATE] 07:03 Frecuencia cardíaca (Lat/min) 100
+Superficie corporal (m2) 1.84
+Talla (cm) 170
+Peso (Kg) 72
+Índice de masa corporal (Kg/m2) 24.91
+Ubicación: CONSULTORIOS URGENCIAS
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:18
+
+--- Página 61 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 61 de 80
+MONITOREO Y OTROS CONTROLES
+RESUMEN DE SIGNOS VITALES CORRESPONDIENTES A MONITOREO HEMODINÁMICO Y [HOSPITAL]
+PRESENTADOS CRONOLÓGICAMENTE
+Fecha-Hora Signo Vital (Unidad) Valor
+Responsable:
+[PERSON], M.G. Farmacológicos:
+Firmado electrónicamente Documento impreso al día [DATE] 11:05:17
+
+--- Página 13 ---
+IDENTIFICACIÓN DEL PACIENTE
+Tipo y número de identificación:CC [ID]
+Paciente:[PERSON] PRUEBA
+Fecha y hora de nacimiento (dd/mm/aaaa hh:mm): [DATE]
+Edad y Sexo Bi 65-70 años y 7 meses, Masculino
+Identificador único:[ID]-1 Responsable: [RESPONSABLE]
+Ubicación: INGRESOS URGENCIAS Cama:
+Servicio: CONSULTORIOS URGENCIAS
+Página 13 de 80
+NOTAS MÉDICAS
+Se modifica(n) el antecedente:
+Medicamento: Enalapril tableta x 20 mg. - Escala ideacion suicida : Total: + 2, Tener encuenta Criterios de exclusión
+-Pacientes menores de [PERSON] (10) años
+-Pacientes con alteración o deterioro neuro cognitivo
+-Pacientes obstétricas
+-Pacientes con manejo o seguimiento instaurado por psiquiatría o psicología
+- Escala Nutricional FERGUSON : Total: 1, RIESGO BAJO
+Diagnósticos activos después de la nota Diagnóstico de ingreso - CIE10 [LOCATION] - HERIDA DEL PARPADO Y DE LA REGION PERIOCULAR -
+Izquierda, Fecha de diagnóstico: [DATE], Edad al diagnóstico: 65-70 años y 4 meses. 5, HCM 30. [PHONE] , CC [PHONE]
+[DATE] 16:38
+- Interna/hospitalización - [ID] Radiografia De Cara ([LOCATION]), para realizar el día [DATE] a las 16:38
+Firmado por : [PERSON] , MEDICINA GENERAL , [HOSPITAL]: No. Análisis del caso: PRUEBA
+Plan de manejo: PRUEBA
+Firmado por: [PERSON] [PERSON], MEDICINA GENERAL, [HOSPITAL], [HOSPITAL]: [DATE] 10:59 - Ubicación: CONSULTORIOS URGENCIAS
+Evolución oncológica - MEDICINA GENERAL
+Causa externa: LESION POR AGRESION
+SUBJETIVO: PRUEBA
+OBJETIVO: PRUEBA
+EXAMEN FÍSICO
+Escala del dolor: 0
+Peso(Kg): 72
+Examen Físico:
+Aspecto general
+Aspecto general : Normal
+Diagnósticos activos después de la nota Diagnóstico principal - [HOSPITAL] - TUMOR MALIGNO DEL ESTOMAGO PARTE NO ESPECIFICADA,
+Origen: Primario (En Estudio), Fecha de diagnostico: [DATE], Edad al diagnóstico: 65-70 años y 5 meses, [LOCATION] - HERIDA DEL PARPADO Y
+DE LA REGION PERIOCULAR - Izquierda . Firmado por: [PERSON], MEDICINA GENERAL, [HOSPITAL], CC [PHONE]
+Fecha: [DATE] 16:30 - Ubicación: CONSULTORIOS URGENCIAS
+Consulta de urgencias - Apoyo - MEDICINA GENERAL
+Clasificación del triage: TRIAGE III Causa externa: LESION POR AGRESION
+¿Ha presentado tos y/o expectoración por más de 15 días? : 1 AÑO. : 1 AÑO. : 1 AÑO. : 1 AÑO. : 1 AÑO. : 1 AÑO. : 1 AÑO. : 1 AÑO. : 1 AÑO. : 1 AÑO.

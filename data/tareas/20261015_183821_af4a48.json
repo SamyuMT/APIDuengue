@@ -1,0 +1,94 @@
+{
+  "tarea_id": "20261015_183821_af4a48",
+  "estado": "completada",
+  "carpeta_entrada": "D:\\ProyectoGradoMaestria\\tests\\aprocesar",
+  "carpeta_salida": "D:\\ProyectoGradoMaestria\\tests\\resultados\\20261015_183821_af4a48",
+  "creada": "2026-10-15T18:38:21",
+  "finalizada": "2026-10-15T18:41:28",
+  "documentos": {
+    "5540499b81e4": {
+      "archivo": "EjemploHCDCSA.pdf",
+      "estado": "completado",
+      "etapa": null,
+      "error": null,
+      "tiempos": {
+        "extraer": 3.517,
+        "limpiar": 0.004,
+        "anonimizar": 6.551,
+        "normalizar": 0.008,
+        "guardar": 0.001,
+        "filtrar": 6.059,
+        "guardar_filtraciones": 0.001
+      }
+    },
+    "db477653dead": {
+      "archivo": "EjemploHCHUV - copia.pdf",
+      "estado": "completado",
+      "etapa": null,
+      "error": null,
+      "tiempos": {
+        "extraer": 8.166,
+        "limpiar": 0.006,
+        "anonimizar": 7.409,
+        "normalizar": 0.012,
+        "guardar": 0.001,
+        "filtrar": 8.52,
+        "guardar_filtraciones": 0.002
+      }
+    },
+    "0c0b713a4745": {
+      "archivo": "EjemploHCHUV.pdf",
+      "estado": "completado",
+      "etapa": null,
+      "error": null,
+      "tiempos": {
+        "extraer": 7.237,
+        "limpiar": 0.006,
+        "anonimizar": 9.126,
+        "normalizar": 0.019,
+        "guardar": 0.001,
+        "filtrar": 8.266,
+        "guardar_filtraciones": 0.037
+      }
+    },
+    "a5247a1fd86c": {
+      "archivo": "HistoriaPruebaDengueHUV - copia.pdf",
+      "estado": "completado",
+      "etapa": null,
+      "error": null,
+      "tiempos": {
+        "extraer": 9.149,
+        "limpiar": 0.01,
+        "anonimizar": 19.336,
+        "normalizar": 0.017,
+        "guardar": 0.001,
+        "filtrar": 17.326,
+        "guardar_filtraciones": 0.001
+      }
+    },
+    "d591a97a0175": {
+      "archivo": "HistoriaPruebaDengueHUV.pdf",
+      "estado": "completado",
+      "etapa": null,
+      "error": null,
+      "tiempos": {
+        "extraer": 16.402,
+        "limpiar": 0.013,
+        "anonimizar": 18.567,
+        "normalizar": 0.018,
+        "guardar": 0.001,
+        "filtrar": 14.153,
+        "guardar_filtraciones": 0.001
+      }
+    }
+  },
+  "resumen": {
+    "total": 5,
+    "completados": 5,
+    "errores": 0
+  },
+  "error": null,
+  "extractor": "pdfplumber",
+  "segmentar": false,
+  "modelo_embeddings": "all-MiniLM-L6-v2"
+}

@@ -1,0 +1,18 @@
+# Secretos y entorno local
+.env
+.venv/
+venv/
+
+# Modelos locales (pesados): ver README > Modelos
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.tmp
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1626 @@
+pagina 1 de 31
+paciente: 09-abr.-2025 15:53
+identificacion del paciente
+paciente doc. de identificacion
+fecha de nacimiento edad sexo grupo sanguineo
+estado civil ocupacion
+<NOMBRE>
+<NOMBRE>
+<NOMBRE>
+<NOMBRE>
+<NOMBRE> al servicio
+fecha y hora de ingreso 11-ene.-2025 13:38 fecha y hora de atencion 11-ene.-2025 13:50
+el paciente se moviliza por sus propios medios? si medio de trasporte
+estado de llegada alerta procedencia domicilio
+llego remitido de
+causa de consulta y anamnesis
+causa del evento:  dengue
+fecha de ocurrencia: tiempo de evolucion: 4 dias tipo de evento: enfermedad general
+tipo consulta pyp: <NOMBRE> de ocurrencia:
+enfermedad actual - (anamnesis)
+ingresa pcte de 18 anos de edad caminando por sus medios en compania del padre, procedente de
+candelaria,por cuadro de 4 dias con cefalea, <NOMBRE>, <NOMBRE>, <NOMBRE>, hiporexia,
+<NOMBRE>, <NOMBRE> cedio, deposiciones muy blandas, acudio a periferia le tomaron los siguientes
+examenes
+10/01/2025: <UBICACION>: leucos: 4000, <UBICACION>: 66.4% <UBICACION>: 11.9% <UBICACION>: 21.7% hb: 17.2 gr hto: 47.9% plaq: 39.000
+igm dengue: <UBICACION>
+<UBICACION>: positivo
+11/01/2024: <UBICACION>: leucos: 7100, <UBICACION>: 62.9% <UBICACION>: 16.2% <UBICACION>: 20.9% hb: 17.9 gr hto: 52.1% plaq: 23.000
+niega la presencia de sangrados
+<NOMBRE> nivel superior
+se atiende con epp
+atencion clinica
+antecedentes personales
+patologicos - niega(reg: 12 ene 2025 11:34:)
+<UBICACION> menciona ningun antecedente de importancia para la atencion - (reg: 21 sep 2018 16:06:)
+<UBICACION> - <UBICACION>: 11 ene 2025 14:06:)
+<UBICACION> menciona ningun antecedente de importancia para la atencion - (reg: 07 ene 2020 15:04:)
+quirurgicos - septoplastia + turbinoplastia endoscopica dic 2013(reg: 19 may 2015 14:58:)
+quirurgicos - septoplastia + turbinoplastia endoscopica dic 2013(reg: 12 ene 2025 11:34:)
+farmacologicos - niega(reg: 12 ene 2025 11:34:)
+toxicos - niega(reg: 11 ene 2025 14:06:)
+<UBICACION> - vacunas al dia(reg: 21 sep 2018 16:06:)
+otros - dolor abdominal mesogastrio y <UBICACION> izquierdo(reg: 02 jun 2015 11:25:)
+antecedentes familiares mama papa hno(a) <UBICACION>) <UBICACION> hijo(a) otros
+otros - padred amsatico
+otros - asma padre
+otros - <NOMBRE> materna hta <NOMBRE>
+<NOMBRE> materno no dato
+<NOMBRE> paterna <NOMBRE> irritable /
+hipotiroidismo
+<NOMBRE> paterno <NOMBRE>
+<NOMBRE> / asma infantil / rinitis
+alergica
+mama estrenimiento
+hijo unico
+infepicrisis v3 <NOMBRE> fernandez osorio.24386 09 abr. 2025 15:53 pagina 1 de 31
+pagina 2 de 31
+paciente: 09-abr.-2025 15:53
+otros - - abuela materna <NOMBRE>
+abuelo materno no dato
+abuela paterna colon irritable /
+hipotiroidismo
+<NOMBRE> por <UBICACION>
+11 enero 2025 14:06 -
+observaciones. . . . . . . . . . . . . revision por sistemas normal
+firmado electronicamente por -- medicina general <REGISTRO_MEDICO>
+identificacion
+12 enero 2025 11:33 -
+observaciones. . . . . . . . . . . . . revision por sistemas normal
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+examen fisico
+11 enero 2025 14:06 - (<UBICACION>)
+<UBICACION>. . . . . . . . . . . . con febricula
+tranquilo y colaborador
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+<UBICACION>. . . . . . . . . . . . tranquilo .
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:11 - (piso 8 (<UBICACION>) <UBICACION>)
+<UBICACION>. . . . . . . . . . . . buenas condiciones generales luce bien sin disnea sin dolor sin fiebre
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion cc
+11 enero 2025 14:06 - (<UBICACION>)
+<UBICACION>. . . . . . . . . . . . . . . . . . <NOMBRE>, <NOMBRE>, reactivas a la luz.
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+<UBICACION>. . . . . . . . . . . . . . . . . . semiologia normal
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+11 enero 2025 14:06 -
+boca y <UBICACION>. . . . . . . . . . . . . <UBICACION> en <UBICACION>
+<UBICACION> electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+boca y <UBICACION>. . . . . . . . . . . . . semiologia normal
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:11 -
+boca y <UBICACION>. . . . . . . . . . . . . <NOMBRE>
+<NOMBRE> electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 14:06 -
+<NOMBRE>. . . . . . . . . . . . . . . . . . movil, no adenopatias
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+<NOMBRE>. . . . . . . . . . . . . . . . . . semiologia normal
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:11 -
+<NOMBRE>. . . . . . . . . . . . . . . . . . <NOMBRE>
+<NOMBRE> electronicamente por -- medicina general tarjeta profesional: identificacion
+09 abr. 2025 15:53 pagina 2 de 31
+pagina 3 de 31
+paciente: 09-abr.-2025 15:53
+11 enero 2025 14:06 -
+otorrinolaringologia. . . . . . . . . <NOMBRE>
+<NOMBRE> electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+otorrinolaringologia. . . . . . . . . <NOMBRE>
+<NOMBRE> electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:11 - (
+otorrinolaringologia. . . . . . . . . <NOMBRE>
+<NOMBRE> electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 14:06 - <UBICACION>.
+. . . . . . . . . . . . . . . . . . torax simetrico,ruidos cardiacos ritmicos, <UBICACION>, sin soplos.
+murmullo vesicular presente en ambos campos pulmonares, sin
+sobreagregados.
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+<UBICACION>. . . . . . . . . . . . . . . . . . . ruidos cardiacos ritmicos, no soplos
+murmullo vesicular presente no agregados
+firmado electronicamente por -- nefrologia tarjeta profesional:identificacion
+14 enero 2025 00:11 -
+<UBICACION>. . . . . . . . . . . . . . . . . . . ruidos cardiacos ritmicos no soplos
+campos pulmonares ventilados sin agregados
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 14:06
+-abdomen. . . . . . . . . . . . . . . . <UBICACION>, depresible, no masas, <NOMBRE>, doloroso con la palpacion de
+epigastrio e hipocondrio der, sin signos de irritacion peritoneal.
+punopercusion bilateral negativa.
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+abdomen. . . . . . . . . . . . . . . . blando , depresible , no <UBICACION> , no <NOMBRE> , no masa
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:11 -
+abdomen. . . . . . . . . . . . . . . . <NOMBRE> depresible no doloroso a la palpacion
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 14:06 -
+<UBICACION> - <UBICACION>. . . . . . . . . . . no se explora
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+<UBICACION> - <UBICACION>. . . . . . . . . . . sin lesiones
+firmado electronicamente por- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:11 -
+<UBICACION> - <UBICACION>. . . . . . . . . . . se omite
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 14:06 -
+musculo-esqueletico. . . . . . . . . simetricas, no edemas
+llenado capilar 2 seg
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+09 abr. 2025 15:53 pagina 3 de 31
+pagina 4 de 31
+paciente: 09-abr.-2025 15:53
+musculo-esqueletico. . . . . . . . . no signos de compromiso neurovascular
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:11 -
+musculo-esqueletico. . . . . . . . . mov sin edemas llenado capilar menor 3 seg
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 14:06 -
+(neurologico. . . . . . . . . . . . . . alerta, orientado en sus tres esferas mentales, sin <UBICACION>
+neurologico, no alteracion de sus pares craneales,mimica facial
+conservada, glasgow 15/15
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+<UBICACION>. . . . . . . . . . . . . . semiologia normal
+firmado electronicamente por -- nefrologia tarjeta profesional:
+14 enero 2025 00:11 -
+<UBICACION>. . . . . . . . . . . . . . no deficit , <UBICACION> 15/15
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 14:06 - piel. . .
+. . . . . . . . . . . . . . . . . rubicundez
+presencia de petequias en <UBICACION>
+<UBICACION> electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+piel. . . . . . . . . . . . . . . . . . . . <NOMBRE> generalizado
+petequias en miembros inferiores
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+11 enero 2025 14:06 -
+(analisis. . . . . . . . . . . . . . . . . . pcte de 18 anos de edad con cuadro de 4 dias con malestar
+generalizado, diagnosticado en <UBICACION>, aporta <UBICACION>
+<UBICACION> con plaquetas en 23mil, niega sangrados, sin embargo al examen
+fisico con petequias y con <NOMBRE> <UBICACION> palpacion de
+<UBICACION>,se ingresa para toma de paraclinicos, lev, manejo
+medico, se deja en observacion, se comentara con medicina interna, les
+explico la conducta
+semaforizacion: verde
+firmado electronicamente por - medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+analisis. . . . . . . . . . . . . . . . . . paciente en contexto de dengue con signos de alarma en fase critica, ns1 positivo,
+dia 4 , hoy plaquetas de 19.000 previas de plaq: 23.000, hct 48% ,<UBICACION>,
+inr limite superior , ( alto riesgo disfuncion hepatocelular ) , sin manifestacion de
+sangrado , variables macro - hemodinamicas en metas . se indica renimacion dirigida por
+volumen ,indicado seguimiento de variables hematologicas hct - plt - funcion
+hepatocelular . <NOMBRE> para cama adulto . monitoria ucin.
+dx:
+1. dengue con signos de alarma
+- dolor abdominal.
+firmado electronicamente por - nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:11 -
+analisis. . . . . . . . . . . . . . . . . . paciente con dengue con sg de alarma, con estancia 24 hrs en uci. hemogramas con
+evidencia de tendencia a recuperacion plaquetaria. <NOMBRE> manejo y vigilancia en
+unidad intermedia. traslado a sala de hospitalizacion a cargo de medicina interna. se
+disminuye aporte de lev, se retira aislamiento
+09 abr. 2025 15:53 pagina 4 de 31
+pagina 5 de 31
+paciente: 09-abr.-2025 15:53
+dx
+1 dengue con signos de alarma
+- dolor abdominal y cefalea
+2 hepatitis por dengue
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 14:06 -
+observaciones. . . . . . . . . . . . . revision por sistemas normal
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+observaciones. . . . . . . . . . . . . revision por sistemas normal
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+11 enero 2025 14:06 -
+triage. . . . . . . . . . . . . . . . . . 3
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+12 enero 2025 11:33 -
+triage. . . . . . . . . . . . . . . . . . 3
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+diagnosticos ingreso localizacion tipo dx
+-- (a90x) fiebre del dengue dengue clasico impresion diagnostica
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+-- (a91x) fiebre del dengue hemorragico impresion diagnostica
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+-- (a90x) fiebre del dengue dengue clasico impresion diagnostica
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+-- (a90x) fiebre del dengue dengue clasico impresion diagnostica
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+<UBICACION>
+11 enero 2025 16:40 -
+dia de hospitalizacion no.
+evolucion
+pcte con dengue grave
+comento con la <NOMBRE>, valorara
+semaforizacion: amarilla
+analisis de resultados de examenes
+902210 <NOMBRE> (hemoglobina <UBICACION> <NOMBRE> eritrocitos indices eritrocitarios
+<UBICACION> y morfologia electronica e <UBICACION>)
+automatizado: leucopenia
+recuento de leucocitos - 7.87
+neutrofilos  - 3.47
+neutrofilos % - 44.1
+linfocitos  - 2.34
+linfocitos % - 29.7
+<UBICACION>  - 0.57
+<UBICACION> % - 7.2
+eosinofilos  - 0.02
+eosinofilos % - 0.3
+<UBICACION>  - 0.03
+<UBICACION> % - 0.4
+09 abr. 2025 15:53 pagina 5 de 31
+pagina 6 de 31
+paciente: 09-abr.-2025 15:53
+recuento de eritrocitos - 6.87
+hemoglobina - 19.6
+hematocrito - 55.6
+volumen corpuscular medio - 80.9
+hemoglobina corpuscular media - 28.5
+concentracion de hemoglobina corpuscular media - 35.3
+ancho de distribucion eritrocitario ds - 37.2
+ancho de distribucion eritrocitario cv - 13.2
+recuento de plaquetas - 20
+volumen medio plaquetario - 10.3
+fraccion de plaquetas inmaduras - 7.8
+normoblastos  - 0.050
+normoblastos % - 0.6
+granulocitos inmaduros  - 1.4400
+granulocitos inmaduros % - 18.300
+903895 creatinina en suero u otros fluidos: creatinina en suero - 1.09
+normal
+903856 nitrogeno ureico: nitrogeno ureico en suero. - 10.4
+<UBICACION> en suero - 22.2
+normal
+902045 tiempo de protrombina tp: prolongados
+tiempo de protrombina - 14.3
+indice normalizado internacional inr - 1.37
+indice de sensibilidad internacional isi - 1.09
+tiempo de protrombina del pool de la poblacion - 10.7
+indice normalizado internacional del pool de la poblacion - 1.0
+902049 tiempo de tromboplastina parcial ttp: tiempo de tromboplastina parcial activado - 42.9
+tiempo de tromboplastina parcial del pool de la poblacion - 28.2
+<UBICACION>
+903841 glucosa en suero u otro fluido diferente a <NOMBRE>: <NOMBRE> en ayunas - 85
+normal
+903866 transaminasa glutamico-piruvica alanino amino transferasa: transaminasa piruvica alat - 166
+elevada
+903867 transaminasa glutamico oxalacetica aspartato amino transferasa: transaminasa oxaloacetica
+asat - 220
+elevada
+903833 fosfatasa alcalina: fosfatasa alcalina. - 87.00
+normal
+903809 bilirrubinas total y directa: normal
+bilirrubina total. - 1.09
+<UBICACION>. - 0.43
+<UBICACION>. - 0.66
+903110 acido lactico l-lactato semiautomatizado: acido lactico - 4.10
+elevada
+tipo estancia: evolucion urgencias
+criterio: paciente que requiere valoracion por alguna especialidad
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+notas de interconsulta
+11 enero 2025 17:04 -
+medicina interna
+09 abr. 2025 15:53 pagina 6 de 31
+pagina 7 de 31
+paciente: 09-abr.-2025 15:53
+<UBICACION>:
+1. dengue con signos de alarma
+- dolor abdominal.
+subjetivo:
+paciente refiere malestar general. niega sangrados. <NOMBRE> alza termica el 09/01.
+examen fisico:
+peso 92 kg
+no iy
+auscultacion cardiopulmonar normal
+abdomen blando, depresible, dolor a la palpacion de epigastrio.
+no edema
+<NOMBRE> generalizado
+petequias en miembros inferiores
+alerta, orientado, sin focalizacion.
+estudios:
+10/01/2025: leucos: 4000, <UBICACION>: 66.4% <UBICACION>: 11.9% <UBICACION>: 21.7% hb: 17.2 gr hto: 47.9% plaq: 39.000
+igm dengue: <UBICACION>
+<UBICACION>: positivo
+11/01/2024: <UBICACION>: leucos: 7100, <UBICACION>: 62.9% <UBICACION>: 16.2% <UBICACION>: 20.9% hb: 17.9 gr hto: 52.1% plaq:
+23.000
+analisis:
+paciente de 18 anos con dengue con signos de alarma en fase critica, con cuadro de 4 dias de fiebre, mialgias, cefalea,
+nauseas y deposiciones blandas, con ns1 positivo. laboratorios de ingreso con trombocitopenia severa, <NOMBRE> y
+hemoconcentracion, se inician lev a 3 cc/kg/hora, y revalorar. laboratorios de control en 6 horas. en el momento
+estable, sin sangrados. se deja en observacion clinica.
+plan:
+observacion
+ssn 0.9%, pasar 1000 cc ahora iv en la primera hora, luego continuar a 250 cc/hora iv.
+<UBICACION> en 6 horas: hemograma y lactato
+revaloracion con resultados en la noche
+csv
+se dio informacion al paciente/familia sobre la condicion clinica, evolucion y plan de manejo
+firmado electronicamente por -- medicina interna tarjeta profesional:
+identificacion
+evoluciones
+11 enero 2025 17:29 -
+dia de hospitalizacion no.1
+diagnosticos:
+(a90x) fiebre del dengue dengue clasico
+se dio informacion al paciente/familia sobre la condicion clinica, evolucion y plan de manejo
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 19:34 -
+dia de hospitalizacion no.1
+diagnosticos:
+(a90x) fiebre del dengue dengue clasico
+diagnosticos
+dengue
+manejo ringer a 250 cc hora
+paciente refiere tolera ingesta alimentos de solidos y liquidos
+sin emesis
+diruesis disminuida
+09 abr. 2025 15:53 pagina 7 de 31
+pagina 8 de 31
+paciente: 09-abr.-2025 15:53
+ligero dolor peigastrico
+mucosas humedas
+disminucion de murmullo en base derecha
+plan
+manej con cristaloides para hidratacion
+tipo estancia: hospitalizacion
+criterio: paciente con patologia que requiera seguimiento clinico por tiempo superior a 6 horas
+presion arterial: 118/81
+pulso: 95/min
+frec. <NOMBRE>.: 19/min
+<UBICACION>: 37.5°c
+sat. oxigeno: 96
+peso: 92kg.
+talla: 1.75mts
+sc: 2.11
+eva: 4
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+12 enero 2025 08:51 -
+dia de hospitalizacion no.2
+diagnosticos:
+(a90x) fiebre del dengue dengue clasico
+tipo estancia: hospitalizacion
+criterio: paciente que requiera tratamiento <NOMBRE>
+medicina interna
+dr rodriguez
+dx:
+1. dengue con signos de alarma
+- dolor abdominal.
+subjetivo:
+paciente refiere malestar general. niega sangrados. <NOMBRE> alza termica el 09/01.
+examen fisico:
+peso 92 kg
+no iy
+auscultacion cardiopulmonar normal
+abdomen blando, depresible, dolor a la palpacion de epigastrio.
+no edema
+<NOMBRE> generalizado
+petequias en miembros inferiores
+alerta, orientado, sin focalizacion.
+estudios:
+12.1.25
+leucos de 6640 neutros de 1890 linfos de 2870
+<UBICACION> 16.4 plaquetas de 19.000 previas de 20.000
+10/01/2025: leucos: 4000, <UBICACION>: 66.4% <UBICACION>: 11.9% <UBICACION>: 21.7% hb: 17.2 gr hto: 47.9% plaq: 39.000
+igm dengue: <UBICACION>
+<UBICACION>: positivo
+11/01/2024: <UBICACION>: leucos: 7100, <UBICACION>: 62.9% <UBICACION>: 16.2% <UBICACION>: 20.9% hb: 17.9 gr hto: 52.1% plaq:
+23.000
+analisis:
+paciente de 18 anos con dengue con signos de alarma en fase critica, con cuadro de 4 dias de fiebre, mialgias, cefalea,
+09 abr. 2025 15:53 pagina 8 de 31
+pagina 9 de 31
+paciente: 09-abr.-2025 15:53
+nauseas y deposiciones blandas, con ns1 positivo. hoy con caida de plaquetas a 19.000 no sangrado, persiste con dolor
+abdominal, considero monitoria ucin
+se dio informacion al paciente/familia sobre la condicion clinica, evolucion y plan de manejo
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+12 enero 2025 11:12 -
+dia de hospitalizacion no.1
+ingreso ucin dia
+dx:
+1. dengue con signos de alarma
+- dolor abdominal.
+historia clinica documenta cuadro de 4 dias de fiebre, mialgias, cefalea, nauseas y deposiciones blandas, con ns1 positivo.
+hoy con caida de plaquetas a 19.000 no sangrado, persiste con dolor abdominal
+ucin
+requerimiento de monitoria hemodinamica
+problemas
+transaminitis
+inr limite superior
+trombocitopenia severa
+soportes
+renimacion dirigida por volumen
+microbiologicos
+igm dengue: negativo ns1: positivo
+paraclinicos
+12.01.25leucos de 6640 neutros de 1890 linfos de 2870 hgb de 16.4 plaquetas de 19.000 previas de 20.000 ,
+transaminitis
+10/01/2025: leucos: 4000, n: 66.4% mon: 11.9% linf: 21.7% hb: 17.2 gr hto: 47.9% plaq: 39.000
+igm dengue: negativo ns1: positivo
+11/01/2024: hemograma: leucos: 7100, n: 62.9% mon: 16.2% linf: 20.9% hb: 17.9 gr hto: 52.1% plaq: 23.000
+subjetivo - paciente tranquilo. no dolor. niega sangrados. tolera via oral .
+examen fisico:
+fc 70 tam 65 mmhg glicemias 101 mg dl
+fio2 21 % sat 98%
+tolerando via oral .
+peso 92 kg
+no iy
+auscultacion cardiopulmonar ruidos cardiacos ritmicos , no soplos , no r3 r4 .
+pulmonar . mv +. no sibilanicas , no estertores.
+abdomen blando, depresible, dolor a la palpacion de epigastrio.
+no edema
+<NOMBRE> generalizado
+petequias en miembros inferiores
+alerta, orientado, sin focalizacion.
+analisis:
+paciente en contexto de dengue con signos de alarma en fase critica, ns1 positivo, dia 4 , hoy plaquetas de 19.000
+previas de plaq: 23.000, hct 48% ,<UBICACION>, inr limite superior , ( alto riesgo disfuncion hepatocelular ) , sin
+manifestacion de sangrado , variables macro - hemodinamicas en metas . se indica renimacion dirigida por volumen ,indicado
+seguimiento de variables hematologicas hct - plt - funcion hepatocelular . <NOMBRE> para cama adulto . monitoria ucin.
+cuidado integral de paciente critico en ucin
+09 abr. 2025 15:53 pagina 9 de 31
+pagina 10 de 31
+paciente: 09-abr.-2025 15:53
+<NOMBRE> para cama adulto
+cabecera a 30°
+dieta normal
+<NOMBRE> no invasiva de signos vitales cada 2 horas
+control estricto de liquidos administrados, eliminados, cuantificar diuresis
+<NOMBRE> ekg
+profilaxis anti tvp: no
+gastroproteccion: ibp
+analgesia: <UBICACION>
+antimicrobianos/cultivos: no
+cuidados propios de enfermeria y medidas de confort
+medidas de prevencion: higiene oral, cuidados de piel, barandas en alto
+glucometria de ingreso.
+<NOMBRE>
+tam 65-75 mmhg
+<UBICACION> mayor a 0.5cc/kg/h
+control de dolor eva menor de 4
+sato2 mayor de 9%
+<UBICACION> 80-140 mg/dl
+plan
+liquidos endovenosos ringer a 150 ml hora .
+indicado seguimiento de variables hematologicas hct - plt - funcion hepatocelular .
+<NOMBRE>/uci .
+se dio informacion al paciente/familia sobre la condicion clinica, evolucion y plan de manejo
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+12 enero 2025 17:40 -
+dia de hospitalizacion no.1
+paraclinicos control
+recuento de <NOMBRE> 7.76 x103/ul
+neutrofilos  2.38 x103/ul
+neutrofilos %  30.6 %
+<UBICACION>   3.66 x103/ul
+linfocitos % 47.2 %
+hemoglobina 16.4 g/dl
+hematocrito 47.4 %
+recuento de plaquetas  21  discreto aumento
+tipo estancia: ucin
+criterio: varios: pacientes hemodinamicamente estables en fase de recuperacion de falla renal aguda, con monitoria de
+pvc, reemplazo de lo eliminado segun valores pvc y diuresis
+dia de hospitalizacion no.1
+paraclinicos de control noche
+<NOMBRE>/uci
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+12 enero 2025 21:58 -
+dia de hospitalizacion no.1
+evolucion ucin noche
+juan miguel caicedo
+edad 18 anos
+dx:
+1. dengue con signos de alarma
+09 abr. 2025 15:53 pagina 10 de 31
+pagina 11 de 31
+paciente: 09-abr.-2025 15:53
+- <NOMBRE>.
+2.hepatitis por dengue
+ucin
+-trombocitopenia severa riesgo de sangrado mayor
+-requerimiento de <NOMBRE>
+<NOMBRE>
+-trombocitopenia severa
+-transaminitis
+-hiperlactatemia en <UBICACION>
+-riesgo de sangrado mayor
+soportes
+no
+microbiologicos
+-igm dengue: <UBICACION>: positivo
+hemodinamico paciente sin soporte vasoactivo con signos vitales fc 72xmin ta 118/69 tam 84 ruidos
+<UBICACION> ritmicos no soplos, trombocitopenia severa en ascenso sin evidencia de sangrado,
+hemoconcentracion
+respiratorio paciente sin vm con fr 20xmin sato2 97% ruidos respiratorios presente sin
+sobreagregados sin disnea
+infeccioso paciente sin <UBICACION> con tmax 36.6°c sin signos de sirs
+metabolico <UBICACION> sin <NOMBRE> abdominal sin irirtacion peritoneal,
+transaminitis
+renal gu 2.7 cc kg hora azoados normales
+neurologico consciente alerta sin deficit neurologico
+eco abdominal total
+derrame pleural derecho.
+2. liquido libre intraabdominal, que predomina hacia la excavacion pelvica.
+3. <NOMBRE> las pared vesicular es, por patologia de base.
+4. esteatosis hepatica difusa leve.
+analisis:
+paciente de 18 anos de edad quien ingresa en contexto de dengue con signos de alarma en fase
+critica, <NOMBRE>, dia 4 , con trombocitopenia severa y hepatitis por dengue, actualmente en
+condiciones estables sin soporte vasoactivo ni ventilatorio, trombocitopenia en ascenso aunque
+aun fuera de rangos de seguridad, hemoconcentracion en mejoria, <NOMBRE> <UBICACION>, sin
+trastorno hidroelectrolitico, <NOMBRE>, mejoria del dolor abdominal sin <NOMBRE> la
+funcion renal sin deterioro neurologico
+se considera continuar igual manejo instaurado <UBICACION> paraclinicos de control continua manejo
+en ucin
+diagnosticos:
+(a91x) fiebre del dengue hemorragico
+firmado electronicamente por -- medicina de urgencias tarjeta profesional: identificacion
+13 enero 2025 08:53 -
+dia de hospitalizacion no.2
+nota dia
+dra camacho, dr devia.
+1. dengue con signos de alarma
+- <NOMBRE>.
+2. hepatitis por dengue
+justificacion ucin/problemas: fase critica de dengue, alto riesgo sangrado espontaneo, inestabilidad electrica y
+09 abr. 2025 15:53 pagina 11 de 31
+pagina 12 de 31
+paciente: 09-abr.-2025 15:53
+hemodinamica.
+soportes: infusion lev
+invasivos: no
+<NOMBRE>: igm dengue: negativo ns1: positivo
+se siente en buena condicion general, no historia de sangrados activos.
+paraclinicos: leucos 5840, neutros 17%, monos 6,7%, hb 15.7, hto 45.8, cociente hto/hb 2,9 sin hemoconcentracion,
+plaquetas 25000, linfos reactivos 62%, bbt 0.54, bi 0.24, bd 0.3, ast 171, alt 154, <UBICACION>, k 4.19
+cv: ta 134/80, fc 61, no alteracion en perfusion distal. no soplos ni galope. llenado capilar 2 seg
+res: fr 21%, sat 95%, no agregados pulmonares
+<NOMBRE>: no evidencia de sangrado mayor activo
+<NOMBRE>: afebril, no signos inflamatorios infecciosos en sitios de puncion
+<UBICACION>: diuresis positiva 3.4cc/kg/h, balance negativo 2.2lt, con aporte iv alto, al igual que oral. no signos de deshidratacion.
+gi: no masas, no signos de irritacion peritoneal. no deposicion. no hepatomegalia palpable hoy.
+<NOMBRE>: glucometria 91mg, recibe y tolera via oral.
+eco abdominal total
+derrame pleural derecho.
+2. liquido libre intraabdominal, que predomina hacia la excavacion pelvica.
+3. <NOMBRE> las pared vesicular es, por patologia de base.
+4. esteatosis hepatica difusa leve.
+analisis:
+paciente de 18 anos de edad en primer dia de internacion en ucin. tiene dengue con signos de alarma en fase critica.
+ns1 positivo hoy dia 5. trombocitopenia severa obligo a manejo en unidad intensiva, sin embargo exhibe <NOMBRE>
+progresiva. se hara control hemograma en la tarde, se continua hidratacion. <UBICACION> <INSTITUCION_SALUD>
+meritorio de vigilancia en intermedia como se ha descrito.
+firmado electronicamente por -- nefrologia tarjeta profesional:identificacion
+13 enero 2025 16:02 -
+dia de hospitalizacion no.2
+diagnosticos:
+(a91x) fiebre del dengue hemorragico
+nota tarde
+leucos 5140, neutros 28%, linfos 54%, monos 9,7% hb 15,5, hto 45.8 cociente <UBICACION>/hto 2,9, <UBICACION> 13, plaquetas 40000
+en aumento. neutros en banda 2%, linfos reactivos 12%.
+2 hemogramas con evidencia de tendencia a recuperacion plaquetaria. <NOMBRE> manejo y vigilancia en unidad intermedia.
+traslado a sala de <NOMBRE> a cargo de medicina interna. se disminuye aporte de lev, se retira aislamiento. explico a
+paciente y padre, reportan entender.
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:34 -
+dia de hospitalizacion no.1
+se carga orden medica
+firmado electronicamente por - medicina general tarjeta profesional: identificacion
+14 enero 2025 09:06 -
+dia de hospitalizacion no.1
+diagnosticos:
+(a90x) fiebre del dengue dengue clasico
+diagnosticos:
+1 dengue con signos de alarma
+- dolor abdominal y cefalea
+2 hepatitis por dengue
+09 abr. 2025 15:53 pagina 12 de 31
+pagina 13 de 31
+paciente: 09-abr.-2025 15:53
+reporte de paraclinicos:
+alt 115 ast 111 leucos 4870 n 910 hb 15.8 hto 45.0 plt 65000
+transaminasas elevadas pero en descenso, hemograma sin leucocitosis, trombocitopenia en ascenso.
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+14 enero 2025 13:53 - (
+dia de hospitalizacion no.1
+diagnosticos:
+(a90x) fiebre del dengue dengue clasico
+medicina interna
+diagnosticos
+dengue
+signosde alarma corregidos
+paciente tolera ingesta alimentos de solidos y liquidos
+sin emesis
+diruesis adecuada
+examen fisico
+alerta
+mucosas humedas
+sin estertores
+abdomen blando
+sin <UBICACION>
+plan
+paciente cn dengue, <NOMBRE> palquetas
+posible egreso en 24 horas
+tipo estancia: hospitalizacion
+criterio: hospitalizacion
+presion arterial: 142/81
+pulso: 95/min
+frec. <NOMBRE>.: 16/min
+<UBICACION>: 36.2°c
+sat. oxigeno: 94
+eva: 0
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+15 enero 2025 07:05 -
+dia de hospitalizacion no.2
+diagnosticos:
+(a90x) fiebre del dengue dengue clasico
+medicina interna
+diagnosticos
+dengue con serositis
+signosde alarma corregidos
+paciente asintomatico
+examen fisico
+alerta
+mucosas humedas
+sin estertores
+09 abr. 2025 15:53 pagina 13 de 31
+pagina 14 de 31
+paciente: 09-abr.-2025 15:53
+abdomen blando
+sin <UBICACION>
+hemogram <UBICACION> palquetas en 116.000 ayer 68.000
+plan
+paciente con dengue graves, ya resuelto
+<UBICACION>
+tipo estancia: hospitalizacion
+criterio: paciente que requiera tratamiento <NOMBRE>
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+15 enero 2025 08:08 -
+dia de hospitalizacion no.2
+diagnosticos:
+(a90x) fiebre del dengue dengue clasico
+(a90x) fiebre del dengue dengue clasico
+diagnosticos:
+1 dengue con signos de alarma
+- dolor abdominal y cefalea
+2 hepatitis por dengue
+reporte de praclinicos:
+leucos 5260 n 1140 hb 15.3 hto 43.3 plt 116000
+sin leucocitosis, plt en ascenso.
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+ordenes medicas
+11 enero 2025 14:08 - (<UBICACION>)
+ (hora: 14:08) 902045 tiempo de protrombina <UBICACION> <UBICACION> aplica
+ (hora: 14:08) 902049 tiempo de tromboplastina parcial ttp <UBICACION> aplica
+ (hora: 14:08) 902210 <UBICACION> iv (hemoglobina <UBICACION> aplica
+indices eritrocitarios leucograma recuento de plaquetas indices plaquetarios y
+morfologia electronica e <UBICACION>) automatizado
+ (hora: 15:33) 903110 acido lactico l-lactato <UBICACION> aplica
+ (hora: 14:09) 903809 bilirrubinas total <UBICACION> aplica
+ (hora: 14:08) 903833 fosfatasa alcalina <UBICACION> aplica
+ (hora: 14:08) 903841 glucosa en suero u otro fluido diferente a orina <UBICACION> aplica
+ (hora: 14:08) 903856 <UBICACION> aplica
+ (hora: 14:08) 903866 transaminasa glutamico-piruvica alanino <UBICACION> transferasa <UBICACION> aplica
+ (hora: 14:08) 903867 transaminasa glutamico oxalacetica aspartato amino <UBICACION> aplica
+transferasa
+ (hora: 14:08) 903895 creatinina en suero u otros fluidos <UBICACION> aplica
+09 abr. 2025 15:53 pagina 14 de 31
+pagina 15 de 31
+paciente: 09-abr.-2025 15:53
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+11 enero 2025 15:33 -
+ (hora: 15:33) 871121 radiografia de torax (pa o ap y lateraldecubitolateraloblicuas ubicacion no aplica
+o lateral)conbario
+observaciones dengue con signos de alarma
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+11 enero 2025 15:34 -
+ (hora: 15:34) 881302 <UBICACION> abdomen total <UBICACION> aplica
+observaciones dengue con signos de alarma, dolor en hcd
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+11 enero 2025 16:46 -
+ (hora: 16:46) 890466 interconsulta por especialista en medicina interna (medicina ubicacion no aplica
+interna)
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+11 enero 2025 17:05 -
+ (hora: 17:05) 902210 <UBICACION> iv (hemoglobina <UBICACION> aplica
+indices eritrocitarios leucograma recuento de plaquetas indices plaquetarios y
+morfologia electronica e <UBICACION>) automatizado
+observaciones 11 pm
+ (hora: 17:05) 903110 acido lactico l-lactato <UBICACION>
+<UBICACION>
+<UBICACION> electronicamente por -- medicina interna tarjeta profesional:
+identificacion
+11 enero 2025 22:06 -
+ (hora: 22:06) 129a01e internacion adultos complejidad alta habitacion individual <UBICACION> aplica
+(incluye <NOMBRE>)
+observaciones a cargo d emedicina interna
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+12 enero 2025 08:54 -
+ (hora: 08:54) 110a01 internacion en unidad de cuidado intensivo adultos ubicacion no aplica
+observaciones cuidados intermedios
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+12 enero 2025 12:11 -
+ (hora: 12:11) 902210 <NOMBRE> (hemoglobina <UBICACION> aplica
+indices eritrocitarios leucograma recuento de plaquetas indices plaquetarios y
+morfologia electronica e <UBICACION>) automatizado
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+12 enero 2025 17:41 -
+ (hora: 17:41) 902210 <UBICACION> iv (hemoglobina <UBICACION> aplica
+indices eritrocitarios leucograma recuento de plaquetas indices plaquetarios y
+morfologia electronica e <UBICACION>) automatizado
+ (hora: 17:41) 903809 bilirrubinas total <UBICACION> aplica
+ (hora: 17:41) 903859 potasio en suero u otros fluidos <UBICACION> aplica
+09 abr. 2025 15:53 pagina 15 de 31
+pagina 16 de 31
+paciente: 09-abr.-2025 15:53
+ (hora: 17:41) 903864 sodio en suero u otros fluidos <UBICACION> aplica
+ (hora: 17:41) 903866 transaminasa glutamico-piruvica alanino <UBICACION> transferasa <UBICACION> aplica
+ (hora: 17:41) 903867 transaminasa glutamico oxalacetica aspartato amino <UBICACION> aplica
+transferasa
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+13 enero 2025 08:53 -
+ (hora: 08:53) 902210 <UBICACION> iv (hemoglobina <UBICACION> aplica
+indices eritrocitarios leucograma recuento de plaquetas indices plaquetarios y
+morfologia electronica e <UBICACION>) automatizado
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+13 enero 2025 16:12 -
+ (hora: 16:12) 902210 <UBICACION> iv (hemoglobina <UBICACION> aplica
+indices eritrocitarios leucograma recuento de plaquetas indices plaquetarios y
+morfologia electronica e <UBICACION>) automatizado
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:11 -
+ (hora: 00:11) 902210 <UBICACION> iv (hemoglobina <UBICACION> aplica
+indices eritrocitarios leucograma recuento de plaquetas indices plaquetarios y
+morfologia electronica e <UBICACION>) automatizado
+ (hora: 00:11) 903866 transaminasa glutamico-piruvica alanino <UBICACION> transferasa <UBICACION> aplica
+ (hora: 00:11) 903867 transaminasa glutamico oxalacetica aspartato amino <UBICACION> aplica
+transferasa
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+14 enero 2025 13:53 -
+ (hora: 13:53) 902210 <NOMBRE> (hemoglobina <UBICACION> aplica
+indices eritrocitarios leucograma recuento de plaquetas indices plaquetarios y
+morfologia electronica e <UBICACION>) automatizado
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+15 enero 2025 07:06 -
+ (hora: 07:06) 902210 <UBICACION> iv (hemoglobina <UBICACION> aplica
+indices eritrocitarios leucograma recuento de plaquetas indices plaquetarios y
+morfologia electronica e <UBICACION>) automatizado
+observaciones control en 10 dias
+ (hora: 07:07) 903866 transaminasa glutamico-piruvica alanino <UBICACION> transferasa <UBICACION> aplica
+ (hora: 07:07) 903867 transaminasa glutamico oxalacetica aspartato amino <UBICACION> aplica
+transferasa
+ (hora: 07:07) 903895 creatinina en suero u otros fluidos <UBICACION> aplica
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+15 enero 2025 07:07 -
+ (hora: 07:07) 890266 consulta de primera vez por especialista en medicina interna ubicacion no aplica
+observaciones control en 2 semanas
+09 abr. 2025 15:53 pagina 16 de 31
+pagina 17 de 31
+paciente: 09-abr.-2025 15:53
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+11 enero 2025 14:06 -
+ dolex 500 mg tableta recubierta dosificacion: 1 gramo
+cum: <ID_NUMERICO>-02 ium:
+observaciones: oral cada 8 horas durante 3 dias
+ lactato de ringer solucion inyectable bolsa x 1.000 ml ref:arb2324 dosificacion:
+observaciones: endovenosa cada 1.00 horas durante 1 dias pasar 1000 cc en bolo y <UBICACION> a 250 cc / hora
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+11 enero 2025 19:35 - (<UBICACION>)
+ <NOMBRE> de ringer solucion inyectable bolsa x 1.000 ml ref:arb2324 dosificacion:
+observaciones: endovenosa cada 1 horas durante 1 hasta nueva orden
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+12 enero 2025 11:12 -
+ dolex 500 mg tableta recubierta dosificacion: 1 gramo
+cum: <ID_NUMERICO>-02 ium:
+observaciones: <NOMBRE> cada 8.00 horas durante 1 dias 
+ <NOMBRE> de ringer solucion inyectable bolsa x 1.000 ml ref:arb2324 dosificacion:
+observaciones: endovenosa cada 1.00 infusion continua durante 1 dias 
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+13 enero 2025 08:53 -
+ dolex 500 mg tableta recubierta dosificacion: 1 gramo
+cum: <ID_NUMERICO>-02 ium:
+observaciones: oral cada 8 horas durante 1 dias 
+ <NOMBRE> de ringer solucion inyectable bolsa x 1.000 ml ref:arb2324 dosificacion:
+observaciones: endovenosa cada 1 infusion continua durante 1 dias 
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+13 enero 2025 16:03 -
+ <NOMBRE> de ringer solucion inyectable bolsa x 1.000 ml ref:arb2324 dosificacion:
+observaciones: endovenosa cada 1.00 infusion continua durante 1 dias reducir dosis
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:13 -
+ dolex 500 mg tableta recubierta dosificacion: 1 gramo
+cum: <ID_NUMERICO>-02 ium:
+observaciones: <NOMBRE> cada 8.00 horas durante 1 dias solo a necesidad
+suspendido por: .
+ <NOMBRE> de ringer solucion inyectable bolsa x 1.000 ml ref:arb2324 dosificacion:
+observaciones: endovenosa cada 1.00 infusion continua durante 1 <UBICACION>
+<UBICACION> electronicamente por -- medicina general tarjeta profesional: identificacion
+14 enero 2025 00:34 -
+ acetaminofen 500 mg tableta (acetaminofen 500 mg tableta) dosificacion: 1 gramo
+cum: 053560-05 ium:
+observaciones: oral cada 8 horas durante 0 hasta nueva orden
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+11 enero 2025 14:08 -
+(cabecera a 30 grados
+09 abr. 2025 15:53 pagina 17 de 31
+pagina 18 de 31
+paciente: 09-abr.-2025 15:53
+control de signos vitales
+<UBICACION>
+<UBICACION> sangrado
+otras ordenes: colocar toldillo
+firmado electronicamente por -- medicina general tarjeta profesional:
+identificacion
+11 enero 2025 17:29 -
+dieta completa
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+12 enero 2025 11:13 -
+cuidado integral de paciente critico en ucin
+toldillo para cama adulto
+cabecera a 30°
+dieta normal
+<NOMBRE> no invasiva de signos vitales cada 2 horas
+control estricto de liquidos administrados, eliminados, cuantificar diuresis
+<NOMBRE> ekg
+profilaxis anti tvp: no
+gastroproteccion: ibp
+analgesia: <UBICACION>
+antimicrobianos/cultivos: no
+cuidados propios de enfermeria y medidas de confort
+medidas de prevencion: higiene oral, cuidados de piel, barandas en alto
+glucometria de ingreso.
+<NOMBRE>
+tam 65-75 mmhg
+<UBICACION> mayor a 0.5cc/kg/h
+control de dolor eva menor de 4
+sato2 mayor de 9%
+<UBICACION> 80-140 mg/dl
+plan
+liquidos endovenosos ringer a 150 ml hora .
+indicado seguimiento de variables hematologicas hct - plt - funcion hepatocelular .
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+13 enero 2025 09:02 -
+cuidado integral de paciente critico en ucin
+toldillo para cama adulto
+cabecera a 30°
+dieta normal
+monitoria no invasiva de signos vitales cada 2 horas
+control estricto de liquidos administrados, eliminados, cuantificar <UBICACION>
+monitoria ekg
+<NOMBRE> anti tvp: no
+gastroproteccion: ibp
+analgesia: acetaminofen
+antimicrobianos/cultivos: no
+cuidados propios de enfermeria y <NOMBRE> confort
+medidas de prevencion: higiene oral, cuidados de piel, barandas en alto
+glucometria de ingreso.
+metas
+tam 65-75 <UBICACION>
+<UBICACION> mayor a 0.5cc/kg/h
+control de dolor eva menor de 4
+<NOMBRE> 9%
+glucometria 80-140 mg/dl
+plan
+09 abr. 2025 15:53 pagina 18 de 31
+pagina 19 de 31
+paciente: 09-abr.-2025 15:53
+liquidos endovenosos ringer a 150 ml hora .
+<NOMBRE> variables <NOMBRE>.
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+13 enero 2025 16:03 -
+traslado a sala de hospitalizacion a cargo de medicina interna.
+firmado electronicamente por -- nefrologia tarjeta profesional: identificacion
+14 enero 2025 00:13 - (piso 8 (<UBICACION>) <UBICACION>)
+avisar cambios a <NOMBRE>) al tel: <NOMBRE>
+<NOMBRE> en cama
+cabecera a 30 grados
+control de signos vitales
+control liq. admin/liq. elimin.
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+signos vitales
+fecha p. a. pam p. pulm. ppm pvc temp °c f.card. <NOMBRE>
+11/ene./2025 13:38 118/81 93 / 37.5 95 19 96
+11/ene./2025 14:06 118/81 / 37.5 95 19 96
+11/ene./2025 19:00 126/75 92 / 36.3 71 20 98 21
+11/ene./2025 21:34 117/87 97 / 36.8 89 20 98 21
+12/ene./2025 01:10 132/86 101 / 36.7 85 15 97 21
+12/ene./2025 06:29 128/98 108 / 36.9 89 15 98 21
+12/ene./2025 09:27 115/63 80 / 36.5 63 18 97 21
+nota de egreso
+12 enero 2025 10:35 -
+ingresa pcte de 18 anos de edad caminando por sus medios en compania del padre, procedente de
+candelaria,por cuadro de 4 dias con cefalea, <NOMBRE>, <NOMBRE>, <NOMBRE>,
+hiporexia, <NOMBRE>, <NOMBRE> cedio, deposiciones muy blandas, acudio a periferia le tomaron los
+siguientes examenes
+10/01/2025: <UBICACION>: leucos: 4000, <UBICACION>: 66.4% <UBICACION>: 11.9% <UBICACION>: 21.7% hb: 17.2 gr hto: 47.9% plaq:
+39.000
+igm dengue: <UBICACION>
+<UBICACION>: positivo
+11/01/2024: <UBICACION>: leucos: 7100, <UBICACION>: 62.9% <UBICACION>: 16.2% <UBICACION>: 20.9% hb: 17.9 gr hto: 52.1% plaq:
+23.000
+niega la presencia de sangrados
+<NOMBRE> nivel superior
+se atiende con epp
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+salida
+12 enero 2025 10:35 -
+(<UBICACION> al salir vivo estado al salir destino al salir ucin
+fecha y hora de salida 15 ene. 2025 07:05 remitido a
+medio de trasporte
+firmado electronicamente por -- medicina general tarjeta profesional: identificacion
+signos vitales
+fecha p. a. pam p. pulm. ppm pvc temp °c f.card. <NOMBRE>
+12/ene./2025 10:48 121/69 86 / 36.3 73 21 97 21
+12/ene./2025 11:33 100/65 / 36 74 16 98
+12/ene./2025 12:00 128/81 96 / 36.4 63 24 97 21
+12/ene./2025 14:00 128/81 93 / 36.4 66 20 96 21
+12/ene./2025 16:00 123/71 86 / 36.5 61 18 97 21
+12/ene./2025 18:00 129/77 91 / 36.6 72 26 97 21
+12/ene./2025 20:00 118/69 84 / 36.4 72 13 97 21
+09 abr. 2025 15:53 pagina 19 de 31
+pagina 20 de 31
+paciente: 09-abr.-2025 15:53
+12/ene./2025 21:00 124/48 70 / 81 15 98
+12/ene./2025 22:00 124/48 70 / 36.5 65 33 97 21
+13/ene./2025 00:00 129/74 90 / 36.3 61 13 97 21
+13/ene./2025 02:00 123/71 86 / 36.6 59 10 95 21
+13/ene./2025 04:00 132/75 91 / 36.8 64 18 93 21
+13/ene./2025 06:00 134/80 95 / 36.7 61 21 95 21
+13/ene./2025 08:00 139/85 99 / 36.6 80 32 97 21
+13/ene./2025 10:00 148/68 92 / 36.6 66 29 95 21
+13/ene./2025 12:00 134/69 89 / 37 68 21 95 21
+13/ene./2025 14:00 139/74 96 / 36.9 70 24 96 21
+13/ene./2025 16:00 135/79 95 / 64 26 96
+13/ene./2025 18:00 149/99 114 / 36.8 64 25 96 21
+13/ene./2025 20:00 / 67 35 95
+13/ene./2025 22:00 136/88 102 / 36.9 68 42 97 21
+13/ene./2025 23:57 129/83 / 36.6 63 24 100
+14/ene./2025 00:05 133/81 98 / 36.2 70 18 98 21
+14/ene./2025 00:11 0/0 / 0 0 0 0
+14/ene./2025 05:54 134/62 86 / 36.8 60 16 93 21
+14/ene./2025 09:04 142/81 101 / 36.2 95 16 94 21
+14/ene./2025 14:05 129/81 97 / 36.4 78 16 94 21
+14/ene./2025 20:25 129/71 90 / 36.2 81 16 98 21
+15/ene./2025 04:00 128/78 95 / 36.3 70 16 96 21
+salida
+15 enero 2025 07:06 - (piso 8 (<UBICACION>) <UBICACION>)
+estado vital al salir vivo estado al salir destino al salir domicilio
+fecha y hora de salida 15 ene. 2025 07:05 remitido a
+medio de trasporte
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+nota de egreso
+15 enero 2025 07:07 - (piso 8 (<UBICACION>) <UBICACION>)
+diagnosticos:
+(a90x) fiebre del dengue dengue clasico
+medicina interna
+diagnosticos
+dengue con serositis
+signosde alarma corregidos
+paciente asintomatico
+examen fisico
+alerta
+mucosas humedas
+sin estertores
+abdomen blando
+sin <UBICACION>
+hemogram <UBICACION> palquetas en 116.000 ayer 68.000
+plan
+paciente con dengue graves, ya resuelto
+<UBICACION>
+tipo estancia: hospitalizacion
+criterio: paciente que requiera tratamiento <NOMBRE>
+firmado electronicamente por -- medicina interna tarjeta profesional: identificacion
+signos vitales
+09 abr. 2025 15:53 pagina 20 de 31
+pagina 21 de 31
+paciente: ) 09-abr.-2025 15:53
+<UBICACION>. ppm pvc temp °c f.card. <NOMBRE>
+15/ene./2025 09:00 134/77 96 / 36.4 69 19 96 21
+diagnosticos egreso localizacion tipo dx
+-- (a90x) fiebre del dengue dengue clasico impresion diagnostica
+-- (a90x) fiebre del dengue dengue clasico impresion diagnostica
+-- (a91x) fiebre del dengue hemorragico impresion diagnostica
+firmado electronicamente por -- medicina de urgencias tarjeta profesional: identificacion
+control de medicamentos
+11 enero 2025 18:47 -
+ 11 ene 2025 18:49 dolex 500 mg tableta recubierta 1 gramo via oral
+observaciones: 25cc hora
+ 11 ene 2025 18:49 lactato de ringer solucion inyectable bolsa x 1.000 ml ref:arb2324 1000 mililitros via
+endovenosa
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+12 enero 2025 02:01 -
+observaciones: lev lactato de ringer 150 cc/h
+ 11 ene 2025 23:11 lactato de ringer solucion inyectable bolsa x 1.000 ml ref:arb2324 150 <UBICACION>
+endovenosa
+observaciones: se le administra 1 gramo via oral
+ 12 ene 2025 02:02 dolex 500 mg tableta recubierta 1 gramo via oral
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+12 enero 2025 03:53 -
+observaciones: lev a 150 cc/ h
+ 12 ene 2025 02:00 lactato de ringer solucion inyectable bolsa x 1.000 ml ref:arb2324 150 <UBICACION>
+endovenosa
+firmado electronicamente por -- auxiliar de enfermeria identificacion <ID_DOCUMENTO>
+12 enero 2025 10:20 -
+ 12 ene 2025 10:00 acetaminofen 500 mg tableta recubierta (dolex 500 mg tableta recubierta) 1 <UBICACION>
+<UBICACION>
+<UBICACION> electronicamente por -- auxiliar de enfermeria identificacion
+12 enero 2025 16:56 -
+observaciones: infusion continua plan
+ 12 ene 2025 14:00 lactato ringer 1.000 ml solucion inyectable (lactato de ringer solucion inyectable
+bolsa x 1.000 ml ref:<UBICACION>) 1000 <UBICACION> endovenosa
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+12 enero 2025 18:05 -
+observaciones: infusion continua plan
+ 12 ene 2025 18:06 lactato ringer 1.000 ml solucion inyectable (lactato de ringer solucion inyectable
+bolsa x 1.000 ml ref:<UBICACION>) 1000 <UBICACION> endovenosa
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+12 enero 2025 19:00 -
+ 12 ene 2025 18:00 acetaminofen 500 mg tableta recubierta (dolex 500 mg tableta recubierta) 1 <UBICACION>
+<UBICACION>
+<UBICACION> electronicamente por -- auxiliar de enfermeria identificacion
+13 enero 2025 02:10 -
+ 13 ene 2025 02:00 acetaminofen 500 mg tableta recubierta (dolex 500 mg tableta recubierta) 1 <UBICACION>
+oral
+09 abr. 2025 15:53 pagina 21 de 31
+pagina 22 de 31
+paciente: 09-abr.-2025 15:53
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+13 enero 2025 03:35 -
+ 13 ene 2025 03:30 lactato ringer 1.000 ml solucion inyectable (lactato de ringer solucion inyectable
+bolsa x 1.000 ml ref:<UBICACION>) 1000 <UBICACION> endovenosa
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+13 enero 2025 07:31 -
+ 13 ene 2025 10:00 acetaminofen 500 mg tableta recubierta (dolex 500 mg tableta recubierta) 1 <UBICACION>
+oral
+observaciones: infusion continua
+ 13 ene 2025 10:45 lactato ringer 1.000 ml solucion inyectable (lactato de ringer solucion inyectable
+bolsa x 1.000 ml ref:<UBICACION>) 1000 <UBICACION> endovenosa
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+13 enero 2025 17:04 -
+ 13 ene 2025 18:00 acetaminofen 500 mg tableta recubierta (dolex 500 mg tableta recubierta) 1 <UBICACION>
+endovenosa
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+14 enero 2025 12:49 -
+ 14 ene 2025 12:48 acetaminofen 500 mg tableta (acetaminofen 500 mg tableta) 1 gramo via oral
+observaciones: plan
+ 14 ene 2025 12:49 lactato ringer 1.000 ml solucion inyectable (lactato de ringer solucion inyectable
+bolsa x 1.000 ml ref:arb2324) 1 bolsa via endovenosa
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+14 enero 2025 20:51 -
+ 14 ene 2025 20:00 acetaminofen 500 mg tableta (acetaminofen 500 mg tableta) 1 gramo via oral
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+15 enero 2025 05:19 -
+ 15 ene 2025 04:00 acetaminofen 500 mg tableta (acetaminofen 500 mg tableta) 1 gramo via oral
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+15 enero 2025 11:10 -
+ 15 ene 2025 12:00 acetaminofen 500 mg tableta (acetaminofen 500 mg tableta) 1 gramo via oral
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+notas de enfermeria/fisioterapia
+11 enero 2025 01:37 -
+firmado electronicamente por -- enfermero(a) jefe identificacion
+11 enero 2025 15:27 - (<UBICACION>)
+ingresa paciente masculino de 18 anos de edad al servicio de urgencias piso 1 adultos en compania de familiar, se observa
+paciente alerta y orientada en sus tres esferas mentales recibiendo oxigeno a medio ambiente sin complicacion, sin deficit
+neurologico al ingreso, niega alergias a medicamentos, consulta el dia de hoy por sintomas gastrrointetinales el cual es
+valorado por <NOMBRE> ordenes las cuales se verifican y se cumplen, se observa paciente con acceso
+venoso en miembro superior izquierdo dorso con cateter 22 conectado a valvula libre de aguja fijado con micropore limpio
+y seco sin signos de flebitis realizado por canalizadores de turno, queda paciente en silla reclinabele en compania de <UBICACION>,
+tiene pendiente reporte de paraclinicos
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+09 abr. 2025 15:53 pagina 22 de 31
+pagina 23 de 31
+paciente: 11 enero 2025 16:38 - 09-abr.-2025 15:53
+paciente es enviado a la toma de eco de abdomen total,por lo que el paciente retorna a urgencias
+piso 1 a cub 29 se observa estable sin ninguna complicacion acceso venoso permeable sin signos de
+flebtisis pendiente retorno
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+11 enero 2025 19:00 -
+entrego paciente adulto en el area de observacion urgencias piso 1, en camilla con barandas de seguridad elevadas,
+despierto, consciente, orientado en sus tres esferas, con diagnostico anotados en hc. paciente quien pasa durante el
+turno aparentemente tranquilo, sin complicaciones, respirando aire ambiente, tolera via oral, no refiere ningun tipo de
+dolor, con acceso venoso en miembro superior izquierdo (dorso de la mano), con cateter numero 22, con tapon libre de
+aguja, vena permeable sin signos de flebitis, ni infeccion, con manilla de identificacion. deambula por sus propios medios y
+en compania de su familiar, refiere que elimina espontaneo. se brindaron los cuidados de enfermeria, se educa sobre los
+protocolos institucionales de caida y flebitis el cual refiere entender.
+pendiente: toma y reporte de paraclinicos de control a las 11pm, seguir con cuidados de enfermeria y nuevas ordenes
+medicas.
+recibo paciente de sexo masculino de 18 anos de edad en el servicio de observacion urgencias en camilla en el piso uno
+con barandas de camilla elevadas por seguridad de paciente en compania de su familiar a paciente adulta en cuidado basico
+con dx anotados en historia clinica manejada medicina interna con conducta de hospitalizacion ,paciente quien se
+encuentra en estables condiciones generales despierta ,consiente orientada en sus tres esfera tiempo lugar y persona
+,calmada ,colaboradora ,alerta sin alteraciones neurologicas ni respiratorias tolerando o2 al ambiente ,con reporte de eva
+0/10 ,a la valoracion cefalocaudal se observa paciente en buenas condiciones higienicas y nutricionales piel pilada hidratada
+integra ,a nivel de miembro superior mano izquierda vena periferica permeable conectada a tapon libre de aguja fijada con
+tegaderm ,pasando por bombas de infusion goteo lactato de ringer a cc a 150 cc hora vena en buenas condiciones
+generales no signos de flebitis ni extravasacion ,paciente con manilla de identificacion y tablero debidamente diligenciados
+con protocolo de riesgo de flebitis activado .a quien se aborda previos saludo y presentacion institucional ,previas medidas
+de seguridad de paciente higiene de manos paciente que se observa en buena condiones de salud que se le asiste el
+cuidado de enfermeria y su plan farmcologico paiente que tiene controla alas 23:00 pendiente tomar se le realizan control
+de liquidos eliminados y administrados pendiente vigilar el estado hemodinamcio e informar cambios .
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+11 enero 2025 21:26 -
+paciente con indicacion de cateterismo vesical, se verifica en historia clinica la indicacion. luego de asegurar la privacidad
+del paciente y explicarle el procedimiento, bajo consentimiento de paciente y/o familiar se procede a procedimiento. se
+ubica paciente en posicion ginecologica. con elementos de proteccion personal. se realiza friccion de manos con alcohol
+glicerinado. con tecnica limpia se realiza asepsia de meato urinario con clorexidina solucion con movimiento de arriba hacia
+abajo. con tecnica esteril se realiza insercion de sonda vesical <UBICACION>. 10, previamente lubricada con lidocaina jalea
+elimina 350cc de orina colurica, procedimiento sin complicaciones, se informa a medico tratante.
+firmado electronicamente por -- enfermero(a) jefe identificacion
+12 enero 2025 06:29 -
+entrego paciente de sexo masculino de 18 anos, en el servicio de observacion de urgencias, en la unidad 29 en camilla
+con barandas elevadas en posicion fowler, ubicada en sus 3 esferas: tiempo, lugar y persona, conciente, alerta, orientada,
+afebril, hidratada, sin dificultad respiratoria, diagnostico en evolucion medica, signos vitales estables, con acceso venoso
+cateter 22 mas tapon en <UBICACION> mano pasando <NOMBRE> no se observa parte de flebitis n enrrojecimiento pasabdo lev
+lactato de ringer a 150 cc / h paciente que se moviliza por sus propios medios y elimina en bano el cual se encuentra con
+control de liquidos con acompanante permanente, news: verde, niega alergia, valoracion de <NOMBRE>, paciente niega alergias
+paciente que se encuentra con toldillo el cual se encuentra con contacto por vectores paciente que se moviliza por sus
+propios medios que se le asiste el cuidado de enfermeria y su plan farmacologico se encuentra eliminando bastastate el cual
+se encuentra con trol de liquidos administrado e eliminados se deja registrado todo en nota de enfermeria paciente
+encuentra muy activo tiene pendiente asignacion de cama el cual esta a esperar de asigaion se encuentra hospitalizado se
+<UBICACION> con el integra y con petequias el cual es por sus patologia pasa buena noche estable y traquilo afebril para el
+turno pendiente vigilar el estado hemodinamico e informar cambios .
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+12 enero 2025 09:05 -
+recibo paciente en el servicio de urgencias, consciente orientado en sus tres esferas tiempo, lugar y persona, con
+diagnostico anotado en la historia clinica, paciente respirando oxigeno ambiente, tolera via oral, elimina diuresis espontaneo,
+no refiere dolor, piel integra, acceso venoso permeable sin signos de flebitis, se encuentra con orden de hospitalizacion en
+unidad de cuidados intermedios a cargo de medicina interna, se deja paciente con monitoria no invasiva, toldillo. paciente
+en compania de familiar. pendiente autorizacion y asignacion de cama.
+09 abr. 2025 15:53 pagina 23 de 31
+pagina 24 de 31
+paciente: 09-abr.-2025 15:53
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+12 enero 2025 18:10 - (ucia cuidado intermedio)
+ingresa paciente a la unidad pocedente de urgencias en camilla en compania de personal asistencial, se pasa a la cama se
+deja cabecera a 40°, al examen fisico se observa conciente, despierto, alerta, orientado en tiempo lugar y persona, avdi
+a. region occipital integra, pabellones auriculares integro. pupilas isocoricas reactivas a la luz en talla de 2mm, tolerando
+oxigeno medio ambiente saturando por encima del 90%, cuello movil sin adnopatias, <UBICACION> simetrico normo expandible
+conectado a monitoria cardiaca continua, no invasiva, sin esfuerzo respiratorio, abdomen blando, depresible, no doloroso a
+la palpacion, miembros superiores simetricos y completos, movilidad y fuerza muscular 5/5, acceso venoso en dorso de la
+mano izquierda canalizado con cateter 22 (fi enero-11-2025) pasando plan ringer a 150cc/h sitio de insercion cubierto
+con aposito transparente limpio y seco sin signos de flebitis, pulsos radial y ulnar presentes (+++) buen llenado capilar,
+genitales integros, eliminando espontaneo en pisingo, <UBICACION> sacra, inguinal bilateral <UBICACION>, <UBICACION>, trocanterica
+bilateral integra, miembros inferiores simetricos y completos, movilidad y fuerza muscular conservada 5/5, pulsos pedios
+presentes, adecuada perfusion distal y buen llenado capilar, sin edema, cama al minimo nivel de altura, barandas elevadas,
+colchon antiescaras funcional.
+<NOMBRE>: 14
+eva: 0
+alergias: no.
+<UBICACION> en: mid
+riesgo de caida: si
+aislamiento: no
+limpieza de meato urinario: si, se realiza con agua y jabon ph neutro
+higiene bucal con <NOMBRE>: si
+riesgo de lpp: presion - friccion - humedad - adhesivos
+colchon antiescaras funcional.
+paciente valorado por <NOMBRE>
+ingresa familiar, <NOMBRE> sobre evolucion
+recibe y tolera la via oral
+paciente que pasa el turno tranquilo a febril, <NOMBRE> entre parametros normales, recibe y tolera la via oral,
+fisioterapeuta realiza terapia fisica sin complicaciones, se administra tratamiento farmacologico indicado sin presentar evento
+adverso, se moviliza por sus medios en cama, paciente eliminando espontaneo en pisingo en abundante cantidad diuresis
+amarilla clara, se brindan medidas de bienestar y confort, se cumple con el plan de enfermeria.
+19:00 queda paciente en cama cabecera a 35° despierto consiente orientado en sus tres esferas avdi (a) sin cambios en
+sus dispositivos medicos.
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+13 enero 2025 06:30 -
+j19:00 horas del 12 - 07:00 horas del 13 de enero del 2025:
+recibo paciente en cama, cabecera a 35°, despierto, alerta, orientado en sus tres esferas mentales, <UBICACION> 15/15, avdi
+a. a la valoracion fisica se observa region occipital integra, pabellon auricular bilateral integro, pupilas isocoricas, foto
+reactivas en talla de 2mm, sin soporte de oxigeno, saturando 95%, tolera y recibe la via oral, cuello movil, simetrico, <UBICACION>
+simetrico, normo expandible, conectado a monitoria cardiaca continua, sin esfuerzo respiratorio, extremidades superiores
+simetricas, completas, movilidad conservada, fuerza muscular 5/5, acceso venoso en dorso de la mano del miembro superior
+izquierdo, canalizado con cateter periferico corto 22, sitio de insercion cubierto con aposito transparente, limpio y seco,
+sin signos de flebitis, permeable, recibiendo plan de liquidos en ringer a 150cc/h, pulsos radial y ulnar presentes (+++)
+buen llenado capilar, abdomen blando, depresible, no doloroso a la palpacion, genitales integros, eliminando espontaneo
+en pisingo, orina amarilla clara, <UBICACION> sacra, inguinal bilateral interglutea, gluteos, trocanterica bilateral integra,
+extremidades inferiores simetricas, completas, movilidad conservada, fuerza muscular 5/5, pulsos pedios presentes,
+adecuada perfusion distal y buen llenado capilar, sin edema, talones integros, cama a minimo nivel de altura, con barandas
+de seguridad elevadas.
+<UBICACION>: 16
+eva: 0
+alergias: no
+09 abr. 2025 15:53 pagina 24 de 31
+pagina 25 de 31
+paciente: 09-abr.-2025 15:53
+aislamiento: no
+manilla de identificacion: miembro superior derecho
+manilla de riego caida: si
+riesgo upp: friccion - humedad - presion - adhesivos
+limpieza del meato urinario: no
+higiene oral con clorhexidina: no.
+riesgo de caida: se dan recomendaciones al paciente y familia sobre la prevencion de caidas, cama con
+barandas elevadas, cama con el nivel bajo de altura, paciente con manilla de color lila, sin sujecion
+mecanica preventiva, con alarmas de monitor encendidas y timbre de llamado cerca.
+paciente a quien durante el turno se le brinda medidas de bienestar y confort, colabora con los cambios de posicion, se le
+realiza lubricacion de piel con crema humectante y aplicacion de crema a base de oxido de zinc en area de panal.
+verificacion y funcionamiento de colchon anti escaras, liberacion de presion proteccion de prominencias <NOMBRE>, uso de
+removedor de adhesivos, utilizacion de protectores de piel antes de poner adhesivos. se administra tratamiento
+farmacologico indicado, no se presentan eventos adversos. <NOMBRE> entre los parametros establecidos, no hace
+deposicion, elimina espontaneo en adecuada cantidad. duerme intervalos largos de tiempo. pasa hemodinamicamente
+estable, a febril, en compania de familiar.
+07:00 horas. queda paciente en cama, cabecera 35°, despierto, consciente, orientado en sus tres esferas mentales,
+<UBICACION> de 15/15. sin cambios en sus dispositivos medicos
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+13 enero 2025 16:44 -
+seguimiento grupo de cateter venoso seguro
+se realiza ronda de seguimiento del programa de cateter seguro, se valora paciente con vena periferica 22g ubicado en
+dorso de mano izquierda con aposito pediatrico integro, con fecha de insercion del dia 1 de enero, sitio de insercion limpio,
+sin signos de humedad, sangrado, ni flebitis, escala de maddox 0. se informa a jefe de turno.
+firmado electronicamente por -- tarjeta profesional: - identificacion
+13 enero 2025 18:14 -
+07:00 recibo paciente en cama, cabecera a 35°, despierto, alerta, orientado en sus tres esferas mentales, <UBICACION> 15/15,
+avdi a. a la valoracion fisica se observa region occipital integra, pabellon auricular bilateral integros, pupilas isocoricas, foto
+reactivas en talla de 2mm, sin soporte de oxigeno, saturando superando mayor a 90%, tolera y recibe la via oral, cuello
+movil, simetrico, <UBICACION> simetrico, normo expandible, conectado a monitoria cardiaca continua, sin esfuerzo respiratorio,
+extremidades superiores simetricas, completas, movilidad conservada, fuerza muscular 5/5, acceso venoso en dorso de la
+mano del miembro superior izquierdo, canalizado con cateter periferico corto 22, sitio de insercion cubierto con aposito
+transparente, limpio y seco, sin signos de flebitis, permeable, recibiendo plan de liquidos en ringer a 150cc/h, pulsos radial y
+ulnar presentes (+++) buen llenado capilar, abdomen blando, depresible, no doloroso a la palpacion, genitales integros,
+eliminando espontaneo en pisingo, orina amarilla clara, <UBICACION> sacra, inguinal bilateral interglutea, gluteos, trocanterica
+bilateral integra, extremidades inferiores simetricas, completas, movilidad conservada, fuerza muscular 5/5, pulsos pedios
+presentes, adecuada perfusion distal y buen llenado capilar, sin edema, talones integros, cama a minimo nivel de altura,
+con barandas de seguridad elevadas.
+<UBICACION>: 16
+eva: 0
+alergias: no
+aislamiento: no
+manilla de identificacion: miembro superior derecho
+manilla de riego caida: si
+riesgo upp: friccion - humedad - presion - adhesivos
+limpieza del meato urinario: no
+higiene oral con clorhexidina: no.
+riesgo de caida: se dan recomendaciones al paciente y familia sobre la prevencion de caidas, cama con
+barandas elevadas, cama con el nivel bajo de altura, paciente con manilla de color lila, sin sujecion
+mecanica preventiva, con alarmas de monitor encendidas y timbre de llamado cerca
+08:00 se realiza bano humedo en cama con panos institucionales, higiene ocular, higiene oral con cepillado, higiene del
+meato urinario con agua y jabon, se cambian tendidos, se hace hidratacion de la piel se administro tratamiento medico
+farmacologico ingiere y tolera su alimentacion sin complicaciones
+09 abr. 2025 15:53 pagina 25 de 31
+pagina 26 de 31
+paciente: 09-abr.-2025 15:53
+12:00 glucometrias de control de 101 mg/dl ingiere y tolera alimentacion sin complicaciones.
+paciente hemodinamicamente estable, se encuenta en compania de familiar elimina espontaneo tolerando tratamiento
+farmacologico sin ningun evento adverso.
+se realiza curacion de acceso venoso periferico.
+jefe de turno toma paraclinicos de control,
+16:00 paciente hemodinamicamente con tam entre 80-100 mmhg fc entre 60-80 lxmin, afebril, , tranquilo, acompanado
+de familiar.
+es valorado por <NOMBRE>, e indica disminuir plan de liquidos a 50cchora, y ordena traslado a piso, pendiente
+disponibilidad de la cama.
+18:00 <NOMBRE> tratamiento medico farmacologico.
+realizo irrigacion de dispositivo invasivo con jeringa prellena con tecnica paro y empujo, permeable.
+19:00 queda paciente en cama, con familiar, estado de dispositivos invasivos en adecuadas condiciones, elimino
+espontaneo, no realiza deposicion, sin cambios en sus dispositivos invasivos. pendiente disponibilidad de la cama en
+hospitalizacion.
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+14 enero 2025 00:00 -
+19:00 recibo paciente en cama, cabecera a 35°, despierto, alerta, orientado en sus tres esferas mentales, <UBICACION> 15/15,
+avdi a. a la valoracion fisica se observa region occipital integra, pabellon auricular bilateral integros, pupilas isocoricas, foto
+reactivas en talla de 2mm, sin soporte de oxigeno, saturando superando mayor a 90%, tolera y recibe la via oral, cuello
+movil, simetrico, <UBICACION> simetrico, normo expandible, conectado a monitoria cardiaca continua, sin esfuerzo respiratorio,
+extremidades superiores simetricas, completas, movilidad conservada, fuerza muscular 5/5, acceso venoso en dorso de la
+mano del miembro superior izquierdo, canalizado con cateter periferico corto 22, sitio de insercion cubierto con aposito
+transparente, limpio y seco, sin signos de flebitis, permeable, recibiendo plan de liquidos en ringer a 50 cc/h, pulsos radial y
+ulnar presentes (+++) buen llenado capilar, abdomen blando, depresible, no doloroso a la palpacion, genitales integros,
+eliminando espontaneo en pisingo, orina amarilla clara, <UBICACION> sacra, inguinal bilateral interglutea, gluteos, trocanterica
+bilateral integra, extremidades inferiores simetricas, completas, movilidad conservada, fuerza muscular 5/5, pulsos pedios
+presentes, adecuada perfusion distal y buen llenado capilar, sin edema, talones integros, cama a minimo nivel de altura,
+con barandas de seguridad elevadas.
+<UBICACION>: 16
+eva: 0
+alergias: no
+aislamiento: no
+manilla de identificacion: miembro superior derecho
+manilla de riego caida: si
+riesgo upp: friccion - humedad - presion - adhesivos
+limpieza del meato urinario: no
+higiene oral con clorhexidina: no.
+riesgo de caida: se dan recomendaciones al paciente y familia sobre la prevencion de caidas, cama con
+barandas elevadas, cama con el nivel bajo de altura, paciente con manilla de color lila, sin sujecion
+mecanica preventiva, con alarmas de monitor encendidas y timbre de llamado cerca
+durante el turno paciente permanece tranquilo, estable, recibe y tolera via oral y tratamiento farmacologico, se moviliza por
+sus medios, se le toman laboratorios y glucometrias de control, pasa el turno sin complicaciones.
+00:00 hrs se traslada paciente a piso en silla de ruedas en compania de camillero, familiar y auxiliar sin complicaciones.
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+14 enero 2025 06:44 -
+24:05 ingresa paciente de uci en silla de ruedas, acompanado de familiar, mensajero y auxiliar, se ubica en la habitacion por
+sus medios, se encuentra despierto, consiente, orientado en sus tres esferas mentales, tolerando oxigeno al medio
+ambiente, acceso venoso en dorso de la mano izquierda, cubierto con aposito transparente, limpio y seco, sin signos de
+flebitis, con fecha de inserccion del 11-01-25 permeable, pasando hartman a 50 cc/h, abdomen blando, elimina
+espontaneo en pisingo, moviliza extremidades, piel integra.
+24:20 se realiza toma de signos vitales los cuales se encuentran dentro de parametros normales, no refiere dolor, se dan
+09 abr. 2025 15:53 pagina 26 de 31
+pagina 27 de 31
+paciente: 09-abr.-2025 15:53
+recomendaciones a familiar sobre la prevencion de caidas, por ello se les indica que el paciente tiene manilla de
+identificacion con un sticker color lila que lo identifica como paciente con riesgo de caida, se le explica que debe mantener
+la cama siempre en el nivel mas bajo, las barandas de la cama siempre arriba y que debe usar el timbre de llamado de
+familiar sobre la importancia del autocuidado del paciente y seguir las medidas preventivas.
+durante la noche pasa tranquila en cama se moviliza por sus medios, recibe y tolera la via oral, no refiere dolor, auxiliar
+correspondiente le administra medicamentos ordenados sin complicaciones, elimina espontaneo 400cc, no realiza
+deposicion.
+05:00 se realiza toma de signos vitales los cuales se encuentran dentro de parametros normales, no refiere dolor
+07:00 queda paciente en cama con barandas arriba, acompanada de familiar, sin cambios por el momento
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+14 enero 2025 07:20 -
+recibo paciente de 18 anos de edad masculino en el servicio de <NOMBRE> en cama cuatro barandas de seguridad
+elevadas en compania de familiar, dx: anotado en historia clinica, a la valoracion fisica se observa despierta, consciente y
+orientada en sus tres esferas mentales tiempo, lugar y persona, apertura ocular espontanea, tolerando oxigeno al medio
+ambiente sin signos de dificultad respiratoria, adecuada respuesta verbal y motora, cuello movil, torax simetrico, acceso
+periferico dorso mano izquierdo <UBICACION> 11/01/2025 cubierto con tegaderm limpio y seco permeable pasando l ringer a 50cch
+y medicamentos ordenados, abdomen blando no doloroso a la palpacion, eliminacion espontanea respectivo control de
+liquidos, cuatro extremidades presentes, se moviliza por sus propios medios sin dificultad.
+9:00am se realiza toma de signos vitales los cuales se encuentran dentro de los parametros normales y se registran en el
+sistema, no refiere dolor en el momento, tolerando via oral y tratamiento medico ordenado, pendiente a cambios.
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+14 enero 2025 10:32 -
+se ingresa a la habitacion se brindan medidas de aseo y confort para paciente y habitacion para aseo personal paciente
+refiere que no desea pasar a la ducha el dia de hoy, solo permite el cambio de ropa de cama, se reeduca a paciente
+sobre riesgo de caida, debido desecho de los residuos, derechos y deberes de paciente, rutas de educacion y horarios de
+visita refieren entender, se hace firmar riesgo de caida por familiar.
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+14 enero 2025 18:51 -
+entrego paciente en el servicio de hospitalizacion en cama cuatro barandas de seguridad elevadas y nivel mas bajo,
+despierto, consciente y orientado en sus tres esferas mentales, durante el dia pasa tranquilo deambula en habitacion y
+fuera de ella en compania de familiar y fisioterapeuta, no presento cambios se realiza toma de signos vitales en la manana y
+la tarde en parametros normales se registran en el sistema, durante la manana se brindan medidas de aseo y confort a
+paciente y habitacion, se reeduca a familiar la importancia de timbre de llamado derechos y deberes, riesgo de caida,
+eliminacion espontanea respectivo control de liquidos, a realizado deposicion, acceso periferico permeable para
+medicamentos ordenados, pendiente a cambios.
+control de liquidos de 12 horas.
+administrados: 2270 cc.
+eliminados:2000 cc.
+balance: +270cc.
+gasto:1.8 kg
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+15 enero 2025 05:52 -
+19+05:recibo paciente adulto joven , acostado en cama con barandas arriba , en compania de familiar ,despierto , alerta
+al llamado , orientado en sus tres esferas , tolerando oxigeno al medio ambiente , extremidades complets y moviles
+canalizado en antebrazo izquierdo con liquidos permanentes cubierto limpio y seco permeable , abdomen depresible no
+doloroso a la palpacion , eliminando espontaneo , se moviliza sin limitaciones
+20+30: se realiza control de signos vitales se brinda confort , se reeduca sobre los riesgos de caida - flebitis - importancia al
+uso del llamado de enfermeria y el acompanante las 24 horas . recibe y tolera tto medico indicado
+04+30 se pasa nueva ronda por unidad de paciente se realiza control de signos vitales los cuales registro en el sistema,
+recibe y tolera tto medico indicado , paciente refiere dormir por intervalos largos sin presentar alteraciones refeire mejoria
+del dolor
+06+45: entrego paciente adulto joven en cama con barandas elevadas en compania de su familiar sin referir cambios
+durate la noche
+09 abr. 2025 15:53 pagina 27 de 31
+pagina 28 de 31
+paciente: 09-abr.-2025 15:53
+firmado electronicamente por -- auxiliar de enfermeria
+15 enero 2025 10:30 -
+07 horas
+recibo paciente mayor de edad , acostado en cama , con barandas arriba , en compania de familiar ,despierto ,alerta al
+llamado , tolerando oxigeno al medio ambiente , acceso venoso periferico en dorso de mano izquierda del dia 11 cateter
+corto calibre 22 pasando ringer a 50 cc hora por bomba de infusion permeable maddox 0 , equimosis en miembros
+superiores, abdomen depresible no doloroso a la palpacion , eliminando espontaneo , ambulatorio.
+se realiza control de signos vitales- se reportan a jefe de turno , news de 1 , eva 0/10 , se brinda confort , se dan
+recomendaciones del servicio de hospitalizacion , se reeduca sobre los riesgos de upp - caida - flebitis - importancia al uso
+del llamado de enfermeria y el acompanante las 24 horas .
+recibe medicamentos ordenados , via oral , elimina espontaneo , no realiza deposicion , se moviliza cama por sus propios
+medios , deambula por la habitacion , se realiza bano en ducha por sus propios medios evitando filtrar agua a dispositivos
+invasivos y herida qx - se cambian tendidos de cama / recibe valoracion por especialista quien da orden de egreso , jefe
+realiza entrega de ordenes medicas , solucionando dudas e inquietudes e informan signos de alarma para consultar por
+urgencias , familiar y paciente refieren entender , se retira acceso venoso , pendiente que la abuela la cual es la
+acompanante en el momento informa que estan espera al padre del paciente .
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+15 enero 2025 10:54 -
+paciente es llevado en silla de ruedas en compania de familiares y mensajero a piso 0 para traslado a domicilio , sale
+tranquilo , estable , tolerando oxigeno al medio ambiente , sin acceso venoso , equimosis en miembros superiores ,
+abdomen depresible no doloroso al momento , eliminando espontaneo , hasta el momento sin ningun tipo de sangrado ,
+piel integra , <UBICACION> 15/15 , moviliza sus cuatro extremidades , ambulatorio .
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+procedimiento de fisioterapeuta
+12 enero 2025 11:43 -
+paciente con acompanante: : no
+fecha y hora: : 12/01/2025 11:43:08 a. m.
+descripcion : soporte de oxigeno inicial: aire ambiente
+soporte de oxigeno final : aire ambiente
+diagnostico medico:
+1. dengue con signos de alarma
+- <NOMBRE>.
+antecedentes: niega
+diagnostico fisioterapeutico:
+dominio cardiovascular pulmonar: patron a, dominio musculoesqueletico: patron a, paciente
+masculino de 18 anos edad con diagnostico <NOMBRE> de alarma, no presenta en el
+momento deficiencias que comprometen el sistema cardiovascular pulmonar y osteomuscular, por lo
+que se encuentra en prevencion y <NOMBRE> igual que la
+reduccion de factores de riesgo para desmineralizacion osea. paciente en el momento presenta
+limitacion <UBICACION> en las actividades basicas cotidianas como autocuidado, actividades instrumentales
+como caminar <NOMBRE>, y por hospitalizacion presenta restriccion completa en la
+participacion familiar, social y laboral.
+signos vitales:
+tension arterial: 128/81 (96) mmhg
+frecuencia cardiaca: 74 lpm
+frecuencia respiratoria: 18 rpm
+saturacion de o2: 97%
+escala de borg:0/10
+escala de eva: 0/10
+evaluacion:
+paciente en contexto de dengue con signos de alarma en fase critica, <NOMBRE>, dia 4 , hoy
+plaquetas de 19.000 previas de plaq: 23.000, hct 48% ,<NOMBRE>, inr limite superior , ( alto
+09 abr. 2025 15:53 pagina 28 de 31
+pagina 29 de 31
+09-abr.-2025 15:53
+riesgo disfuncion hepatocelular ) , sin manifestacion de sangrado , variables macro - hemodinamicas
+en metas . se indica renimacion dirigida por volumen ,<NOMBRE> variables
+hematologicas hct - plt - funcion hepatocelular . toldillo para cama adulto . monitoria ucin.
+inspeccion: respiracion de tipo costal superior superficial, ritmico, no se evidencia signos de
+dificultad respiratoria.
+parametros ventilatorios: na
+posicion, fijacion y presion cuff del tot/tqt: na
+n° traqueostomia: na
+kit traqueostomia: completo/incompleto: na
+oclusion de tqt: na
+palpacion: sin alteraciones
+auscultacion: murmullo vesicular presente en ambos campos pulmonares sin presencia de <UBICACION>
+<UBICACION>.
+gases arteriales: pao2: co2: <ID_HISTORIA_CLINICA>: be: svo2: pao2/fio2: fio2: na
+interpretacion gases: na
+medicamentos terapeuticos: na
+examenes y ayudas diagnosticas: ya descritos.
+objetivos terapeuticos:
+monitoreo y vigilancia respiratoria
+monitoreo y vigilancia hemodinamica
+evolucion:
+paciente en el momento tranquilo, ventilatoriamente estable, con adecuada saturacion y sin signos
+de dificultad respiratoria, <NOMBRE> evaluacion pertinente, monitoreo, vigilancia hemodinamica y
+respiratoria durante ingreso. al finalizar se deja paciente en semifowler en cama con barandas
+arriba y cama nivel mas bajo, con manilla lila y timbre a la mano y monitoreo <NOMBRE>.
+<UBICACION> sobre prevencion y riesgo de caidas, se da recomendacion de mantener cama a
+nivel mas bajo , barandas <UBICACION>, <NOMBRE> manilla lila y evitar cambios de posicion y transiciones
+sin asistencia de personal clinico, paciente refiere entender.
+<UBICACION>:no
+ayudas terapeuticas: no
+firmado electronicamente por -- fisioterapia tarjeta profesional: identificacion
+12 enero 2025 18:21 -
+paciente con acompanante: : no
+fecha y hora: : 12/01/2025 06:18:50 p. m.
+descripcion : soporte de oxigeno inicial: sin soporte de o2.
+soporte de oxigeno final : sin soporte de o2.
+<NOMBRE> medico:
+1. dengue con signos de alarma
+- <NOMBRE>.
+antecedentes: niega
+diagnostico fisioterapeutico:
+dominio cardiovascular pulmonar: patron a, dominio musculoesqueletico: patron a, paciente
+masculino de 18 anos edad con diagnostico <NOMBRE> de alarma, no presenta en el
+momento deficiencias que comprometen el sistema cardiovascular pulmonar y osteomuscular, por lo
+que se encuentra en prevencion y <NOMBRE> igual que la
+reduccion de factores de riesgo para desmineralizacion osea. paciente en el momento presenta
+limitacion <UBICACION> en las actividades basicas cotidianas como autocuidado, actividades instrumentales
+como caminar <NOMBRE>, y por hospitalizacion presenta restriccion completa en la
+participacion familiar, social y laboral.
+signos vitales:
+frecuencia cardiaca: 62 lpm
+frecuencia respiratoria: 18 rpm
+09 abr. 2025 15:53 pagina 29 de 31
+pagina 30 de 31
+paciente: 09-abr.-2025 15:53
+saturacion de o2: 90%
+escala de borg :0/10
+escala de eva: 0/10
+evaluacion: paciente en contexto de dengue con signos de alarma en fase critica, <NOMBRE>, dia 4
+, <UBICACION> de 19.000 previas de plaq: 23.000, hct 48% ,<NOMBRE>, inr limite superior , ( alto
+riesgo disfuncion hepatocelular ) , sin manifestacion de sangrado , variables macro - hemodinamicas
+en metas . se indica renimacion dirigida por volumen ,<NOMBRE> variables
+hematologicas hct - plt - funcion hepatocelular . toldillo para cama adulto . monitoria ucin.
+al examen fisico, paciente conciente, tranquilo, permanece con reposo en cama y toldillo, sin
+soporte de o2, ni hemodinamico, <NOMBRE> levs.
+inspeccion: respiracion de tipo costal superior superficial, sin <NOMBRE> dificultad <NOMBRE>.
+parametros ventilatorios: na
+posicion, fijacion y presion cuff del tot/tqt: na
+n° traqueostomia: na
+kit traqueostomia: completo/incompleto: na
+oclusion de tqt: na
+palpacion: sin alteraciones
+auscultacion: murmullo vesicular presente en ambos campos pulmonares sin presencia de <UBICACION>
+<UBICACION>.
+gases arteriales: pao2: co2: <ID_HISTORIA_CLINICA>: be: svo2: pao2/fio2: fio2: na
+interpretacion gases: na
+medicamentos terapeuticos: na
+examenes y ayudas diagnosticas: ya descritos.
+objetivos <NOMBRE>:
+vigilancia respiratoria.
+firmado electronicamente por -- fisioterapia tarjeta profesional: identificacion
+13 enero 2025 17:43 -
+paciente con acompanante: : no
+fecha y hora: : 13/01/2025 02:00:00 p. m.
+descripcion : soporte de oxigeno inicial: sin soporte de o2.
+soporte de oxigeno final : sin soporte de o2.
+<NOMBRE> medico:
+1. dengue con signos de alarma
+- <NOMBRE>.
+2. hepatitis por dengue
+antecedentes: niega
+diagnostico fisioterapeutico:
+dominio cardiovascular pulmonar: patron a, dominio musculoesqueletico: patron a, paciente
+masculino de 18 anos edad con diagnostico <NOMBRE> de alarma, no presenta en el
+momento deficiencias que comprometen el sistema cardiovascular pulmonar y osteomuscular, por lo
+que se encuentra en prevencion y <NOMBRE> igual que la
+reduccion de factores de riesgo para desmineralizacion osea. paciente en el momento presenta
+limitacion <UBICACION> en las actividades basicas cotidianas como autocuidado, actividades instrumentales
+como caminar <NOMBRE>, y por hospitalizacion presenta restriccion completa en la
+participacion familiar, social y laboral.
+signos vitales:
+frecuencia cardiaca: 69 lpm
+frecuencia respiratoria: 26 rpm
+saturacion de o2: 96%
+escala de borg :0/10
+escala de eva: 0/10
+evaluacion: paciente de 18 anos de edad en primer dia de internacion en ucin. tiene dengue con signos de alarma en
+fase critica. ns1 positivo hoy dia 5. trombocitopenia severa obligo a manejo en unidad intensiva, sin embargo exhibe
+mejoria progresiva. se hara control hemograma en la tarde, se continua hidratacion. <UBICACION> <INSTITUCION_SALUD>
+le hacen meritorio de vigilancia en intermedia como se ha descrito.
+al examen fisico, paciente conciente, tranquilo, permanece con reposo en cama y toldillo, sin
+09 abr. 2025 15:53 pagina 30 de 31
+pagina 31 de 31
+paciente: 09-abr.-2025 15:53
+soporte de o2, ni hemodinamico, <NOMBRE> levs.
+inspeccion: respiracion de tipo costal superior superficial, sin <NOMBRE> dificultad <NOMBRE>.
+parametros ventilatorios: na
+posicion, fijacion y presion cuff del tot/tqt: na
+n° traqueostomia: na
+kit traqueostomia: completo/incompleto: na
+oclusion de tqt: na
+palpacion: sin alteraciones
+auscultacion: murmullo vesicular presente en ambos campos pulmonares sin presencia de <UBICACION>
+<UBICACION>.
+gases arteriales: pao2: co2: <ID_HISTORIA_CLINICA>: be: svo2: pao2/fio2: fio2: na
+interpretacion gases: na
+medicamentos terapeuticos: na
+examenes y ayudas diagnosticas: ya descritos.
+objetivos <NOMBRE>:
+vigilancia respiratoria.
+firmado electronicamente por -- fisioterapia tarjeta profesional: identificacion
+13 enero 2025 17:46 -
+paciente con acompanante: : no
+fecha y hora: : 13/01/2025 02:00:00 p. m.
+descripcion : paciente que por su enfermedad en general, debe guardar reposo en cama, en aislamiento
+con toldillo.
+firmado electronicamente por -- fisioterapia tarjeta profesional: identificacion
+nota egreso enfermeria
+15 enero 2025 10:54 -
+paciente es llevado en silla de ruedas en compania de familiares y mensajero a piso 0 para traslado a domicilio , sale
+tranquilo , estable , tolerando oxigeno al medio ambiente , sin acceso venoso , equimosis en miembros superiores ,
+abdomen depresible no doloroso al momento , eliminando espontaneo , hasta el momento sin ningun tipo de sangrado ,
+piel integra , <UBICACION> 15/15 , moviliza sus cuatro extremidades , ambulatorio .
+firmado electronicamente por -- auxiliar de enfermeria identificacion
+firmado electronicamente por
+identificacion
+especialidad
+tarjeta profesional
+09 abr. 2025 15:53 pagina 31 de 31

@@ -1,0 +1,350 @@
+# ======================================================================
+# Lista blanca semántica para el filtrado de historias clínicas (GPC dengue)
+#
+# categoria -> subcategoria -> términos.
+# - Cada subcategoría se convierte en UN concepto: sus términos se unen
+#   con ", " y se genera un solo embedding.
+# - Una oración se asigna a una subcategoría si su similitud coseno con
+#   el concepto es >= umbral. Una oración puede caer en varias.
+# - Las categorías (primer nivel) son las claves de la salida filtrada.
+# - Los cambios aplican en la siguiente tarea, sin reiniciar el servidor.
+# ======================================================================
+
+version: 1
+umbral: 0.5
+
+categorias:
+  evaluacion_general:
+    fiebre:
+    - fiebre
+    - síndrome febril
+    - cuadro febril
+    - temperatura elevada
+    - inicio y duración de la fiebre
+    - evolución de la fiebre
+    - intensidad de la fiebre
+    - fecha de inicio de la fiebre
+    sintomas_generales:
+    - anorexia
+    - náuseas
+    - vómito
+    - diarrea
+    - malestar general
+    - cefalea
+    - mialgias
+    - artralgias
+    - dolor óseo
+    - dolor abdominal
+    - prurito
+    - rash
+    - erupción cutánea
+    - exantema
+    - petequias
+    - escalofríos
+    - conjuntivitis
+    - disgeusia
+    nexo_epidemiologico:
+    - nexo epidemiológico
+    - antecedente epidemiológico
+    - viaje a zonas endémicas
+    - residencia en zona endémica
+    - exposición a arbovirosis
+    - exposición a infecciones tropicales
+    - tiempo lugar y persona
+    antecedentes:
+    - antecedentes personales
+    - antecedentes patológicos
+    - antecedentes familiares
+    - diabetes mellitus
+    - drepanocitosis
+    - enfermedad renal crónica
+    - hepatopatía
+    - coagulopatía
+    - hipertensión arterial
+    - obesidad mórbida
+    - enfermedad cardiovascular
+    - asma
+    - enfermedad osteoarticular
+    - última menstruación
+    - métodos de planificación
+    factores_riesgo_biopsicosocial:
+    - factores de riesgo biopsicosocial
+    - barrera de acceso a servicios de salud
+    - vive solo
+    - difícil acceso al centro de salud
+    - pobreza
+    - vulnerabilidad social
+    - red de apoyo
+    signos_vitales:
+    - frecuencia cardíaca
+    - frecuencia respiratoria
+    - temperatura
+    - saturación de oxígeno
+    - peso
+    - nivel de conciencia
+    - tensión arterial
+    - presión arterial
+    estado_hidratacion:
+    - estado de hidratación
+    - signos de deshidratación
+    - mucosas
+    - enoftalmos
+    - edema palpebral
+    - edema de extremidades
+    - espasmos musculares
+    - fontanela anterior
+    - oliguria
+    - anuria
+    - diuresis
+    evaluacion_hemodinamica:
+    - estado hemodinámico
+    - valoración hemodinámica
+    - presión arterial media
+    - PAM
+    - presión de pulso
+    - llenado capilar
+    - perfusión periférica
+    - calidad del pulso
+    - piel fría
+    - piel diaforética
+    - piel marmórea
+    - hipotensión
+    - hipotensión ortostática
+    manifestaciones_hemorragicas:
+    - manifestaciones hemorrágicas
+    - sangrado por mucosas
+    - petequias
+    - hematomas
+    - sangrado vaginal
+    - hemorragia
+    - prueba del torniquete
+    evaluacion_respiratoria:
+    - valoración respiratoria
+    - dificultad respiratoria
+    - disnea
+    - patrón respiratorio
+    - taquipnea
+    - tiraje intercostal
+    - ruidos respiratorios disminuidos
+    - estertores
+    - crepitantes
+    - sibilancias
+    - matidez en bases
+    - derrame pleural
+    - fuga vascular
+    - fuga capilar
+  diagnostico:
+    diagnostico_dengue:
+    - diagnóstico de dengue
+    - sospecha de dengue
+    - diagnóstico clínico de dengue
+    - clasificación clínica del dengue
+    - clasificación según gravedad
+    - dengue sin signos de alarma
+    - dengue con signos de alarma
+    - dengue grave
+    signos_alarma:
+    - signos de alarma
+    - síntomas de alarma
+    - letargo
+    - somnolencia
+    - irritabilidad
+    - vómito persistente
+    - dolor abdominal intenso
+    - intolerancia a la vía oral
+    - mareo con cambios de posición
+    - sangrado de mucosas
+    - dificultad respiratoria
+    - frialdad distal
+    - disminución de la diuresis
+    - acumulación de líquidos
+    diagnostico_diferencial:
+    - diagnóstico diferencial
+    - leptospirosis
+    - otros arbovirus
+    - malaria
+    - hepatitis
+    - fiebre tifoidea
+    - fiebre hemorrágica
+    laboratorio:
+    - hemograma
+    - cuadro hemático
+    - hematocrito
+    - hemoglobina
+    - plaquetas
+    - leucocitos
+    - función hepática
+    - transaminasas
+    - glucosa
+    - electrolitos séricos
+    - urea
+    - creatinina
+    - gases arteriales
+    - lactato
+    - tiempos de coagulación
+    - enzimas cardíacas
+    - troponinas
+    pruebas_confirmatorias:
+    - NS1 dengue
+    - antígeno NS1
+    - IgM dengue
+    - ELISA
+    - RT-PCR
+    - PCR para dengue
+    - aislamiento viral
+    - prueba rápida de dengue
+    imagenes_diagnosticas:
+    - ecografía abdominal
+    - radiografía de tórax
+  manejo_ambulatorio:
+    medidas_generales:
+    - reposo
+    - reposo en cama
+    - hidratación
+    - ingesta adecuada de líquidos
+    - suero de rehidratación oral
+    - vigilancia de signos de alarma
+    - uso de toldillo
+    - recomendaciones por escrito
+    - educación al paciente
+    control:
+    - control médico
+    - hemograma de control
+    - nuevo cuadro hemático
+    - control el día de la defervescencia
+    medicamentos:
+    - acetaminofén
+    - paracetamol
+    - dipirona
+    - metamizol
+    - manejo antipirético
+    - manejo analgésico
+    - dosis del medicamento
+    medicamentos_a_evitar:
+    - AINEs
+    - antiinflamatorios no esteroideos
+    - ácido acetilsalicílico
+    - ASA
+    - medicamentos intramusculares
+    - no uso de AINEs
+    - evitar AINEs
+    - evitar ASA
+  manejo_hospitalario:
+    hidratacion_iv:
+    - terapia intravenosa
+    - terapia IV
+    - hidratación intravenosa
+    - líquidos intravenosos
+    - cristaloides
+    - solución isotónica
+    - lactato de ringer
+    - ringer lactato
+    - solución salina normal
+    - SSN
+    - SSN 0.9%
+    esquema_hidratacion:
+    - 10 ml/kg/h
+    - 10 ml por kilogramo por hora
+    - 20 ml/kg
+    - 1-2 horas
+    - 15-30 minutos
+    - bolo de líquidos
+    - segundo bolo
+    - tercer bolo
+    - reducción progresiva del goteo
+    monitoreo:
+    - monitoreo de signos vitales
+    - vigilancia de signos vitales
+    - frecuencia cardíaca
+    - frecuencia respiratoria
+    - tensión arterial
+    - llenado capilar
+    - monitoreo del gasto urinario
+    - balance hídrico
+    - vigilancia del balance hídrico
+    paraclinicos:
+    - hemograma de control
+    - hematocrito
+    - transaminasas
+    - glicemia
+    - electrolitos
+    - urea
+    - creatinina
+    - gases arteriales
+    - lactato
+    - NS1 dengue
+    - IgM dengue
+    - ECG
+    - troponinas
+    criterios_egreso:
+    - criterios de egreso
+    - criterios para alta
+    - ausencia de fiebre por 48 horas
+    - desaparición de signos de alarma
+    - mejoría de la sintomatología
+    - signos vitales estables
+    - diuresis normal
+    - buena tolerancia a la vía oral
+    - hematocrito estable
+  manejo_uci:
+    criterios_gravedad:
+    - criterios de UCI
+    - manejo en UCI
+    - choque
+    - choque por dengue
+    - distrés respiratorio
+    - acumulación de líquidos
+    - sangrado severo
+    - hemorragia grave
+    - daño de órgano
+    - daño de órgano blanco
+    reanimacion:
+    - cristaloides intravenosos
+    - 20 ml/kg
+    - 15-30 minutos
+    - segundo bolo
+    - tercer bolo
+    - valoración médica posterior
+    - hematocrito antes de hidratación
+    - hematocrito después de hidratación
+    - disminución progresiva del goteo
+    choque_persistente:
+    - persistencia de signos de choque
+    - disfunción de bomba
+    - acidosis persistente
+    - riesgo de hemorragia oculta
+    - inestabilidad hemodinámica persistente
+    - disminución súbita del hematocrito
+    hemorragia:
+    - hemorragia grave
+    - hemorragia oculta
+    - sangrado visible persistente
+    - transfusión
+    - transfusión de hemocomponentes
+    - hemocomponentes
+    sobrecarga_hidrica:
+    - sobrecarga hídrica
+    - signos de sobrecarga hídrica
+    - dificultad respiratoria
+    - taquipnea
+    - estertores
+    - crepitantes
+    - sibilancias
+    - derrame pleural
+    - ascitis a tensión
+    - ingurgitación yugular
+    - taquicardia
+    monitoreo_intensivo:
+    - ABC
+    - evaluación ABC
+    - monitoreo intensivo
+    - monitoreo continuo
+    - signos vitales cada 5 a 30 minutos
+    - vigilancia estricta
+    - balance hídrico estricto
+    complicaciones:
+    - daño de órgano blanco
+    - desequilibrio hidroelectrolítico
+    - alteraciones glucémicas
+    - infecciones concomitantes
+    - complicaciones del dengue

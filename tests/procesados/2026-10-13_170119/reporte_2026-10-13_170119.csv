@@ -1,0 +1,15 @@
+﻿doc_id;archivo;estado;adherencia_global_%;puntaje_promedio;observaciones
+d591a97a0175;HistoriaPruebaDengueHUV.pdf;error;;;"ImportError: DLL load failed while importing _check_build: Una directiva de Control de aplicaciones bloqueó este archivo.
+___________________________________________________________________________
+Contents of D:\TrabajosPosgrado\ProyectoGrado\DesarrolloSoftware\proyectGrado\gpc-dengue\backend\.venv\Lib\site-packages\sklearn\__check_build:
+meson.build               _check_build.cp311-win_amd64.lib_check_build.cp311-win_amd64.pyd
+_check_build.pyx          __init__.py               __pycache__
+___________________________________________________________________________
+It seems that scikit-learn has not been built correctly.
+
+If you have installed scikit-learn from source, please do not forget
+to build the package before using it. For detailed instructions, see:
+https://scikit-learn.org/dev/developers/development_setup.html#install-editable-version-of-scikit-learn
+
+If you have used an installer, please check that it is suited for your
+Python version, your operating system and your platform."
