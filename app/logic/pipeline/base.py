@@ -23,6 +23,12 @@ class Contexto:
     # --- filtrar ---
     filtraciones: dict[str, str] = field(default_factory=dict)   # categoría -> texto relevante
 
+    # --- evaluar_llm ---
+    evaluaciones: list[dict] = field(default_factory=list)       # una entrada por ítem de la GPC
+
+    # --- calcular_indicador ---
+    indicador: dict = field(default_factory=dict)                # {items, modulos, indicadores}
+
     # --- trazabilidad ---
     tiempos: dict[str, float] = field(default_factory=dict)
 

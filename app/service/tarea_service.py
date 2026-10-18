@@ -5,7 +5,15 @@ from pathlib import Path
 from app.logic import tarea_logic
 from app.logic.pipeline.base import Contexto, Pipeline
 from app.logic.pipeline.flujo import construir_pipeline
-from app.schemas.tareas import MODELO_EMBEDDINGS, DocumentoTarea, EstadoDocumento, EstadoTarea, Tarea, TareaRespuesta
+from app.schemas.tareas import (
+    MODELO_EMBEDDINGS,
+    DocumentoTarea,
+    EstadoDocumento,
+    EstadoTarea,
+    ResumenTareaActiva,
+    Tarea,
+    TareaRespuesta,
+)
 
 log = logging.getLogger(__name__)
 
@@ -39,11 +47,13 @@ class TareaService:
         self._activas: dict[str, Tarea] = {}                 # Estado vivo de las tareas en ejecución
         self._background: set[asyncio.Task] = set()          # Referencias para que el GC no las cancele
         self._por_detener: set[str] = set()                  # Tareas a las que se pidió detener
-        self._etapas = construir_pipeline("pymupdf", True, MODELO_EMBEDDINGS).nombres   # Solo para los nombres
+        self._etapas = construir_pipeline("pymupdf", True, MODELO_EMBEDDINGS, None).nombres   # Solo para los nombres
 
-    async def crear(self, carpeta_entrada: str, carpeta_salida: str, extractor: str, segmentar: bool, modelo_embeddings: str) -> str:
+    async def crear(
+        self, carpeta_entrada: str, carpeta_salida: str, extractor: str, segmentar: bool, modelo_embeddings: str, modelo_llm: str
+    ) -> str:
         tarea = await asyncio.to_thread(
-            tarea_logic.crear_tarea, carpeta_entrada, carpeta_salida, extractor, segmentar, modelo_embeddings
+            tarea_logic.crear_tarea, carpeta_entrada, carpeta_salida, extractor, segmentar, modelo_embeddings, modelo_llm
         )
         tarea_logic.guardar(tarea)
         self._lanzar(tarea)
@@ -83,6 +93,24 @@ class TareaService:
         ids = await asyncio.to_thread(tarea_logic.listar_no_completadas)
         return [i for i in ids if i not in self._activas]
 
+    async def en_ejecucion(self) -> list[ResumenTareaActiva]:
+        """Tareas que se están ejecutando ahora (incluye las que se están deteniendo)."""
+        return [
+            ResumenTareaActiva(
+                tarea_id=tarea.tarea_id,
+                creada=tarea.creada,
+                extractor=tarea.extractor,
+                modelo_llm=tarea.modelo_llm,
+                progreso=tarea_logic.calcular_progreso(tarea),
+                en_curso={
+                    doc.archivo: doc.etapa or "en_cola"
+                    for doc in tarea.documentos.values()
+                    if doc.estado == EstadoDocumento.EN_PROCESO
+                },
+                deteniendo=tarea.tarea_id in self._por_detener,
+            )
+            for tarea in list(self._activas.values())
+        ]
 
     def _cargar(self, tarea_id: str) -> Tarea:
         tarea = tarea_logic.cargar(tarea_id)
@@ -100,7 +128,7 @@ class TareaService:
         try:
             tarea.estado, tarea.error, tarea.finalizada = EstadoTarea.EN_EJECUCION, None, None
             tarea_logic.guardar(tarea)
-            pipeline = construir_pipeline(tarea.extractor, tarea.segmentar, tarea.modelo_embeddings)
+            pipeline = construir_pipeline(tarea.extractor, tarea.segmentar, tarea.modelo_embeddings, tarea.modelo_llm)
             await asyncio.gather(*(
                 self._procesar_documento(tarea, pipeline, doc)
                 for doc in tarea_logic.documentos_pendientes(tarea)
@@ -111,6 +139,11 @@ class TareaService:
             else:
                 tarea_logic.finalizar(tarea)
                 log.info("tarea %s finalizada: %s", tarea.tarea_id, tarea.resumen)
+                try:
+                    tarea.reportes = await asyncio.to_thread(tarea_logic.generar_reporte, tarea)
+                except Exception as exc:  # Un fallo del reporte no debe perder los resultados por HC
+                    tarea.error = f"No se pudo generar el reporte: {type(exc).__name__}: {exc}"
+                    log.exception("reporte de la tarea %s falló", tarea.tarea_id)
         except Exception as exc:  # Error al iniciar la tarea (no de un documento)
             tarea.estado = EstadoTarea.ERROR
             tarea.error = f"{type(exc).__name__}: {exc}"
@@ -138,6 +171,7 @@ class TareaService:
             try:
                 ctx = await asyncio.to_thread(pipeline.ejecutar, ctx, marcar_etapa)
                 doc.estado, doc.etapa, doc.tiempos = EstadoDocumento.COMPLETADO, None, ctx.tiempos
+                doc.indicador = ctx.indicador
             except _DetencionSolicitada:
                 doc.estado, doc.etapa = EstadoDocumento.PENDIENTE, None   # Se reprocesa completo al reanudar
             except Exception as exc:  # Un documento con error no detiene la tarea

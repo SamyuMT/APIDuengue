@@ -1,0 +1,59 @@
+# ======================================================================
+# Indicador de adherencia a la GPC de dengue (pipeline/indicador)
+#
+# Por ítem: la respuesta validada del LLM (SI / NO / PARCIAL) se guarda con su
+# código (para el Excel) y se califica con su puntaje.
+# Por módulo: promedio de los puntajes de sus ítems que califican.
+# Indicadores macro: promedio de sus módulos. Total: promedio de los macro.
+# Los cambios aplican en la siguiente tarea, sin reiniciar el servidor.
+# ======================================================================
+
+version: 1
+
+# Código de cada respuesta en el Excel
+codigos:
+  "NO": 0
+  SI: 1
+  PARCIAL: 2
+
+# Calificación de cada respuesta (PARCIAL se puede cambiar a futuro, p. ej. a 3)
+puntajes:
+  SI: 5
+  PARCIAL: 5
+  "NO": 1
+
+# Respuesta que se asume si el ítem no tiene respuesta (p. ej. sin texto filtrado para su grupo)
+sin_respuesta: "NO"
+
+# Módulos = grupo_evaluacion de los prompts. El orden es el de las columnas del Excel.
+modulos:
+  evaluacion_general: Evaluación general
+  diagnostico: Diagnóstico, evaluación y clasificación
+  manejo_ambulatorio: Manejo ambulatorio
+  manejo_hospitalario: Manejo hospitalario
+  manejo_uci: Manejo UCI
+
+# Indicadores macro: promedio de los módulos que agrupan (MANEJO abarca los tres de manejo)
+macro:
+  evaluacion_general: [evaluacion_general]
+  diagnostico: [diagnostico]
+  manejo: [manejo_ambulatorio, manejo_hospitalario, manejo_uci]
+
+# Nivel según la calificación: se asigna el primero cuyo `desde` sea <= la calificación
+# (BAJO < 3; MEDIO de 3 a < 4; ALTO de 4 a 5)
+niveles:
+  - {nivel: ALTO, desde: 4}
+  - {nivel: MEDIO, desde: 3}
+  - {nivel: BAJO, desde: 0}
+
+# Ítems que se reportan pero NO entran en la calificación
+excluir:
+  - item14   # Solo condiciona los ítems 17 y 18
+  - item24   # Obligatorio diligenciar, no califica
+  - item25   # Obligatorio diligenciar, no califica
+
+# Si `item` tiene una de las respuestas `cuando`, los ítems de `anular` no tienen valor
+condicionales:
+  - item: item14
+    cuando: ["NO"]
+    anular: [item17, item18]

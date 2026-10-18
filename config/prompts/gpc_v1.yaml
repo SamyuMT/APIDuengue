@@ -1,0 +1,1409 @@
+# Prompts de evaluación GPC dengue (v1), generados desde PruebasSeleccionTecnicas/LLM/prompts/v1.json
+# - grupo_evaluacion: categoría de la salida filtrada que se inserta en {contenido}.
+# - Ítems sin grupo_evaluacion se omiten en la evaluación.
+
+version: v1
+items:
+- filename: item1-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se pregunta por la presencia de fiebre y se caracteriza con fecha de inicio, intensidad (grados Celsius) y patrón de evolución.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item2-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    El interrogatorio permite construir una definición de caso con síntomas como: erupción, conjuntivitis, artralgias, mialgias o dolor óseo, cefalea, prurito, petequia, disgeusia, rash, escalofríos.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item3-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se pregunta por nexo epidemiológico para arbovirosis y otras infecciones tropicales (tiempo, lugar y persona) que permitan orientar el diagnóstico diferencial.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item4-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se pregunta por antecedentes personales y/o familiares como diabetes Mellitus, drepanocitosis, enfermedad renal crónica, hepatopatías, coagulopatías, hipertensión arterial, obesidad mórbida, enfermedad cardiovascular, asma, enfermedad osteoarticular y se determinó la fecha de la última menstruación y métodos de planificación, cuando aplique.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item5-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se pregunta por factores de riesgo biopsicosocial que representen una barrera de acceso: vive solo, difícil acceso al centro de salud, pobreza u otros.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item6-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se pregunta por síntomas y signos de alarma irritabilidad o somnolencia (en pediátricos), letargo, sangrado por mucosas, vómito persistente, dolor abdominal, mareo con los cambios de posición, sensación de sed, intolerancia a la vía oral, espasmos musculares, dificultad respiratoria, frialdad distal (especialmente en niños), y además se pregunta la ingesta de líquido (especifica los tipos y la frecuencia), disminución en de la diuresis y diuresis en las últimas 6 horas.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item7-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se pregunta y se registra sobre la ingesta de líquidos (especifica los tipos y la frecuencia), uso de infusiones (como Té).
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item8-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se interroga por automedicación haciendo énfasis en antipiréticos, AINES, ASA y antibióticos, o medicina tradicional.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item9-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se realizó conciliación medicamentosa determinando uso de antihipertensivos, hipoglicemiantes, diuréticos, esteroides, anticoagulantes, antiagregantes, entre otros.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item10-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    En el texto se reporta la siguiente información del paciente, según corresponda a su edad:
+    - Frecuencia cardíaca.
+    - Frecuencia respiratoria.
+    - Temperatura.
+    - Saturación de oxígeno.
+    - Peso.
+    - Nivel de conciencia.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item11-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Estado de hidratación del paciente: mucosas, enoftalmos, edema palpebral, de pared abdominal y extremidades; espasmos musculares, fontanela anterior en lactantes, anuria, oliguria.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item12-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se evalúan otros hallazgos clínicos relevantes no clasificados en ítems anteriores.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item13-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Valoración específica del estado hemodinámico con TA, PAM, presión de pulso, llenado capilar, estado de la piel (frialdad, diaforética, marmórea, etc.), calidad del pulso. Se debe incluir pruebas dinámicas para hipotensión ortostática.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item14-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Búsqueda activa de manifestaciones hemorrágicas: petequia, hematomas, evidencia de sangrado (incluyendo sangrado vaginal no asociado a menstruación normal para la paciente), prueba del torniquete.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item15-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Examen torácico dirigido a la identificación de signos de dificultad respiratoria y fuga vascular: patrón respiratorio, signos de dificultad respiratoria, ruidos respiratorios disminuidos, agregados pulmonares, matidez en bases.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item16-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se solicitó y se interpretó hemograma completo.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item17-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se solicitó ecografía abdominal y radiografía de tórax ante hallazgos clínicos sugestivos de fuga vascular.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item18-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se solicitó, según indicación del médico tratante pruebas de función hepática, glucosa, electrolíticos séricos, urea, creatinina, gases arteriales o lactato, enzimas cardiacas, etc. y se interpretó y consignó los resultados.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item19-v1
+  grupo_evaluacion: evaluacion_general
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se solicitaron las pruebas de laboratorio indirectas confirmatorias según el tiempo de evolución de la fiebre: <= 5 días de evolución, NS1 Dengue (ELISA o pruebas rápidas) y >= 6 días IgM Dengue (Elevada hasta 3 meses).
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item20-v1
+  grupo_evaluacion: diagnostico
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se consideró el diagnóstico de dengue, leptospirosis, otros arbovirus, malaria, hepatitis, fiebre tifoidea o fiebres hemorrágicas como diagnóstico diferencial.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item21-v1
+  grupo_evaluacion: diagnostico
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se realiza de forma adecuada la clasificación clínica según gravedad.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item22-v1
+  grupo_evaluacion: diagnostico
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    El médico ordenó el manejo pertinente de acuerdo con la clasificación por grupos de manejo (A, B1, B2, C).
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item23-v1
+  grupo_evaluacion: diagnostico
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    El destino del paciente fue adecuado según el grupo de manejo: Ambulatorio, Hospitalario o UCI.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item24-v1
+  grupo_evaluacion: diagnostico
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Destino del paciente según el grupo de manejo: Ambulatorio, Hospitalario o UCI.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item25-v1
+  grupo_evaluacion: diagnostico
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    El paciente fue remitido a una IPS de mayor complejidad.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item26-v1
+  grupo_evaluacion: diagnostico
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se registra como diagnóstico principal de remisión Dengue.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item27-v1
+  grupo_evaluacion: diagnostico
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se registra la clasificación clínica de egreso.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item28-v1
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se evalúa el cumplimiento del plan de manejo ambulatorio o conducta inicial del paciente.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item29-v1
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se realiza monitoreo y seguimiento clínico adecuado según estado del paciente.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item30-v1
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se evalúa la indicación y reevaluación de la conducta terapéutica aplicada.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item31-v1
+  grupo_evaluacion: manejo_ambulatorio
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    El médico ordenó: Reposo en cama, ingesta adecuada de líquidos (adultos: hasta 3 L diario, pediátricos según Holliday S.), vigilancia de signos de alarma, control médico con nuevo CH el día de la defervescencia, recomendaciones de uso de toldillo (hasta culminación de fiebre), no uso de otros medicamentos o conciliación medicamentosa (énfasis en AINES, ASA y antibióticos) y control de pérdida de líquidos.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item32-v1
+  grupo_evaluacion: manejo_ambulatorio
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se evidencia en la orden médica ingesta adecuada de líquidos (adultos: hasta 3 L diario, pediátricos según Holliday S.), así como todas las recomendaciones de manejo de líquidos ambulatorio.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item33-v1
+  grupo_evaluacion: manejo_ambulatorio
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se entregaron las órdenes y recomendaciones del ítem 22 por escrito.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item34-v1
+  grupo_evaluacion: manejo_ambulatorio
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se prescribió acetaminofén VO: adultos 500 mg dosis cada 4-6 horas (máximo 4 g/día), y niños 10 mg/kg cada 6 horas, o dipirona VO Metamizol sódico, metamizol magnésico en caso de alergia al acetaminofén.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item35-v1
+  grupo_evaluacion: manejo_ambulatorio
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Durante el manejo, el médico evitó la prescripción y el uso de medicamentos pertenecientes al grupo de los AINES, ASA y/o de administración vía IM.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item36-v1
+  grupo_evaluacion: manejo_hospitalario
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    En caso de disponibilidad, se tomó cuadro hemático ANTES de iniciar terapia de líquidos IV.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item37-v1
+  grupo_evaluacion: manejo_hospitalario
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    En pacientes SIN Signos de Alarma pertenecientes a los Grupos de Riesgo, se les inició cristaloides IV (lactato de ringer o SSN) o SRO VO según HS + 5%.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item38-v1
+  grupo_evaluacion: manejo_hospitalario
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Paciente CON Signos de Alarma: se inició cristaloides IV (lactato de ringer o SSN 0.9%) con esquema de 10 ml/kg/h durante 1-2 horas; luego se revaloró y se redujo goteo según respuesta clínica y algoritmo.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item39-v1
+  grupo_evaluacion: manejo_hospitalario
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Si NO hay mejoría tras la conducta del ítem 28, se definió el siguiente esquema: continuar hasta 2 bolos más de 10 ml/kg/h durante 1-2 horas y solicitar hemograma de control.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item40-v1
+  grupo_evaluacion: manejo_hospitalario
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Monitoreo de signos vitales (TA, FC, Llenado capilar, FR) cada 1-4 horas durante las primeras 48 horas de hospitalización.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item41-v1
+  grupo_evaluacion: manejo_hospitalario
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Manejo analgésico y antipirético según lineamiento técnico (especificar dosis en observaciones).
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item42-v1
+  grupo_evaluacion: manejo_hospitalario
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Monitoreo de gasto urinario cada 4-6 horas.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item43-v1
+  grupo_evaluacion: manejo_hospitalario
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Orden e interpretación de paraclínicos (CH, transaminasas, tiempos de coagulación, glicemia, NS1 e IgM Dengue, ECG y troponinas, electrolíticos, urea, creatinina, gases arteriales o lactato), según pertinencia.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item44-v1
+  grupo_evaluacion: manejo_hospitalario
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Al egreso, el paciente cumple criterios: afebril 48 h sin antipiréticos, sin signos de alarma, remisión de síntomas, signos vitales estables, diuresis normal, buena tolerancia VO y hematocrito estable sin líquidos IV.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item45-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    El paciente cumplía con criterios para tratamiento en UCI (Choque, acumulación de líquidos con distrés respiratorio, sangrado severo o daño de órgano) consignados en historia clínica.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item46-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se tomó cuadro hemático ANTES de iniciar terapia intravenosa.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item47-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se inició solución isotónica de cristaloides IV 20 ml/Kg/15-30 min, con valoración médica posterior.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item48-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Ante deterioro posterior a la valoración del ítem 36, se administró segundo/tercer bolo 15-30 min según requerimiento; se realizó nueva valoración con inclusión de hematocrito. Si hubo mejoría tras el primer bolo, se disminuyó progresivamente el goteo.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item49-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se dio manejo analgésico y antipirético según lineamiento técnico (especificar dosis en observaciones).
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item50-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Ante persistencia de signos de choque, se buscó disfunción de bomba, se evaluaron condiciones médicas concomitantes y se estabilizó la condición de base; se evaluó acidosis persistente y riesgo de hemorragia (oculta).
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item51-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    En sospecha de hemorragia grave (disminución súbita de hematocrito, inestabilidad hemodinámica persistente, choque persistente, cambios en hematocrito basal pre-reanimación hídrica, hemorragia visible persistente asociada a inestabilidad), se indicó transfusión de hemocomponentes.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item52-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se verificaron síntomas y signos de sobrecarga hídrica y se inició manejo oportuno y ajustado según hallazgos.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item53-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se evidencia ABC y monitoreo de signos vitales (TA, FC, Llenado capilar, FR) cada 5 a 30 minutos.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item54-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se evidencia vigilancia estricta de balance hídrico.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item55-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se realizó toma e interpretación de hematocrito (antes y después de cada hidratación y luego periódica según lineamiento).
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}
+- filename: item56-v1
+  grupo_evaluacion: manejo_uci
+  prompt: |-
+    Analiza exclusivamente el contenido proporcionado y determina si en el texto se reporta la información solicitada.
+
+    Pregunta a responder:
+    Se verificaron complicaciones y su manejo: daño de órgano blanco, desequilibrio hidroelectrolítico, alteraciones glucémicas e infecciones concomitantes.
+
+    Criterios de evaluación:
+    - SI: El texto reporta la totalidad de la información solicitada de forma identificable.
+    - PARCIAL: El texto reporta solo una parte de la información solicitada.
+    - NO: El texto no reporta ninguna de las variables solicitadas.
+
+    La evaluación debe basarse únicamente en la información explíclitamente presente en el contenido. No infieras, supongas ni completes información que no esté reportada.
+
+    Regla de salida:
+    Responde exclusivamente con una de estas tres opciones exactas:
+    SI
+    PARCIAL
+    NO
+
+    No proporciones explicaciones, comentarios, justificaciones, texto adicional ni ningún otro contenido, es prohibido crear una respuesta extensa solo espero que responda un SI, NO o PARCIAL, no agregues nada más.
+
+    Contenido a evaluar:
+    {contenido}

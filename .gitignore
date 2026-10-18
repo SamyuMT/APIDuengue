@@ -16,3 +16,6 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Chats con el LLM (pueden contener texto clínico)
+data/llm/chats/

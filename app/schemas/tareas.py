@@ -28,6 +28,7 @@ class DocumentoTarea(BaseModel):
     etapa: str | None = None              # Etapa actual, o en la que falló si estado = error
     error: str | None = None
     tiempos: dict[str, float] = {}        # etapa -> segundos
+    indicador: dict | None = None         # {items, modulos, indicadores}; se usa en el reporte consolidado
 
 
 class Tarea(BaseModel):
@@ -45,6 +46,8 @@ class Tarea(BaseModel):
     extractor: str
     segmentar: bool = True                       # True: por oraciones (NLTK); False: por líneas
     modelo_embeddings: str = MODELO_EMBEDDINGS   # Carpeta dentro de models/
+    modelo_llm: str | None = None                # Modelo principal (vinculado en /v1/llm/modelos)
+    reportes: list[str] = []                     # Rutas del reporte consolidado (Excel y JSON)
 
 class Progreso(BaseModel):
     total: int
@@ -60,6 +63,7 @@ class CrearTareaRequest(BaseModel):
     extractor: str # extractores (pymupdf, pdfplumber)
     segmentar: bool = True                       # Filtrado por oraciones (True) o por líneas (False)
     modelo_embeddings: str = MODELO_EMBEDDINGS   # Debe estar descargado en models/
+    modelo_llm: str                              # Modelo principal; si falla se usan los demás vinculados
 
     model_config = {
         "json_schema_extra": {
@@ -69,6 +73,7 @@ class CrearTareaRequest(BaseModel):
                 "extractor": "pdfplumber",
                 "segmentar": True,
                 "modelo_embeddings": MODELO_EMBEDDINGS,
+                "modelo_llm": "gpt4o-mini",
             }
         }
     }
@@ -86,3 +91,15 @@ class TareaAccion(BaseModel):
 class TareaRespuesta(Tarea):
     progreso: Progreso
     etapas: list[str]                     # Etapas del pipeline, en orden
+
+
+class ResumenTareaActiva(BaseModel):
+    """Una tarea que se está ejecutando ahora mismo (estado en memoria, no del checkpoint)."""
+
+    tarea_id: str
+    creada: str
+    extractor: str
+    modelo_llm: str | None
+    progreso: Progreso
+    en_curso: dict[str, str]              # archivo -> etapa actual (varios documentos en paralelo)
+    deteniendo: bool                      # Se pidió detener y está terminando la etapa en curso

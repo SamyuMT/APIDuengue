@@ -4,9 +4,12 @@ import uuid
 from datetime import datetime
 from pathlib import Path
 
-from app.core.rutas import MODELS_DIR
+from app.core.rutas import CONFIG_DIR, MODELS_DIR
 from app.logic.document_logic import find_pdfs, validate_folder
+from app.logic.llm import registro
 from app.logic.pipeline.filtracion.embedder import ruta_modelo
+from app.logic.pipeline.indicador.config import cargar_indicador
+from app.logic.pipeline.indicador.reporte import generar_reporte as escribir_reporte
 from app.schemas.tareas import DocumentoTarea, EstadoDocumento, EstadoTarea, Progreso, Tarea
 
 CHECKPOINT_DIR = Path(__file__).resolve().parents[2] / "data" / "tareas"
@@ -19,9 +22,15 @@ def doc_id_para(ruta: Path) -> str:
 
 
 
-def crear_tarea(carpeta_entrada: str, carpeta_salida: str, extractor: str, segmentar: bool, modelo_embeddings: str) -> Tarea:
+def crear_tarea(
+    carpeta_entrada: str, carpeta_salida: str, extractor: str, segmentar: bool, modelo_embeddings: str, modelo_llm: str
+) -> Tarea:
     """Valida la entrada, lista los PDF y prepara la carpeta de salida de la tarea."""
     ruta_modelo(MODELS_DIR, modelo_embeddings)   # Falla antes de empezar si el modelo no está en models/
+    try:
+        registro.obtener(modelo_llm)
+    except KeyError as exc:
+        raise ValueError(str(exc)) from None
     entrada = validate_folder(carpeta_entrada)
     pdfs = find_pdfs(entrada)
     if not pdfs:
@@ -39,6 +48,7 @@ def crear_tarea(carpeta_entrada: str, carpeta_salida: str, extractor: str, segme
         extractor=extractor,
         segmentar=segmentar,
         modelo_embeddings=modelo_embeddings,
+        modelo_llm=modelo_llm,
     )
 
 
@@ -111,3 +121,16 @@ def finalizar(tarea: Tarea) -> None:
         EstadoTarea.COMPLETADA if progreso.completados == progreso.total else EstadoTarea.COMPLETADA_CON_ERRORES
     )
     tarea.finalizada = datetime.now().isoformat(timespec="seconds")
+
+
+def generar_reporte(tarea: Tarea) -> list[str]:
+    """Reporte consolidado (Excel + JSON) con las HC completadas. Devuelve las rutas escritas."""
+    indicadores = {
+        Path(doc.archivo).stem: doc.indicador
+        for doc in sorted(tarea.documentos.values(), key=lambda d: d.archivo)
+        if doc.estado == EstadoDocumento.COMPLETADO and doc.indicador
+    }
+    if not indicadores:
+        return []
+    config = cargar_indicador(CONFIG_DIR / "indicador.yaml")
+    return [str(r) for r in escribir_reporte(indicadores, config, Path(tarea.carpeta_salida))]

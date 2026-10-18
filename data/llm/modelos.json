@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "gpt4o-mini",
+    "tipo": "openai_compatible",
+    "modelo": "gpt-4o-mini",
+    "base_url": null,
+    "api_key_env": "OPENAI_API_KEY",
+    "timeout_s": 60.0
+  },
+  {
+    "nombre": "deepseek",
+    "tipo": "openai_compatible",
+    "modelo": "deepseek-chat",
+    "base_url": "https://api.deepseek.com",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "timeout_s": 60.0
+  },
+  {
+    "nombre": "falla",
+    "tipo": "openai_compatible",
+    "modelo": "cualquiera",
+    "base_url": "http://127.0.0.1:9/v1",
+    "api_key_env": null,
+    "timeout_s": 3.0
+  }
+]

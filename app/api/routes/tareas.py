@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException, status
 
-from app.schemas.tareas import CrearTareaRequest, TareaAccion, TareaCreada, TareaRespuesta
+from app.schemas.tareas import CrearTareaRequest, ResumenTareaActiva, TareaAccion, TareaCreada, TareaRespuesta
 from app.service.tarea_service import TareaEnEjecucion, TareaNoEncontrada, TareaNoEnEjecucion, TareaService
 
 router = APIRouter(prefix="/tareas", tags=["tareas"])
@@ -12,7 +12,8 @@ async def crear_tarea(body: CrearTareaRequest) -> TareaCreada:
     """Crea la tarea y la lanza en segundo plano. Devuelve el id para consultar su progreso."""
     try:
         tarea_id = await service.crear(
-            body.carpeta_entrada, body.carpeta_salida, body.extractor, body.segmentar, body.modelo_embeddings
+            body.carpeta_entrada, body.carpeta_salida, body.extractor, body.segmentar, body.modelo_embeddings,
+            body.modelo_llm,
         )
     except ValueError as exc:
         raise HTTPException(status_code=400, detail=str(exc)) from exc
@@ -23,6 +24,12 @@ async def crear_tarea(body: CrearTareaRequest) -> TareaCreada:
 async def tareas_pendientes() -> list[str]:
     """Tareas no completadas (interrumpidas o con errores) que se pueden reanudar."""
     return await service.pendientes()
+
+
+@router.get("/en-ejecucion", response_model=list[ResumenTareaActiva])
+async def tareas_en_ejecucion() -> list[ResumenTareaActiva]:
+    """Tareas que se están ejecutando ahora, con su progreso y la etapa de cada documento en curso."""
+    return await service.en_ejecucion()
 
 
 @router.get("/{tarea_id}", response_model=TareaRespuesta)

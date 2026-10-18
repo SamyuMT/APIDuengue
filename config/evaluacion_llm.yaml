@@ -1,0 +1,47 @@
+# ======================================================================
+# Evaluación de adherencia con LLM (etapa evaluar_llm del pipeline)
+#
+# - Por cada ítem del archivo de prompts se inserta el texto filtrado de su
+#   grupo_evaluacion en {contenido} y se consulta al LLM.
+# - Modelos: el principal se envía al crear la tarea; si falla, se usan los
+#   demás modelos vinculados (GET /v1/llm/modelos) en orden.
+# - Los cambios aplican en la siguiente tarea, sin reiniciar el servidor.
+# ======================================================================
+
+version: 1
+archivo_prompts: prompts/gpc_v2.yaml   # Relativo a config/
+
+generacion:
+  temperatura: 0      # Respuestas lo más deterministas posible
+  max_tokens: 5       # El notebook usaba 2 y "PARCIAL" llegaba cortado como "PARC"
+
+# Reintentos DENTRO de un mismo modelo (errores transitorios: 429, timeouts)
+reintentos:
+  intentos: 2
+  espera_min_s: 1
+  espera_max_s: 10
+
+# Circuit breaker POR modelo: tras N fallos seguidos (ya con reintentos) se deja
+# de usar ese modelo durante segundos_abierto y se pasa al siguiente de la lista.
+circuit_breaker:
+  fallos_para_abrir: 3
+  segundos_abierto: 60
+
+# Comprobación de la respuesta (pipeline/llm/validador.py)
+# 1. Se normaliza: mayúsculas, sin tildes, sin comillas ni puntuación.
+# 2. Si la respuesta COMPLETA es una opción o uno de sus alias, es válida
+#    ("Sí." sí; "No estoy seguro" no: se pide corrección).
+# 3. Si no, se le pide al modelo que corrija (mensaje_correccion), hasta `reintentos` veces.
+# 4. Si sigue sin ser válida, se asigna `por_defecto` y el ítem queda marcado (valida: false).
+validacion:
+  opciones: [SI, "NO", PARCIAL]
+  alias:
+    SI: [SI, S]
+    "NO": ["NO", N]        # "NO" entre comillas: en YAML sin comillas sería el booleano false
+    PARCIAL: [PARCIAL, PARC, PARCIALMENTE, PARCIA, PAR]
+  reintentos: 2
+  por_defecto: "NO"
+  mensaje_correccion: |-
+    Tu respuesta anterior fue: "{respuesta}". No es válida.
+    Responde únicamente con una de estas opciones exactas: {opciones}.
+    No agregues explicaciones ni ningún otro texto.
