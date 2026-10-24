@@ -1,0 +1,817 @@
+{
+  "total_hc": 2,
+  "general": {
+    "evaluacion_general": 2.62,
+    "diagnostico": 2.67,
+    "manejo_ambulatorio": 1.8,
+    "manejo_hospitalario": 2.33,
+    "manejo_uci": 1.83,
+    "manejo": 1.99,
+    "total": 2.42
+  },
+  "niveles_general": {
+    "evaluacion_general": "BAJO",
+    "diagnostico": "BAJO",
+    "manejo_ambulatorio": "BAJO",
+    "manejo_hospitalario": "BAJO",
+    "manejo_uci": "BAJO",
+    "manejo": "BAJO",
+    "total": "BAJO"
+  },
+  "por_hc": {
+    "EjemploHCDCSA": {
+      "items": {
+        "item1": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item2": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item3": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item4": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item5": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item6": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item7": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item8": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item9": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item10": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item11": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item12": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item13": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item14": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": null,
+          "excluido": "no_califica"
+        },
+        "item15": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item16": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item17": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": null,
+          "excluido": "anulado_por_item14"
+        },
+        "item18": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": null,
+          "excluido": "anulado_por_item14"
+        },
+        "item19": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item20": {
+          "modulo": "diagnostico",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item21": {
+          "modulo": "diagnostico",
+          "respuesta": "SI",
+          "codigo": 1,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item22": {
+          "modulo": "diagnostico",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item23": {
+          "modulo": "diagnostico",
+          "respuesta": "SI",
+          "codigo": 1,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item24": {
+          "modulo": "diagnostico",
+          "respuesta": "SI",
+          "codigo": 1,
+          "puntaje": null,
+          "excluido": "no_califica"
+        },
+        "item25": {
+          "modulo": "diagnostico",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": null,
+          "excluido": "no_califica"
+        },
+        "item26": {
+          "modulo": "diagnostico",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item27": {
+          "modulo": "diagnostico",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item31": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item32": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item33": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item34": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item35": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item36": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item37": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item38": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item39": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item40": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item41": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item42": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item43": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item44": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item45": {
+          "modulo": "manejo_uci",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item46": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item47": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item48": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item49": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item50": {
+          "modulo": "manejo_uci",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item51": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item52": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item53": {
+          "modulo": "manejo_uci",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item54": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item55": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item56": {
+          "modulo": "manejo_uci",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        }
+      },
+      "modulos": {
+        "evaluacion_general": 3.5,
+        "diagnostico": 2.33,
+        "manejo_ambulatorio": 2.6,
+        "manejo_hospitalario": 2.78,
+        "manejo_uci": 2.33
+      },
+      "indicadores": {
+        "evaluacion_general": 3.5,
+        "diagnostico": 2.33,
+        "manejo": 2.57,
+        "total": 2.8
+      },
+      "niveles": {
+        "evaluacion_general": "MEDIO",
+        "diagnostico": "BAJO",
+        "manejo_ambulatorio": "BAJO",
+        "manejo_hospitalario": "BAJO",
+        "manejo_uci": "BAJO",
+        "manejo": "BAJO",
+        "total": "BAJO"
+      }
+    },
+    "HistoriaPruebaDengueHUV": {
+      "items": {
+        "item1": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item2": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item3": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item4": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item5": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item6": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item7": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item8": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item9": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item10": {
+          "modulo": "evaluacion_general",
+          "respuesta": "SI",
+          "codigo": 1,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item11": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item12": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item13": {
+          "modulo": "evaluacion_general",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item14": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": null,
+          "excluido": "no_califica"
+        },
+        "item15": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item16": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item17": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": null,
+          "excluido": "anulado_por_item14"
+        },
+        "item18": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": null,
+          "excluido": "anulado_por_item14"
+        },
+        "item19": {
+          "modulo": "evaluacion_general",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item20": {
+          "modulo": "diagnostico",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item21": {
+          "modulo": "diagnostico",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item22": {
+          "modulo": "diagnostico",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item23": {
+          "modulo": "diagnostico",
+          "respuesta": "SI",
+          "codigo": 1,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item24": {
+          "modulo": "diagnostico",
+          "respuesta": "SI",
+          "codigo": 1,
+          "puntaje": null,
+          "excluido": "no_califica"
+        },
+        "item25": {
+          "modulo": "diagnostico",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": null,
+          "excluido": "no_califica"
+        },
+        "item26": {
+          "modulo": "diagnostico",
+          "respuesta": "SI",
+          "codigo": 1,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item27": {
+          "modulo": "diagnostico",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item31": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item32": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item33": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item34": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item35": {
+          "modulo": "manejo_ambulatorio",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item36": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item37": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item38": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item39": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item40": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item41": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item42": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item43": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item44": {
+          "modulo": "manejo_hospitalario",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item45": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item46": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item47": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item48": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item49": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item50": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item51": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item52": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item53": {
+          "modulo": "manejo_uci",
+          "respuesta": "PARCIAL",
+          "codigo": 2,
+          "puntaje": 5.0,
+          "excluido": null
+        },
+        "item54": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item55": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        },
+        "item56": {
+          "modulo": "manejo_uci",
+          "respuesta": "NO",
+          "codigo": 0,
+          "puntaje": 1.0,
+          "excluido": null
+        }
+      },
+      "modulos": {
+        "evaluacion_general": 1.75,
+        "diagnostico": 3.0,
+        "manejo_ambulatorio": 1.0,
+        "manejo_hospitalario": 1.89,
+        "manejo_uci": 1.33
+      },
+      "indicadores": {
+        "evaluacion_general": 1.75,
+        "diagnostico": 3.0,
+        "manejo": 1.41,
+        "total": 2.05
+      },
+      "niveles": {
+        "evaluacion_general": "BAJO",
+        "diagnostico": "MEDIO",
+        "manejo_ambulatorio": "BAJO",
+        "manejo_hospitalario": "BAJO",
+        "manejo_uci": "BAJO",
+        "manejo": "BAJO",
+        "total": "BAJO"
+      }
+    }
+  }
+}
